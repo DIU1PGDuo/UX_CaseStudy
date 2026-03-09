@@ -18,31 +18,17 @@ Actualizado: 14/01/2026
 ![Método UX](img/caseStudy.png) 
 -----
 
->>> Este documento es el esqueleto del Case Study que explica el proceso de desarrollo de las 5 prácticas de DIU. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este tipo de texto / comentarios desde la práctica 1 conforme proceda a cada paso
-
-
->>> Hay que Publicar de forma incremental "my Case Study" en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
->>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
-
 Grupo: DIUx_AABB.  Curso: 2025/26 
 
-Nombre del Proyecto: 
+Nombre del Proyecto: PENDIENTE PRÁCTICA 2
 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+Descripción: PENDIENTE PRÁCTICA 2
 
-Descripción: 
-
->>> Describa la idea de su producto en la práctica 2 
-
-Logotipo: 
-
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
+Logotipo: PENDIENTE PRÁCTICA 3
 
 Miembros y nombre del equipo:
- * :bust_in_silhouette:  AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
-
->>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
+ * :bust_in_silhouette:  Pablo Anel Rancaño         :octocat: [pabloanelrancano](https://github.com/pabloanelrancano)
+ * :bust_in_silhouette:  Germán Morcillo Gimenez    :octocat: [morcillojimenezg@gmail.com](https://github.com/)
 
 ----- 
 
