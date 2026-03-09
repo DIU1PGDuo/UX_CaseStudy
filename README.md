@@ -49,7 +49,7 @@ Miembros y nombre del equipo:
 ![Plan de Investigación](img/ResearchPlan.png)
 -----
 
->>> Para investigar la web del restaurante AnimeRamen, hemos centrado nuestro plan en evaluar tres aspectos clave: la facilidad para consultar la carta en móviles, la claridad de la ubicación de los locales y lo intuitivo que es el proceso de reserva.
+Para investigar la web del restaurante AnimeRamen, hemos centrado nuestro plan en evaluar tres aspectos clave: la facilidad para consultar la carta en móviles, la claridad de la ubicación de los locales y lo intuitivo que es el proceso de reserva.
 
 Nuestro público objetivo (participantes) se divide en jóvenes (18-25 años) atraídos por la estética anime para ir con amigos, y parejas (25-35 años) interesadas en la oferta gastronómica. Se utilizarán métodos como la Revisión Heurística y el Análisis Competitivo.  
 
