@@ -9,7 +9,7 @@ Prácticas Diseño Interfaces de Usuario (Tema: .... )
 
 
 
-Actualizado: 14/01/2026
+Actualizado: 09/03/2026
 
 
 
@@ -44,8 +44,6 @@ Miembros y nombre del equipo:
 
 ## Paso 1. UX User & Desk Research & Analisis 
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 
 ### 1.a User Reseach Plan
 ![Plan de Investigación](img/ResearchPlan.png)
@@ -57,10 +55,12 @@ Nuestro público objetivo (participantes) se divide en jóvenes (18-25 años) at
 
 
 ### 1.b Competitive Analysis
-![Método UX](img/Competitive.png) 
+![Método UX](img/Competitive Analysis.png) 
 -----
 
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
+Para el análisis competitivo del grupo **DIU1** se seleccionó como caso principal la web de **Anime Ramen**, ya que encaja directamente con la temática asignada y combina una identidad visual muy marcada con tareas digitales claras, como consultar la carta, iniciar un pedido, localizar el restaurante o acceder a la reserva.
+
+Como referencia competitiva se comparó Anime Ramen con **Ramen Kagura** y **Ramen Komainu**, dos restaurantes de ramen con presencia en Madrid que permiten contrastar enfoques distintos. Ramen Kagura destaca por una web más clara y estructurada, con una propuesta más tradicional y confiable, mientras que Ramen Komainu cuenta con una imagen más artesanal y auténtic. Frente a ellos, Anime Ramen sobresale por su diferenciación visual y experiencial, pero también presenta una interfaz más densa y una jerarquía visual menos limpia.
 
 
 ### 1.c Personas
