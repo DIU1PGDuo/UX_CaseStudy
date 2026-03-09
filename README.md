@@ -18,7 +18,7 @@ Actualizado: 14/01/2026
 ![Método UX](img/caseStudy.png) 
 -----
 
-Grupo: DIUx_AABB.  Curso: 2025/26 
+Grupo: DIU1.PGduo.  Curso: 2025/26 
 
 Nombre del Proyecto: PENDIENTE PRÁCTICA 2
 
