@@ -55,7 +55,7 @@ Nuestro público objetivo (participantes) se divide en jóvenes (18-25 años) at
 
 
 ### 1.b Competitive Analysis
-![Método UX](img/Competitive Analysis.png) 
+![Método UX](img/Competitive_Analysis.png) 
 -----
 
 Para el análisis competitivo del grupo **DIU1** se seleccionó como caso principal la web de **Anime Ramen**, ya que encaja directamente con la temática asignada y combina una identidad visual muy marcada con tareas digitales claras, como consultar la carta, iniciar un pedido, localizar el restaurante o acceder a la reserva.
