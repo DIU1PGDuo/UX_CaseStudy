@@ -48,10 +48,12 @@ Miembros y nombre del equipo:
 
 
 ### 1.a User Reseach Plan
-![Método UX](img/Competitive.png) 
+![Plan de Investigación](img/ResearchPlan.png)
 -----
 
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
+>>> Para investigar la web del restaurante AnimeRamen, hemos centrado nuestro plan en evaluar tres aspectos clave: la facilidad para consultar la carta en móviles, la claridad de la ubicación de los locales y lo intuitivo que es el proceso de reserva.
+
+Nuestro público objetivo (participantes) se divide en jóvenes (18-25 años) atraídos por la estética anime para ir con amigos, y parejas (25-35 años) interesadas en la oferta gastronómica. Se utilizarán métodos como la Revisión Heurística y el Análisis Competitivo.  
 
 
 ### 1.b Competitive Analysis
