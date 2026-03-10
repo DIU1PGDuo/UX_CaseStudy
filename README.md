@@ -64,12 +64,12 @@ Como referencia competitiva se comparó Anime Ramen con **Ramen Kagura** y **Ram
 
 
 ### 1.c Personas
-![Ficha de Mateo](img/Persona #1.png) 
+![Ficha de Mateo](img/Persona-mateo.png) 
 -----
 
 **1. Mateo Ruiz (Estudiante y fan del anime):** Representa al público joven. Busca una experiencia inmersiva y visual para compartir con amigos. Al tener un presupuesto ajustado, su prioridad es encontrar la carta con los precios de forma rápida, pero se frustra si la web es lenta o caótica.
 
-![Ficha de Laura](img/Persona #2.png) 
+![Ficha de Laura](img/Persona-Laura.png) 
 -----
 **2. Laura Gómez (Profesional pragmática):** Representa a un público más adulto y ocupado. Valora su tiempo y la calidad de la comida. Necesita que la interfaz sea limpia, que la información sobre alérgenos/opciones vegetarianas sea clara y que el proceso de reserva online sea impecable y rápido.
 
