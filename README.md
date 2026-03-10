@@ -64,10 +64,14 @@ Como referencia competitiva se comparó Anime Ramen con **Ramen Kagura** y **Ram
 
 
 ### 1.c Personas
-![Método UX](img/Persona.png) 
+![Ficha de Mateo](img/Persona #1.png) 
 -----
 
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
+**1. Mateo Ruiz (Estudiante y fan del anime):** Representa al público joven. Busca una experiencia inmersiva y visual para compartir con amigos. Al tener un presupuesto ajustado, su prioridad es encontrar la carta con los precios de forma rápida, pero se frustra si la web es lenta o caótica.
+
+![Ficha de Laura](img/Persona #2.png) 
+-----
+**2. Laura Gómez (Profesional pragmática):** Representa a un público más adulto y ocupado. Valora su tiempo y la calidad de la comida. Necesita que la interfaz sea limpia, que la información sobre alérgenos/opciones vegetarianas sea clara y que el proceso de reserva online sea impecable y rápido.
 
 
 ### 1.d User Journey Map
