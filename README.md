@@ -75,10 +75,17 @@ Como referencia competitiva se comparó Anime Ramen con **Ramen Kagura** y **Ram
 
 
 ### 1.d User Journey Map
-![Método UX](img/JourneyMap.png) 
+![Método UX](img/User_Journey_1.png) 
 ----
 
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
+El primer **User Journey Map** es de **Mateo Santos**, un estudiante joven, y fan del anime que accede a la web desde el móvil tras recibir una recomendación de sus amigos para cenar el viernes. Su objetivo principal es comprobar rápidamente si **Anime Ramen** le convence como plan de grupo, valorando tres elementos clave, una estética atractiva, una carta con precios visibles y una acción final clara para reservar o decidir si merece la pena.
+
+El recorrido representa, descubrir un restaurante por recomendación, analizar si encaja con los gustos del grupo, revisar carta y precios, y si realizar o no una posible reserva. El mapa muestra que la web funciona como elemento de atracción inicial, pero también muestra varios aspectos negativos en momentos clave del proceso. En especial, se observa que la densidad visual de algunas secciones, la jerarquía de la información y la falta de claridad en la acción principal pueden generar dudas justo cuando el usuario quiere tomar una decisión rápida.
+
+A nivel emocional, la experiencia comienza con curiosidad e interés, se mantiene positiva mientras la parte visual acompaña la exploración, pero desciende cuando Mateo necesita consultar la carta con rapidez. Aun así, la impresión final sigue siendo buena porque el sitio transmite una personalidad diferenciada y coherente con la temática.
+
+**Conclusión:** confirma que Anime Ramen destaca por su capacidad para llamar la atención y generar interés, pero necesita mejorar la claridad visual, el escaneo de la carta y la jerarquía de acciones para acompañar mejor la toma de decisiones del usuario.
+
 
 
 ### 1.e Usability Review
