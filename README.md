@@ -75,7 +75,7 @@ Como referencia competitiva se comparó Anime Ramen con **Ramen Kagura** y **Ram
 
 
 ### 1.d User Journey Map
-![Método UX](img/User_Journey_1.png) 
+![Método UX](img/User_Journey_Map_1.png) 
 ----
 
 El primer **User Journey Map** es de **Mateo Santos**, un estudiante joven, y fan del anime que accede a la web desde el móvil tras recibir una recomendación de sus amigos para cenar el viernes. Su objetivo principal es comprobar rápidamente si **Anime Ramen** le convence como plan de grupo, valorando tres elementos clave, una estética atractiva, una carta con precios visibles y una acción final clara para reservar o decidir si merece la pena.
@@ -85,6 +85,11 @@ El recorrido representa, descubrir un restaurante por recomendación, analizar s
 A nivel emocional, la experiencia comienza con curiosidad e interés, se mantiene positiva mientras la parte visual acompaña la exploración, pero desciende cuando Mateo necesita consultar la carta con rapidez. Aun así, la impresión final sigue siendo buena porque el sitio transmite una personalidad diferenciada y coherente con la temática.
 
 **Conclusión:** confirma que Anime Ramen destaca por su capacidad para llamar la atención y generar interés, pero necesita mejorar la claridad visual, el escaneo de la carta y la jerarquía de acciones para acompañar mejor la toma de decisiones del usuario.
+
+![Método UX](img/User_Journey_Map_2.png) 
+----
+
+El segundo recorrido, asociado a **Laura Gómez**, representa a una usuaria orientada a la eficiencia. Su objetivo es comprobar rápidamente si el restaurante encaja con su plan, revisar la carta y realizar una reserva sin perder tiempo. Este journey muestra que, para perfiles menos emocionales, el equilibrio entre la experiencia y la información útil resulta clave, pues la web transmite personalidad, pero todavía puede mejorar en claridad, escaneo de contenidos y visibilidad de la acción de reserva.
 
 
 
