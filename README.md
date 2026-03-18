@@ -28,7 +28,7 @@ Logotipo: PENDIENTE PRÁCTICA 3
 
 Miembros y nombre del equipo:
  * :bust_in_silhouette:  Pablo Anel Rancaño         :octocat: [pabloanelrancano](https://github.com/pabloanelrancano)
- * :bust_in_silhouette:  Germán Morcillo Gimenez    :octocat: [morcillojimenezg@gmail.com](https://github.com/)
+ * :bust_in_silhouette:  Germán Morcillo Jimenez    :octocat: [morcillojimenezg@gmail.com](https://github.com/)
 
 ----- 
 
@@ -81,7 +81,7 @@ Como referencia competitiva se comparó Anime Ramen con **Ramen Kagura** y **Ram
 
 El primer **User Journey Map** se basa en **Mateo Santos**, un usuario joven y fan del anime que entra en la web desde el móvil tras una recomendación de sus amigos. Su objetivo es comprobar rápidamente si **Anime Ramen** le convence como plan de grupo, fijándose sobre todo en la estética del sitio, la carta con precios visibles y la posibilidad de reservar o decidir con rapidez.
 
-El recorrido muestra una situación habitual: descubrir un restaurante, revisar si encaja con el plan, consultar carta y precios y valorar una posible reserva. La web funciona bien como elemento de atracción inicial, pero aparecen cuestiones no tan agradables para el usuario como cuando, este necesita consultar información práctica de forma rápida. En especial, la densidad visual, la jerarquía de la información y la falta de claridad en algunas acciones dificultan la toma de decisiones.
+El recorrido muestra una situación habitual: descubrir un restaurante, revisar si encaja con el plan, consultar carta y precios y valorar una posible reserva. La web funciona bien como elemento de atracción inicial, pero aparecen ocasiones que pueden no ser tan agradables para el usuario como cuando, este necesita consultar información práctica de forma rápida. En especial, la densidad visual, la jerarquía de la información y la falta de claridad en algunas acciones dificultan la toma de decisiones.
 
 **Conclusión:** Anime Ramen destaca por su identidad visual y capacidad de atraer, pero necesita mejorar la claridad de la carta y la visibilidad de las acciones principales.
 
