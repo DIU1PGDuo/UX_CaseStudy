@@ -67,7 +67,7 @@ Como referencia competitiva se comparó Anime Ramen con **Ramen Kagura** y **Ram
 ![Ficha de Mateo](img/Persona-mateo.png) 
 -----
 
-**1. Mateo Ruiz (Estudiante y fan del anime):** Representa al público joven. Busca una experiencia inmersiva y visual para compartir con amigos. Al tener un presupuesto ajustado, su prioridad es encontrar la carta con los precios de forma rápida, pero se frustra si la web es lenta o caótica.
+**1. Mateo Santos (Estudiante y fan del anime):** Representa al público joven. Busca una experiencia inmersiva y visual para compartir con amigos. Al tener un presupuesto ajustado, su prioridad es encontrar la carta con los precios de forma rápida, pero se frustra si la web es lenta o caótica.
 
 ![Ficha de Laura](img/Persona-Laura.png) 
 -----
