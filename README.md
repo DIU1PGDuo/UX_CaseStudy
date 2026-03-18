@@ -100,10 +100,13 @@ Este mapa refleja una situación muy frecuente en webs de restauración: entrar 
 ![Método UX](img/usabilityReview.png) 
 ----
 
->>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (xls/pdf) 
->>> - URL y Valoración numérica obtenida: 
->>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
+La revisión de usabilidad de **Anime Ramen** se realizó mediante la checklist propuesta, teniendo en cuenta también las necesidades detectadas en las personas y en los journey maps. El resultado global obtenido fue de **58/100**, con una valoración **Moderate**.
+
+La evaluación muestra como punto fuerte principal la identidad visual del sitio, ya que desde el inicio se entiende bien el concepto de restaurante temático. Sin embargo, también aparecen debilidades importantes: exceso de carga visual, jerarquía mejorable, dificultades para escanear rápidamente la carta y una reserva que podría ser más clara y directa.
+
+>>> - **Evidencia de la revisión:** [Usability Review PDF](P1/Usability-review-template-Anime-Ramen.pdf) 
+>>> - **Valoración numérica obtenida**: 58/100
+>>> - **Conclusión:** Anime Ramen destaca por su personalidad y capacidad de atraer, pero necesita mejorar en claridad, legibilidad y orientación a la tarea.  
 
 <br>
 
