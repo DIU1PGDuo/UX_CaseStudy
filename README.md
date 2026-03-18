@@ -1,5 +1,5 @@
 # DIU26
-Prácticas Diseño Interfaces de Usuario 
+Prácticas Diseño Interfaces de Usuario  (Tema: Gastronomía)
 
 * [Guiones de prácticas](GuionesPracticas/)
 * [Guía para crea tu Case Study](Guia_CaseStudy.md)
