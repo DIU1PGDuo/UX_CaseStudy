@@ -1,5 +1,5 @@
 # DIU26
-Prácticas Diseño Interfaces de Usuario (Tema: .... ) 
+Prácticas Diseño Interfaces de Usuario 
 
 * [Guiones de prácticas](GuionesPracticas/)
 * [Guía para crea tu Case Study](Guia_CaseStudy.md)
@@ -9,7 +9,7 @@ Prácticas Diseño Interfaces de Usuario (Tema: .... )
 
 
 
-Actualizado: 09/03/2026
+Actualizado: 18/03/2026
 
 
 
@@ -20,11 +20,11 @@ Actualizado: 09/03/2026
 
 Grupo: DIU1.PGduo.  Curso: 2025/26 
 
-Nombre del Proyecto: PENDIENTE PRÁCTICA 2
+Nombre del Proyecto: PRÁCTICA 2
 
-Descripción: PENDIENTE PRÁCTICA 2
+Descripción: PRÁCTICA 2
 
-Logotipo: PENDIENTE PRÁCTICA 3
+Logotipo: PRÁCTICA 3
 
 Miembros y nombre del equipo:
  * :bust_in_silhouette:  Pablo Anel Rancaño         :octocat: [pabloanelrancano](https://github.com/pabloanelrancano)
