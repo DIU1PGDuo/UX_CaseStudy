@@ -70,11 +70,15 @@ Esta comparativa permitió justificar la elección de Anime Ramen como caso prin
 ![Ficha de Mateo](img/Persona-mateo.png) 
 -----
 
-**1. Mateo Santos (Estudiante y fan del anime):** Representa al público joven. Busca una experiencia inmersiva y visual para compartir con amigos. Al tener un presupuesto ajustado, su prioridad es encontrar la carta con los precios de forma rápida, pero se frustra si la web es lenta o caótica.
+
+**1. Mateo Santos (Estudiante y fan del anime):** representa un público joven atraído por la estética anime y por una experiencia social y visual para compartir con amigos. Usa principalmente el móvil, quiere comprobar rápido si el sitio le llama la atención, revisar la carta con precios visibles y decidir si merece la pena reservar. Al tener un presupuesto ajustado, se frustra cuando la web resulta lenta, cargada o poco clara.
+
 
 ![Ficha de Laura](img/Persona-Laura.png) 
 -----
-**2. Laura Gómez (Profesional pragmática):** Representa a un público más adulto y ocupado. Valora su tiempo y la calidad de la comida. Necesita que la interfaz sea limpia, que la información sobre alérgenos/opciones vegetarianas sea clara y que el proceso de reserva online sea impecable y rápido.
+
+
+**2. Laura Gómez (Profesional pragmática):** representa un público más adulto, organizado y que prefiere la eficiencia. Valora su tiempo, la calidad de la comida y la claridad de la información, por lo que necesita una interfaz limpia, una carta fácil de consultar y datos útiles sobre ingredientes u opciones relevantes. Para este perfil, la reserva online debe ser rápida, fiable y sin complicaciones.
 
 
 ### 1.d User Journey Map
