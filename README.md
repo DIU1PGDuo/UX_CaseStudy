@@ -50,7 +50,7 @@ Miembros y nombre del equipo:
 ![Plan de Investigación](img/ResearchPlan.png)
 -----
 
-Para investigar la web del restaurante **Anime Ramen**, nos hemos centrado en tres aspectos clave: la facilidad para consultar la carta, la claridad de la información sobre ubicación y contacto, y lo intuitivo que resulta el proceso de reserva. Partimos de la hipótesis de que el fuerte peso de la estética anime y de los elementos visuales puede dificultar tareas básicas como consultar precios, revisar la carta o avanzar hacia la reserva, especialmente en móvil.
+Para investigar la web del restaurante **Anime Ramen**, nos hemos centrado en tres aspectos: la facilidad para consultar la carta, la claridad sobre ubicación y contacto, y lo intuitivo que resulta el proceso de reserva. En un primer lugar, somos conscientes de que, el fuerte peso de la estética anime y de los elementos visuales, pueden dificultar tareas básicas como consultar precios, revisar la carta o avanzar hacia la reserva, especialmente en móvil.
 
 Como referencia de usuarios, se consideraron perfiles jóvenes atraídos por la temática visual y perfiles más interesados en la oferta gastronómica y en la rapidez del proceso. El plan sirvió como base para el análisis competitivo, la definición de personas, los journey maps y la revisión heurística posterior.
 
@@ -59,7 +59,7 @@ Como referencia de usuarios, se consideraron perfiles jóvenes atraídos por la 
 ![Método UX](img/Competitive_Analysis.png) 
 -----
 
-Para el análisis competitivo, nuestro grupo seleccionó como caso principal la web de Anime Ramen, ya que encaja directamente con la temática asignada y ofrece una propuesta muy reconocible, además de permitir realizar acciones importantes para el usuario, como consultar la carta, localizar el restaurante o acceder a la reserva.
+Para el análisis competitivo, nuestro grupo seleccionó como caso principal la web de **Anime Ramen**, ya que encaja directamente con la temática asignada y ofrece una propuesta muy reconocible, además de permitir realizar acciones importantes para el usuario, como consultar la carta, localizar el restaurante o acceder a la reserva.
 
 Como referencia se comparó **Anime Ramen** con **Ramen Kagura** y **Ramen Komainu**, dos restaurantes de ramen que permiten contrastar enfoques distintos. Ramen Kagura destaca por una web más clara y estructurada, con una propuesta más tradicional y confiable, mientras que Ramen Komainu presenta una imagen más artesanal y auténtica. Frente a ellos, Anime Ramen sobresale por su carácter más llamativo, aunque también presenta una interfaz más densa y una jerarquía visual menos limpia.
 
