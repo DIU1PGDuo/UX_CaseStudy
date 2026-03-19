@@ -1,5 +1,5 @@
 # DIU26
-Prácticas Diseño Interfaces de Usuario  (Tema: Gastronomía)
+Prácticas Diseño Interfaces de Usuario  (Tema: Gastronomía / Sabores con encanto - DIU1 Anime Ramen)
 
 * [Guiones de prácticas](GuionesPracticas/)
 * [Guía para crea tu Case Study](Guia_CaseStudy.md)
@@ -20,15 +20,16 @@ Actualizado: 18/03/2026
 
 Grupo: DIU1.PGduo.  Curso: 2025/26 
 
-Nombre del Proyecto: PRÁCTICA 2
+Nombre del Proyecto: Pendiente de definición en la Práctica 2
 
-Descripción: PRÁCTICA 2
+Descripción: Pendiente de definición en la Práctica 2
 
-Logotipo: PRÁCTICA 3
+Logotipo: Pendiente de definición en la Práctica 3
+
 
 Miembros y nombre del equipo:
  * :bust_in_silhouette:  Pablo Anel Rancaño         :octocat: [pabloanelrancano](https://github.com/pabloanelrancano)
- * :bust_in_silhouette:  Germán Morcillo Jimenez    :octocat: [morcillojimenezg@gmail.com](https://github.com/germanmorcillo)
+ * :bust_in_silhouette:  Germán Morcillo Jimenez    :octocat: [germanmorcillo](https://github.com/germanmorcillo)
 
 ----- 
 
