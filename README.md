@@ -9,7 +9,7 @@ Prácticas Diseño Interfaces de Usuario  (Tema: Gastronomía / Sabores con enca
 
 
 
-Actualizado: 18/03/2026
+Actualizado: 19/03/2026
 
 
 
@@ -114,6 +114,15 @@ La evaluación muestra, como principal fortaleza, la identidad visual del sitio,
 **Evidencia de la revisión:** [Usability Review PDF](P1/Usability-review-template-Anime-Ramen.pdf)  
 **Valoración numérica obtenida:** 58/100  
 **Conclusión:** Anime Ramen destaca por su personalidad y capacidad de atraer, pero necesita mejorar en claridad, legibilidad y orientación a la tarea.
+
+
+### 1.f Briefing
+
+La práctica se ha centrado en el análisis UX y de usabilidad de la web de **Anime Ramen**, seleccionada como caso principal por combinar una propuesta visual muy diferenciada, con tareas relevantes, como consultar la carta, localizar información útil o acceder a la reserva. A partir del research plan, el análisis competitivo, las personas y los journey maps, se ha observado que la web destaca especialmente por su capacidad para transmitir una identidad de marca reconocible y atractiva, alineada con una experiencia temática coherente.
+
+Sin embargo, la revisión de usabilidad también ha permitido detectar debilidades. Las principales se relacionan con la densidad visual de algunas secciones, la jerarquía, la legibilidad y la dificultad para acceder con rapidez a contenidos clave como la carta, los precios o la acción de reserva. Esto afecta de forma distinta según el perfil de usuario, es decir, que mientras que los usuarios más emocionales toleran mejor la carga visual, otros perfiles encuentran más complicaciones en la orientación a la tarea.
+
+En conjunto, Anime Ramen funciona bien como propuesta de atracción y marca, pero necesita una experiencia más clara, directa y equilibrada para mejorar su eficacia en las tareas principales.
 
 
 <br>
