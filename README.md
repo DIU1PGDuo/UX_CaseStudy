@@ -50,9 +50,9 @@ Miembros y nombre del equipo:
 ![Plan de Investigación](img/ResearchPlan.png)
 -----
 
-Para investigar la web del restaurante AnimeRamen, hemos centrado nuestro plan en evaluar tres aspectos clave: la facilidad para consultar la carta en móviles, la claridad de la ubicación de los locales y lo intuitivo que es el proceso de reserva.
+Para investigar la web del restaurante **Anime Ramen**, nos hemos centrado en tres aspectos clave: la facilidad para consultar la carta, la claridad de la información sobre ubicación y contacto, y lo intuitivo que resulta el proceso de reserva. Partimos de la hipótesis de que el fuerte peso de la estética anime y de los elementos visuales puede dificultar tareas básicas como consultar precios, revisar la carta o avanzar hacia la reserva, especialmente en móvil.
 
-Nuestro público objetivo (participantes) se divide en jóvenes (18-25 años) atraídos por la estética anime para ir con amigos, y parejas (25-35 años) interesadas en la oferta gastronómica. Se utilizarán métodos como la Revisión Heurística y el Análisis Competitivo.  
+Como referencia de usuarios, se consideraron perfiles jóvenes atraídos por la temática visual y perfiles más interesados en la oferta gastronómica y en la rapidez del proceso. El plan sirvió como base para el análisis competitivo, la definición de personas, los journey maps y la revisión heurística posterior.
 
 
 ### 1.b Competitive Analysis
