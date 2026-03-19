@@ -28,7 +28,7 @@ Logotipo: PRÁCTICA 3
 
 Miembros y nombre del equipo:
  * :bust_in_silhouette:  Pablo Anel Rancaño         :octocat: [pabloanelrancano](https://github.com/pabloanelrancano)
- * :bust_in_silhouette:  Germán Morcillo Jimenez    :octocat: [morcillojimenezg@gmail.com](https://github.com/)
+ * :bust_in_silhouette:  Germán Morcillo Jimenez    :octocat: [morcillojimenezg@gmail.com](https://github.com/germanmorcillo)
 
 ----- 
 
