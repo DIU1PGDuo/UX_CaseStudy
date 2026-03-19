@@ -86,18 +86,18 @@ Esta comparativa permitió justificar la elección de Anime Ramen como caso prin
 ![Mapa de experiencia de usuario 1](img/User_Journey_Map_1.png) 
 ----
 
-El primer **User Journey Map** se basa en **Mateo Santos**, un usuario joven y fan del anime que entra en la web desde el móvil tras una recomendación de sus amigos. Su objetivo es comprobar rápidamente si **Anime Ramen** le convence como plan de grupo, fijándose sobre todo en la estética del sitio, la carta con precios visibles y la posibilidad de reservar o decidir con rapidez.
+El primer **User Journey Map** se basa en **Mateo Santos**, el usuario joven y fan del anime que, entra en la web desde el móvil tras una recomendación de sus amigos. Su objetivo es comprobar rápidamente si **Anime Ramen** le convence, fijándose sobre todo en la estética del sitio, la carta con precios visibles (y asquibles) y la posibilidad de reservar o decidir con rapidez.
 
-El recorrido muestra una situación habitual: descubrir un restaurante, revisar si encaja con el plan, consultar carta y precios y valorar una posible reserva. La web funciona bien como elemento de atracción inicial, pero aparecen ocasiones que pueden no ser tan agradables para el usuario como cuando, este necesita consultar información práctica de forma rápida. En especial, la densidad visual, la jerarquía de la información y la falta de claridad en algunas acciones dificultan la toma de decisiones.
+El recorrido muestra una situación habitual, la cual es, descubrir un restaurante, revisar si encaja con el plan, consultar carta y precios y valorar una posible reserva. La web funciona bien como elemento de atracción inicial, pero aparecen fricciones cuando el usuario necesita consultar información práctica de forma rápida. En especial, la densidad visual, la jerarquía de la información y la falta de claridad en algunas acciones dificultan la toma de decisiones.
 
-**Conclusión:** Anime Ramen destaca por su identidad visual y capacidad de atraer, pero necesita mejorar la claridad de la carta y la visibilidad de las acciones principales.
+**Conclusión:** Anime Ramen destaca por su identidad visual y capacidad de atraer, pero necesita mejorar la claridad de la carta.
 
 ![Mapa de experiencia de usuario 2](img/User_Journey_Map_2.png) 
 ----
 
-El segundo **User Journey Map** se construye a partir de **Laura Gómez**, una usuaria más pragmática y orientada a la eficiencia. Su objetivo es revisar la carta con rapidez, encontrar información útil y completar una reserva sin perder tiempo. En este caso, el recorrido se centra menos en la parte emocional y más en la claridad, la utilidad y la confianza que transmite la interfaz.
+El segundo **User Journey Map** es de **Laura Gómez**, una usuaria más orientada a la eficiencia. Su objetivo es revisar la carta con rapidez, encontrar información útil y completar una reserva sin perder tiempo. En este caso, el recorrido se centra menos en la parte emocional y más en la claridad, la utilidad y la confianza que transmite la interfaz.
 
-Este mapa refleja una situación muy frecuente en webs de restauración: entrar con una intención concreta, comprobar si la oferta encaja y completar una acción práctica. La web transmite personalidad, pero para este perfil todavía puede mejorar en legibilidad, escaneo de contenidos y visibilidad de la reserva.
+Este mapa refleja también una situación muy frecuente en webs de restauración, entrar con una intención concreta, comprobar si la oferta encaja y completar una acción. La web transmite personalidad, pero para este perfil todavía puede mejorar en legibilidad, contenidos y visibilidad de la reserva.
 
 **Conclusión:** para usuarios más funcionales, Anime Ramen necesita una experiencia más clara, directa y orientada a la tarea.
 
