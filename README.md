@@ -59,9 +59,11 @@ Como referencia de usuarios, se consideraron perfiles jóvenes atraídos por la 
 ![Método UX](img/Competitive_Analysis.png) 
 -----
 
-Para el análisis competitivo del grupo **DIU1** se seleccionó como caso principal la web de **Anime Ramen**, ya que encaja directamente con la temática asignada y combina una identidad visual muy marcada con tareas digitales claras, como consultar la carta, iniciar un pedido, localizar el restaurante o acceder a la reserva.
+Para el análisis competitivo, nuestro grupo seleccionó como caso principal la web de Anime Ramen, ya que encaja directamente con la temática asignada y ofrece una propuesta muy reconocible, además de permitir realizar acciones importantes para el usuario, como consultar la carta, localizar el restaurante o acceder a la reserva.
 
-Como referencia competitiva se comparó Anime Ramen con **Ramen Kagura** y **Ramen Komainu**, dos restaurantes de ramen con presencia en Madrid que permiten contrastar enfoques distintos. Ramen Kagura destaca por una web más clara y estructurada, con una propuesta más tradicional y confiable, mientras que Ramen Komainu cuenta con una imagen más artesanal y auténtic. Frente a ellos, Anime Ramen sobresale por su diferenciación visual y experiencial, pero también presenta una interfaz más densa y una jerarquía visual menos limpia.
+Como referencia se comparó **Anime Ramen** con **Ramen Kagura** y **Ramen Komainu**, dos restaurantes de ramen que permiten contrastar enfoques distintos. Ramen Kagura destaca por una web más clara y estructurada, con una propuesta más tradicional y confiable, mientras que Ramen Komainu presenta una imagen más artesanal y auténtica. Frente a ellos, Anime Ramen sobresale por su carácter más llamativo, aunque también presenta una interfaz más densa y una jerarquía visual menos limpia.
+
+Esta comparativa permitió justificar la elección de Anime Ramen como caso principal y detectar oportunidades de mejora relacionadas con la claridad de la información, la experiencia de navegación y la orientación a las acciones principales del sitio.
 
 
 ### 1.c Personas
