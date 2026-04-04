@@ -163,8 +163,6 @@ Nuestra hipótesis es que, creando la web de **"Sabores con Encanto"** con una i
 
 >>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
 
-
-### 2.c IA: Sitemap + Labelling 
 ### 2.c IA: Sitemap + Labelling 
 
 Para estructurar la información de "Sabores con Encanto", hemos optado por una navegación plana y directa, priorizando el acceso rápido a la carta y a las reservas desde cualquier punto de la web.
