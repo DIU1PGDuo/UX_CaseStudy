@@ -165,14 +165,32 @@ Nuestra hipótesis es que, creando la web de **"Sabores con Encanto"** con una i
 
 
 ### 2.c IA: Sitemap + Labelling 
-![Método UX](img/labelling.png) 
-----
+### 2.c IA: Sitemap + Labelling 
 
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
+Para estructurar la información de "Sabores con Encanto", hemos optado por una navegación plana y directa, priorizando el acceso rápido a la carta y a las reservas desde cualquier punto de la web.
 
-Término | Significado     
-| ------------- | -------
-  Login  | acceder a plataforma
+**Sitemap (Mapa del sitio):**
+- Inicio (Home)
+  - La Carta (Menú digital)
+    - Filtros: Vegano, Sin Gluten, etc.
+  - Reservas
+    - Formulario exprés
+    - Confirmación
+  - Sobre Nosotros (Nuestra historia)
+  - Contacto y Ubicación
+
+**Labelling (Etiquetado):**
+Hemos seleccionado términos claros, evitando tecnicismos o palabras confusas en japonés (como pasaba en Anime Ramen), para que cualquier usuario sepa exactamente qué va a encontrar.
+
+| Término / Etiqueta | Significado / Acción | Icono propuesto |
+| :--- | :--- | :--- |
+| **Inicio** | Volver a la página principal | Icono de casa / Logo del local |
+| **Ver Carta** | Acceder al menú interactivo | Icono de un bol de ramen / cubiertos |
+| **Reservar Mesa** | Iniciar el formulario de reserva | Icono de calendario con un reloj |
+| **Filtro: Vegano** | Mostrar solo platos sin carne/lácteos | Icono de una hoja verde |
+| **Filtro: Sin Gluten** | Mostrar platos aptos para celíacos | Icono de espiga tachada |
+| **Ubicación** | Ver mapa y dirección del local | Icono de un pin de mapa (Location) |
+| **Confirmar Reserva** | Enviar los datos del formulario | Botón destacado / Icono de check (✓) |
 
 
 ### 2.d Wireframes
