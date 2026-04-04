@@ -198,8 +198,7 @@ Para esta sección hemos optado por un diseño "Mobile First", priorizando la ra
 **1. Boceto en Papel**
 Primero plasmamos la idea principal en papel para estructurar la información de la Home y la Carta con los filtros de alérgenos:
 
-![Bocetos en papel](boceto_papel.jpg)
-<br>
+![Boceto en papel](img/boceto_papel.jpg)<br>
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
