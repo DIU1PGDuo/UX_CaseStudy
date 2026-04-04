@@ -193,8 +193,12 @@ Hemos seleccionado términos claros, evitando tecnicismos o palabras confusas en
 ![Método UX](img/Wireframes.png) 
 -----
 
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
+Para esta sección hemos optado por un diseño "Mobile First", priorizando la rapidez y claridad que nos exigía nuestro usuario objetivo.
 
+**1. Boceto en Papel**
+Primero plasmamos la idea principal en papel para estructurar la información de la Home y la Carta con los filtros de alérgenos:
+
+![Bocetos en papel](boceto_papel.jpg)
 <br>
 
 ## Paso 3. Mi UX-Case Study (diseño)
