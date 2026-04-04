@@ -135,8 +135,6 @@ En conjunto, Anime Ramen funciona bien como propuesta de atracción y marca, per
 ![Método UX](img/feedback-capture-grid.png) 
 ----
 
-### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map
-
 | Interesante (Aspectos Positivos) | Críticas Constructivas |
 | :--- | :--- |
 | **Identidad visual:** La temática inmersiva y el diseño funcionan muy bien para captar la atención del público joven (Mateo).<br><br>**Conexión social:** La integración con redes sociales (Instagram/TikTok) es un punto fuerte de marketing. | **Rendimiento pésimo:** Exceso de carga visual que bloquea móviles y hace la web lentísima.<br><br>**Fricción grave:** Obligar a descargar un PDF pesado para ver la carta frustra la experiencia principal.<br><br>**Exclusión:** Falta total de información sobre alérgenos y dietas, dejando fuera a usuarios como Laura. |
