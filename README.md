@@ -129,24 +129,24 @@ En conjunto, Anime Ramen funciona bien como propuesta de atracción y marca, per
 
 ## Paso 2. UX Design  
 
-### 2.a Reframing / IDEACION: Feedback Capture Grid 
+### 2.a Reframing / Ideación: Feedback Capture Grid
 ![Método UX](img/feedback-capture-grid.png) 
 ----
 
-| Interesante (Aspectos Positivos) | Críticas Constructivas |
+| Interesante (Aspectos positivos) | Críticas constructivas |
 | :--- | :--- |
-| 
-**Identidad visual**: La temática inmersiva y el estilo del sitio ayudan a captar la atención y a transmitir una experiencia diferenciada.
-**Atractivo para el público joven**: La propuesta conecta especialmente bien con usuarios como Mateo, que valoran la estética y el componente social del restaurante. 
-| 
-**Rendimiento pésimo:** Exceso de carga visual que bloquea móviles y hace la web lentísima.<br><br>**Fricción grave:** Obligar a descargar un PDF pesado para ver la carta frustra la experiencia principal.<br><br>**Exclusión:** Falta total de información sobre alérgenos y dietas, dejando fuera a usuarios como Laura. |
+| **Identidad visual:** la temática y el estilo del sitio ayudan a captar la atención y a transmitir una experiencia diferenciada.<br><br>**Atractivo para el público joven:** la propuesta conecta especialmente bien con usuarios como Mateo, que valoran la estética y el componente social del restaurante. | **Carga visual elevada:** el exceso de elementos dificulta el acceso rápido a la información, sobre todo en móvil.<br><br>**Experiencia fragmentada:** la consulta de la carta no se integra del todo con la navegación principal, lo que rompe la continuidad de la experiencia.<br><br>**Información insuficiente:** la falta de claridad sobre opciones alimentarias y detalles relevantes complica la experiencia de perfiles como Laura. |
 | **Preguntas de los usuarios** | **Nuevas ideas (Propuestas)** |
-| *Mateo:* "¿Cuánto cuestan los platos? Mi móvil no carga este PDF gigante."<br><br>*Laura:* "¿Tienen ramen vegetariano? ¿Puedo reservar mesa en 1 minuto sin dar todos mis datos personales?" | **Menú Web Interactivo:** Carta integrada en la web, muy ligera y con sistema de filtros (Precio, Vegetariano, Sin Gluten).<br><br>**Reserva Exprés:** Formulario de 3 pasos (Día/Hora, Personas, Contacto) con confirmación inmediata.<br><br>**Iconografía:** Etiquetas visuales clarísimas para alérgenos en cada plato. |
+| *Mateo:* “¿Puedo decidir rápido si merece la pena ir?”<br><br>*Laura:* “¿Hay opciones vegetarianas? ¿Puedo reservar mesa sin perder tiempo?” | **Carta integrada en la experiencia:** Menú accesible desde la propia web, sin romper la navegación principal.<br><br>**Filtros útiles:** Posibilidad de filtrar por vegetariano, sin gluten u otras preferencias relevantes.<br><br>**Reserva exprés:** Proceso breve y claro, centrado en los datos justos para completar la acción. |
 
-**Problema e hipótesis:**
-Hemos detectado que las webs de restaurantes temáticos de nuestra competencia priorizan tanto el diseño visual que sacrifican drásticamente la usabilidad, haciendo que tareas básicas como ver el menú o reservar sean lentas y frustrantes en el móvil, además de excluir a personas con restricciones alimentarias. 
+**Problema detectado:**  
+A partir del análisis realizado en la Práctica 1, observamos que webs como Anime Ramen consiguen atraer por su propuesta visual y temática, pero no siempre acompañan bien al usuario en tareas clave como consultar la carta, que esta esté integrada, encontrar información útil o completar una reserva, especialmente desde el móvil.
 
-Nuestra hipótesis es que, creando la web de **"Sabores con Encanto"** con una interfaz centrada en la claridad, una carta digital interactiva con filtros de alérgenos y un proceso de reserva exprés, reduciremos el abandono de la página y aumentaremos las reservas online, demostrando que un diseño bonito no tiene por qué estar reñido con una buena experiencia de usuario.
+**Hipótesis de diseño:**  
+Diseñamos una propuesta que mantenga el atractivo visual del restaurante, pero priorice la claridad de la información, una carta mejor integrada en la navegación y un proceso de reserva más directo, podremos mejorar la experiencia de uso y facilitar que más usuarios completen las acciones principales del sitio.
+
+
+
 
 ### 2.b ScopeCanvas
 ![Método UX](img/ScopeCanvas.png)
