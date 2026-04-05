@@ -135,7 +135,11 @@ En conjunto, Anime Ramen funciona bien como propuesta de atracción y marca, per
 
 | Interesante (Aspectos Positivos) | Críticas Constructivas |
 | :--- | :--- |
-| **Identidad visual:** La temática inmersiva y el diseño funcionan muy bien para captar la atención del público joven (Mateo).<br><br>**Conexión social:** La integración con redes sociales (Instagram/TikTok) es un punto fuerte de marketing. | **Rendimiento pésimo:** Exceso de carga visual que bloquea móviles y hace la web lentísima.<br><br>**Fricción grave:** Obligar a descargar un PDF pesado para ver la carta frustra la experiencia principal.<br><br>**Exclusión:** Falta total de información sobre alérgenos y dietas, dejando fuera a usuarios como Laura. |
+| 
+**Identidad visual**: La temática inmersiva y el estilo del sitio ayudan a captar la atención y a transmitir una experiencia diferenciada.
+**Atractivo para el público joven**: La propuesta conecta especialmente bien con usuarios como Mateo, que valoran la estética y el componente social del restaurante. 
+| 
+**Rendimiento pésimo:** Exceso de carga visual que bloquea móviles y hace la web lentísima.<br><br>**Fricción grave:** Obligar a descargar un PDF pesado para ver la carta frustra la experiencia principal.<br><br>**Exclusión:** Falta total de información sobre alérgenos y dietas, dejando fuera a usuarios como Laura. |
 | **Preguntas de los usuarios** | **Nuevas ideas (Propuestas)** |
 | *Mateo:* "¿Cuánto cuestan los platos? Mi móvil no carga este PDF gigante."<br><br>*Laura:* "¿Tienen ramen vegetariano? ¿Puedo reservar mesa en 1 minuto sin dar todos mis datos personales?" | **Menú Web Interactivo:** Carta integrada en la web, muy ligera y con sistema de filtros (Precio, Vegetariano, Sin Gluten).<br><br>**Reserva Exprés:** Formulario de 3 pasos (Día/Hora, Personas, Contacto) con confirmación inmediata.<br><br>**Iconografía:** Etiquetas visuales clarísimas para alérgenos en cada plato. |
 
