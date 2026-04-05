@@ -129,7 +129,7 @@ En conjunto, Anime Ramen funciona bien como propuesta de atracción y marca, per
 
 ## Paso 2. UX Design  
 
-### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
+### 2.a Reframing / IDEACION: Feedback Capture Grid 
 ![Método UX](img/feedback-capture-grid.png) 
 ----
 
