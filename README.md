@@ -20,9 +20,9 @@ Actualizado: 19/03/2026
 
 Grupo: DIU1.PGduo.  Curso: 2025/26 
 
-Nombre del Proyecto: Pendiente de definición en la Práctica 2
+Nombre del Proyecto: RamenFlow - Anime Ramen Redesign
 
-Descripción: Pendiente de definición en la Práctica 2
+Descripción: Propuesta de rediseño web para un restaurante temático de ramen, de forma que mantenga la personalidad de la marca, pero mejorando la consulta de la carta, la visibilidad de la información útil y la reserva online.
 
 Logotipo: Pendiente de definición en la Práctica 3
 
