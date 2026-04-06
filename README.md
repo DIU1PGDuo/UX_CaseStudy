@@ -152,8 +152,11 @@ Diseñamos una propuesta que mantenga el atractivo visual del restaurante, pero 
 ![Método UX](img/ScopeCanvas.png)
 ----
 
->>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
->>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
+En el **Scope Canvas** definimos la propuesta de valor del rediseño a partir de lo observado en la práctica anterior. La propuesta se centra en mantener el atractivo visual y temático de Anime Ramen, pero corrigiendo los principales puntos débiles detectadas en la P1, como lo eran una consulta poco fluida de la carta, falta de claridad en información útil y una reserva mejorable.
+
+A nivel de necesidades, se identificaron como prioridades una carta más accesible, una reserva más visible y una experiencia clara tanto en móvil como en escritorio. El propósito del proyecto es ofrecer una web temática, pero mejor orientada a cada tarea, útil para perfiles distintos como Mateo y Laura. Por todo ello, nuestra propuesta se apoya en tres ejes principales, una carta digital integrada, filtros útiles según preferencias y un proceso de reserva exprés.
+
+El canvas también ayuda a concretar objetivos, acciones y métricas, sirviendo como base para el user flow o la arquitectura de la información.
 
 
 
