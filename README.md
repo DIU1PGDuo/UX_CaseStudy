@@ -169,7 +169,7 @@ El primer flujo se centra en la carta, permitiendo al usuario revisar categoría
 
 **Documento completo:** [User Flow 1 PDF](P2/UserFlowTaskAnalysis_ConsultarCartayAvanzaraunaAccion.pdf)
 
-![User Flow 2](img/P2/UserFlowTaskAnalysis_AvanzarReserva.png)
+![User Flow 2](img/UserFlowTaskAnalysis_AvanzarReserva.png)
 ----
 
 El segundo flujo se centra en la reserva y corrige uno de los problemas observados en el sitio actual: la existencia de locales o caminos de reserva que no siempre permiten completar la acción online con claridad. Por ello, la propuesta plantea una selección más clara de locales, mejor visibilidad de la disponibilidad y un proceso más directo hasta la confirmación final.
