@@ -160,14 +160,14 @@ El canvas también nos ayudó a concretar objetivos, acciones y métricas, sirvi
 
 
 ### 2.c User Flow (task) analysis
-![User Flow 1](img/User Flow Task Analysis - Consultar Carta y Avanzar a una Acción.png)
+![User Flow 1](img/UserFlowTaskAnalysis_ConsultarCartayAvanzaraunaAccion.png)
 ----
 
 Para el análisis de tareas se definieron dos recorridos principales dentro de la propuesta: consultar la carta y avanzar hacia una acción, y completar una reserva de mesa. Estos flujos nos ayudaron a ordenar mejor la experiencia y a identificar qué pasos debían ser más visibles, más directos y menos confusos que en la web actual.
 
 El primer flujo se centra en la carta, permitiendo al usuario revisar categorías, aplicar filtros según sus preferencias, ver información útil de cada plato y decidir si quiere seguir explorando, añadir productos al carrito o pasar a la reserva. Con ello se responde a una de las principales necesidades detectadas en la P1: consultar la carta de forma más clara, integrada y útil.
 
-**Documento completo:** [User Flow 1 PDF](P2/User Flow Task Analysis - Consultar Carta y Avanzar a una Acción.pdf)
+**Documento completo:** [User Flow 1 PDF](P2/UserFlowTaskAnalysis_ConsultarCartayAvanzaraunaAccion.pdf)
 
 ![User Flow 2](img/P2/UserFlowTaskAnalysis_AvanzarReserva.png)
 ----
