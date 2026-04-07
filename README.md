@@ -130,7 +130,6 @@ En conjunto, Anime Ramen funciona bien como propuesta de atracción y marca, per
 ## Paso 2. UX Design  
 
 ### 2.a Reframing / Ideación: Feedback Capture Grid
-![Método UX](img/feedback-capture-grid.png) 
 ----
 
 | Interesante (Aspectos positivos) | Críticas constructivas |
@@ -180,7 +179,6 @@ Ambos flujos sirvieron para definir mejor la estructura de la propuesta antes de
 
 
 ### 2.d IA: Sitemap + Labelling
-![Sitemap](img/SiteMap.png)
 ----
 
 Para organizar bien la navegación de la propuesta y facilitar la comprensión de los contenidos, trabajamos la arquitectura de la información desde dos enfoques: el **sitemap** y el **labelling**.
@@ -211,7 +209,6 @@ Gracias a este trabajo previo, la propuesta cuenta con una base sólida para el 
 
 
 ### 2.e Wireframes
-![Método UX](img/Wireframes.png) 
 -----
 
 Como parte del proceso de diseño centrado en el usuario, comenzamos a desarrollar wireframes en baja fidelidad para explorar la estructura de las pantallas principales de la propuesta. El objetivo de estos primeros bocetos fue organizar contenidos, definir la jerarquía visual y comprobar que las tareas más importantes del sitio quedaran resueltas de forma clara.
