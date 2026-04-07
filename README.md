@@ -223,9 +223,6 @@ Primero plasmamos la idea principal en papel para estructurar la información de
 
 ![Boceto en papel](img/boceto_papel.jpg)
 
-![Boceto en papel](img/boceto_papel.jpg)<br>
-
-
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
