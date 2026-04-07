@@ -179,6 +179,7 @@ Ambos flujos sirvieron para definir mejor la estructura de la propuesta antes de
 
 
 ### 2.d IA: Sitemap + Labelling
+![Sitemap](img/SiteMap.png)
 ----
 
 Para organizar bien la navegación de la propuesta y facilitar la comprensión de los contenidos, trabajamos la arquitectura de la información desde dos enfoques: el **sitemap** y el **labelling**.
