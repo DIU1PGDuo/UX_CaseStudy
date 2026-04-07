@@ -135,7 +135,7 @@ En conjunto, Anime Ramen funciona bien como propuesta de atracción y marca, per
 
 | Interesante (Aspectos positivos) | Críticas constructivas |
 | :--- | :--- |
-| **Identidad visual:** la temática y el estilo del sitio ayudan a captar la atención y a transmitir una experiencia diferenciada.<br><br>**Atractivo para el público joven:** la propuesta conecta especialmente bien con usuarios como Mateo, que valoran la estética y el componente social del restaurante. | **Carga visual elevada:** el exceso de elementos dificulta el acceso rápido a la información, sobre todo en móvil.<br><br>**Experiencia fragmentada:** la consulta de la carta no se integra del todo con la navegación principal, lo que rompe la continuidad de la experiencia.<br><br>**Información insuficiente:** la falta de claridad sobre opciones alimentarias y detalles relevantes complica la experiencia de perfiles como Laura. |
+| **Identidad visual:** la temática y el estilo del sitio ayudan a captar la atención y a transmitir una experiencia diferenciada.<br><br>**Atractivo para el público joven:** la propuesta conecta especialmente bien con usuarios como Mateo, que valoran la estética y el componente social del restaurante. | **Carga visual elevada:** el exceso de elementos dificulta el acceso rápido a la información, sobre todo en móvil.<br><br>**Experiencia fragmentada:** la consulta de la carta no se integra del todo con la navegación principal, lo que rompe la continuidad de la experiencia.<br><br>**Información poco explotable**: aunque existen referencias a alérgenos y datos básicos, la carta no permite explorar de forma flexible preferencias alimentarias ni filtrar con comodidad. |
 | **Preguntas de los usuarios** | **Nuevas ideas (Propuestas)** |
 | *Mateo:* “¿Puedo decidir rápido si merece la pena ir?”<br><br>*Laura:* “¿Hay opciones vegetarianas? ¿Puedo reservar mesa sin perder tiempo?” | **Carta integrada en la experiencia:** Menú accesible desde la propia web, sin romper la navegación principal.<br><br>**Filtros útiles:** Posibilidad de filtrar por vegetariano, sin gluten u otras preferencias relevantes.<br><br>**Reserva exprés:** Proceso breve y claro, centrado en los datos justos para completar la acción. |
 
@@ -143,20 +143,18 @@ En conjunto, Anime Ramen funciona bien como propuesta de atracción y marca, per
 A partir del análisis realizado en la Práctica 1, observamos que webs como Anime Ramen consiguen atraer por su propuesta visual y temática, pero no siempre acompañan bien al usuario en tareas clave como consultar la carta, que esta esté integrada, encontrar información útil o completar una reserva, especialmente desde el móvil.
 
 **Hipótesis de diseño:**  
-Diseñamos una propuesta que mantenga el atractivo visual del restaurante, pero priorice la claridad de la información, una carta mejor integrada en la navegación y un proceso de reserva más directo, podremos mejorar la experiencia de uso y facilitar que más usuarios completen las acciones principales del sitio.
-
-
+Si diseñamos una propuesta que mantenga el atractivo visual del restaurante, pero priorice la claridad de la información, una carta mejor integrada en la navegación y un proceso de reserva más directo, mejorará la experiencia de uso y será más fácil completar las acciones principales del sitio.
 
 
 ### 2.b ScopeCanvas
 ![Método UX](img/ScopeCanvas.png)
 ----
 
-En el **Scope Canvas** definimos la propuesta de valor del rediseño a partir de lo observado en la práctica anterior. La propuesta se centra en mantener el atractivo visual y temático de Anime Ramen, pero corrigiendo los principales puntos débiles detectadas en la P1, como lo eran una consulta poco fluida de la carta, falta de claridad en información útil y una reserva mejorable.
+En el **Scope Canvas** definimos la propuesta de valor a partir de lo observado en la práctica anterior. La propuesta se centra en mantener el atractivo visual de Anime Ramen, pero corrigiendo los principales puntos débiles detectados en la P1, es decir, una consulta poco fluida de la carta, falta de claridad en la información útil y una reserva mejorable.
 
-A nivel de necesidades, se identificaron como prioridades una carta más accesible, una reserva más visible y una experiencia clara tanto en móvil como en escritorio. El propósito del proyecto es ofrecer una web temática, pero mejor orientada a cada tarea, útil para perfiles distintos como Mateo y Laura. Por todo ello, nuestra propuesta se apoya en tres ejes principales, una carta digital integrada, filtros útiles según preferencias y un proceso de reserva exprés.
+A nivel de necesidades, se identificaron como prioridades una carta más accesible, una reserva más visible y una experiencia clara tanto en móvil como en escritorio. El propósito del proyecto es ofrecer una web temática, pero mejor orientada a la tarea y más útil para perfiles distintos como Mateo y Laura. Por ello, la propuesta se basa en tres mejoras principales, una carta digital integrada, filtros útiles según preferencias y un proceso de reserva exprés.
 
-El canvas también ayuda a concretar objetivos, acciones y métricas, sirviendo como base para el user flow o la arquitectura de la información.
+El canvas también nos ayudó a concretar objetivos, acciones y métricas, sirviendo como base para el user flow y la arquitectura de la información.
 
 
 
