@@ -147,7 +147,7 @@ Si diseñamos una propuesta que mantenga el atractivo visual del restaurante, pe
 
 
 ### 2.b ScopeCanvas
-![Scope Canvas](img/Scope Canvas - AnimeFLow - Anime Ramen Redesign.png)
+![Scope Canvas](img/ScopeCanvas_AnimeFLow_AnimeRamenRedesign.png)
 ----
 
 En el **Scope Canvas** definimos la propuesta de valor a partir de lo observado en la práctica anterior. La propuesta se centra en mantener el atractivo visual de Anime Ramen, pero corrigiendo los principales puntos débiles detectados en la P1: una consulta poco fluida de la carta, falta de claridad en la información útil y una reserva mejorable.
@@ -156,7 +156,7 @@ A nivel de necesidades, se identificaron como prioridades una carta más accesib
 
 El canvas también nos ayudó a concretar objetivos, acciones y métricas, sirviendo como base para el user flow y la arquitectura de la información.
 
-**Documento completo:** [Scope Canvas PDF](P2/Scope Canvas - AnimeFlow - Anime Ramen Redesign.pdf)
+**Documento completo:** [Scope Canvas PDF](P2/ScopeCanvas_AnimeFLow_AnimeRamenRedesign.pdf)
 
 
 ### 2.c User Flow (task) analysis
