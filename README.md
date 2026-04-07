@@ -169,14 +169,14 @@ El primer flujo se centra en la carta, permitiendo al usuario revisar categoría
 
 **Documento completo:** [User Flow 1 PDF](P2/User Flow Task Analysis - Consultar Carta y Avanzar a una Acción.pdf)
 
-![User Flow 2](img/User Flow Task Analysis - Avanzar Reserva.png)
+![User Flow 2](img/P2/UserFlowTaskAnalysis_AvanzarReserva.png)
 ----
 
 El segundo flujo se centra en la reserva y corrige uno de los problemas observados en el sitio actual: la existencia de locales o caminos de reserva que no siempre permiten completar la acción online con claridad. Por ello, la propuesta plantea una selección más clara de locales, mejor visibilidad de la disponibilidad y un proceso más directo hasta la confirmación final.
 
 Ambos flujos sirvieron para definir mejor la estructura de la propuesta antes de pasar a la arquitectura de la información y al diseño de wireframes.
 
-**Documento completo:** [User Flow 2 PDF](P2/User Flow Task Analysis - Avanzar Reserva.pdf)
+**Documento completo:** [User Flow 2 PDF](P2/UserFlowTaskAnalysis_AvanzarReserva.pdf)
 
 
 ### 2.d IA: Sitemap + Labelling
