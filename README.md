@@ -147,61 +147,88 @@ Si diseñamos una propuesta que mantenga el atractivo visual del restaurante, pe
 
 
 ### 2.b ScopeCanvas
-![Método UX](img/ScopeCanvas.png)
+![Scope Canvas](img/Scope Canvas - AnimeFlow - Anime Ramen Redesign.png)
 ----
 
-En el **Scope Canvas** definimos la propuesta de valor a partir de lo observado en la práctica anterior. La propuesta se centra en mantener el atractivo visual de Anime Ramen, pero corrigiendo los principales puntos débiles detectados en la P1, es decir, una consulta poco fluida de la carta, falta de claridad en la información útil y una reserva mejorable.
+En el **Scope Canvas** definimos la propuesta de valor a partir de lo observado en la práctica anterior. La propuesta se centra en mantener el atractivo visual de Anime Ramen, pero corrigiendo los principales puntos débiles detectados en la P1: una consulta poco fluida de la carta, falta de claridad en la información útil y una reserva mejorable.
 
-A nivel de necesidades, se identificaron como prioridades una carta más accesible, una reserva más visible y una experiencia clara tanto en móvil como en escritorio. El propósito del proyecto es ofrecer una web temática, pero mejor orientada a la tarea y más útil para perfiles distintos como Mateo y Laura. Por ello, la propuesta se basa en tres mejoras principales, una carta digital integrada, filtros útiles según preferencias y un proceso de reserva exprés.
+A nivel de necesidades, se identificaron como prioridades una carta más accesible, una reserva más visible y una experiencia clara tanto en móvil como en escritorio. El propósito del proyecto es ofrecer una web temática, pero mejor orientada a la tarea y más útil para perfiles distintos como Mateo y Laura. Por ello, la propuesta se basa en tres mejoras principales: una carta digital integrada, filtros útiles según preferencias y un proceso de reserva exprés.
 
 El canvas también nos ayudó a concretar objetivos, acciones y métricas, sirviendo como base para el user flow y la arquitectura de la información.
 
+**Documento completo:** [Scope Canvas PDF](P2/Scope Canvas - AnimeFlow - Anime Ramen Redesign.pdf)
 
 
-### 2.b User Flow (task) analysis 
-![Método UX](img/Sitemap.png) 
------
+### 2.c User Flow (task) analysis
+![User Flow 1](img/User Flow Task Analysis - Consultar Carta y Avanzar a una Acción.png)
+----
 
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
+Para el análisis de tareas se definieron dos recorridos principales dentro de la propuesta: consultar la carta y avanzar hacia una acción, y completar una reserva de mesa. Estos flujos nos ayudaron a ordenar mejor la experiencia y a identificar qué pasos debían ser más visibles, más directos y menos confusos que en la web actual.
 
-### 2.c IA: Sitemap + Labelling 
+El primer flujo se centra en la carta, permitiendo al usuario revisar categorías, aplicar filtros según sus preferencias, ver información útil de cada plato y decidir si quiere seguir explorando, añadir productos al carrito o pasar a la reserva. Con ello se responde a una de las principales necesidades detectadas en la P1: consultar la carta de forma más clara, integrada y útil.
 
-Para estructurar la información de "Sabores con Encanto", hemos optado por una navegación plana y directa, priorizando el acceso rápido a la carta y a las reservas desde cualquier punto de la web.
+**Documento completo:** [User Flow 1 PDF](P2/User Flow Task Analysis - Consultar Carta y Avanzar a una Acción.pdf)
 
-**Sitemap (Mapa del sitio):**
-- Inicio (Home)
-  - La Carta (Menú digital)
-    - Filtros: Vegano, Sin Gluten, etc.
-  - Reservas
-    - Formulario exprés
-    - Confirmación
-  - Sobre Nosotros (Nuestra historia)
-  - Contacto y Ubicación
+![User Flow 2](img/User Flow Task Analysis - Avanzar Reserva.png)
+----
 
-**Labelling (Etiquetado):**
-Hemos seleccionado términos claros, evitando tecnicismos o palabras confusas en japonés (como pasaba en Anime Ramen), para que cualquier usuario sepa exactamente qué va a encontrar.
+El segundo flujo se centra en la reserva y corrige uno de los problemas observados en el sitio actual: la existencia de locales o caminos de reserva que no siempre permiten completar la acción online con claridad. Por ello, la propuesta plantea una selección más clara de locales, mejor visibilidad de la disponibilidad y un proceso más directo hasta la confirmación final.
+
+Ambos flujos sirvieron para definir mejor la estructura de la propuesta antes de pasar a la arquitectura de la información y al diseño de wireframes.
+
+**Documento completo:** [User Flow 2 PDF](P2/User Flow Task Analysis - Avanzar Reserva.pdf)
+
+
+### 2.d IA: Sitemap + Labelling
+![Sitemap](img/SiteMap.png)
+----
+
+Para organizar bien la navegación de la propuesta y facilitar la comprensión de los contenidos, trabajamos la arquitectura de la información desde dos enfoques: el **sitemap** y el **labelling**.
+
+#### Sitemap
+
+El sitemap nos permitió definir de forma visual la estructura principal de la web y la relación entre sus apartados. En nuestro caso, se planteó una arquitectura sencilla, centrada en las tareas más importantes para el usuario: consultar la carta, reservar mesa y localizar el restaurante. Esto ayudó a evitar una navegación recargada y a priorizar un acceso rápido a los contenidos clave.
+
+La estructura principal se organiza en torno a cinco apartados: **Home**, **Carta**, **Reservas**, **Sobre nosotros** y **Ubicación y contacto**, además de un **pie de página** con enlaces útiles y redes sociales.
+
+**Documento completo:** [Sitemap PDF](P2/SiteMap.pdf)
+
+#### Labelling
+
+El labelling se centró en elegir nombres claros, directos y fáciles de entender para cada sección y acción principal de la web. Se evitaron términos ambiguos o demasiado temáticos en la navegación principal, priorizando etiquetas como **Carta**, **Reservar mesa**, **Sobre nosotros**, **Ubicación** o **Contacto**, para que cualquier usuario entienda rápidamente qué puede hacer en cada apartado.
 
 | Término / Etiqueta | Significado / Acción | Icono propuesto |
 | :--- | :--- | :--- |
-| **Inicio** | Volver a la página principal | Icono de casa / Logo del local |
-| **Ver Carta** | Acceder al menú interactivo | Icono de un bol de ramen / cubiertos |
-| **Reservar Mesa** | Iniciar el formulario de reserva | Icono de calendario con un reloj |
-| **Filtro: Vegano** | Mostrar solo platos sin carne/lácteos | Icono de una hoja verde |
-| **Filtro: Sin Gluten** | Mostrar platos aptos para celíacos | Icono de espiga tachada |
-| **Ubicación** | Ver mapa y dirección del local | Icono de un pin de mapa (Location) |
-| **Confirmar Reserva** | Enviar los datos del formulario | Botón destacado / Icono de check (✓) |
+| **Inicio** | Volver a la página principal | Casa / logo del local |
+| **Carta** | Acceder al menú digital | Bol de ramen / cubiertos |
+| **Reservar mesa** | Iniciar el proceso de reserva | Calendario / reloj |
+| **Vegetariano** | Filtrar platos aptos | Hoja |
+| **Sin gluten** | Filtrar platos aptos | Espiga tachada |
+| **Ubicación** | Ver dirección y mapa | Pin de mapa |
+| **Confirmar reserva** | Finalizar el proceso | Check |
+
+Gracias a este trabajo previo, la propuesta cuenta con una base sólida para el diseño de menús, botones y rutas de navegación más intuitivas.
 
 
-### 2.d Wireframes
+### 2.e Wireframes
 ![Método UX](img/Wireframes.png) 
 -----
 
-Para esta sección hemos optado por un diseño "Mobile First", priorizando la rapidez y claridad que nos exigía nuestro usuario objetivo.
+Como parte del proceso de diseño centrado en el usuario, comenzamos a desarrollar wireframes en baja fidelidad para explorar la estructura de las pantallas principales de la propuesta. El objetivo de estos primeros bocetos fue organizar contenidos, definir la jerarquía visual y comprobar que las tareas más importantes del sitio quedaran resueltas de forma clara.
 
-**1. Boceto en Papel**
-Primero plasmamos la idea principal en papel para estructurar la información de la Home y la Carta con los filtros de alérgenos:
+En esta fase inicial se trabajó primero con bocetos rápidos para plantear la estructura general de la **home**, la **carta digital** y la **reserva**. A partir de ahí, la siguiente iteración consistirá en trasladar estas ideas a wireframes más claros en Figma, manteniendo una jerarquía visual limpia, una navegación sencilla y una mejor orientación a las acciones principales del usuario.
+
+Las pantallas prioritarias de esta fase serán la **home**, la **carta digital**, la **reserva** y la **confirmación final**, ya que concentran las necesidades detectadas en la práctica 1 y en la propuesta de rediseño.
+
+**1. Boceto en papel**  
+Primero plasmamos la idea principal en papel para estructurar la información de la home y la carta con filtros de alérgenos y preferencias:
+
+![Boceto en papel](img/boceto_papel.jpg)
 
 ![Boceto en papel](img/boceto_papel.jpg)<br>
+
+
+
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
