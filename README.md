@@ -218,10 +218,18 @@ En esta fase inicial se trabajó primero con bocetos rápidos para plantear la e
 
 Las pantallas prioritarias de esta fase serán la **home**, la **carta digital**, la **reserva** y la **confirmación final**, ya que concentran las necesidades detectadas en la práctica 1 y en la propuesta de rediseño.
 
-**1. Boceto en papel**  
-Primero plasmamos la idea principal en papel para estructurar la información de la home y la carta con filtros de alérgenos y preferencias:
+**Pantalla: Home Page** Se ha diseñado una página de aterrizaje inmersiva que prioriza la conversión directa mediante botones de acción (CTAs) destacados para la consulta de la carta y la reserva de mesa.
+![Home Page](img/HomePage.png)
 
-![Boceto en papel](img/boceto_papel.jpg)
+**Pantalla: Carta Digital** Implementación de un sistema de filtrado avanzado por preferencias dietéticas y alérgenos. La disposición en tarjetas permite un escaneado rápido de precios e ingredientes, integrando la opción de reserva en cada ítem del menú.
+![Carta](img/Carta.png)
+
+**Pantalla: Proceso de Reserva** Se ha estructurado un flujo de reserva simplificado por pasos. La organización lógica de los campos de entrada (fecha, hora y datos de contacto) garantiza una tasa de finalización más alta y una experiencia sin fricciones.
+![Reserva](img/Reserva.png)
+
+#### Conclusión del diseño
+El resultado es un esqueleto estructural sólido que garantiza la usabilidad antes de pasar a la fase de diseño visual. Se ha puesto especial énfasis en la **accesibilidad** y en que los flujos de tareas principales se completen en el menor número de clics posible.
+
 
 
 
