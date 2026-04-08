@@ -219,6 +219,8 @@ En esta fase inicial se trabajó primero con bocetos rápidos para plantear la e
 Las pantallas prioritarias de esta fase serán la **home**, la **carta digital**, la **reserva** y la **confirmación final**, ya que concentran las necesidades detectadas en la práctica 1 y en la propuesta de rediseño.
 
 **Pantalla: Home Page** Se ha diseñado una página de aterrizaje inmersiva que prioriza la conversión directa mediante botones de acción (CTAs) destacados para la consulta de la carta y la reserva de mesa.
+
+
 ![Home Page](img/HomePage.png)
 
 **Pantalla: Carta Digital** Implementación de un sistema de filtrado avanzado por preferencias dietéticas y alérgenos. La disposición en tarjetas permite un escaneado rápido de precios e ingredientes, integrando la opción de reserva en cada ítem del menú.
