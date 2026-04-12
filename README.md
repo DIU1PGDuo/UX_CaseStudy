@@ -286,9 +286,9 @@ Este conjunto de wireframes permite comprobar que los flujos críticos de la pro
 ### 2.i Conclusiones
 ----
 
-En esta práctica hemos transformado los hallazgos obtenidos en la P1 en una propuesta concreta de rediseño. A través del empathy map, la malla receptora, el point of view, el scope canvas, el análisis de tareas, la arquitectura de la información y los wireframes, hemos definido una solución más centrada en las necesidades reales del usuario.
+A través del empathy map, la malla receptora, el point of view, el scope canvas, el análisis de tareas, la arquitectura de la información y los wireframes, hemos definido una propuesta más centrada en las necesidades reales del usuario.
 
-La propuesta mantiene el atractivo visual y temático de Anime Ramen, pero introduce mejoras orientadas a la claridad, la consulta de la carta, la visibilidad de la información útil y la reserva online. Como equipo, consideramos que esta etapa nos ha servido para pasar del análisis a decisiones de diseño más justificadas, coherentes y aplicables en una futura versión visual de mayor fidelidad.
+La solución mantiene el atractivo visual y temático de Anime Ramen, pero introduce mejoras orientadas a la claridad, la consulta de la carta, la visibilidad de la información útil y la reserva online. Como equipo, consideramos que esta etapa nos ha permitido transformar los problemas detectados en la P1 en decisiones de diseño más justificadas, coherentes y aplicables a una futura versión de mayor fidelidad.
 
 
 
