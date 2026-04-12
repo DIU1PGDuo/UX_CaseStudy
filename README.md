@@ -217,14 +217,18 @@ Como parte del proceso de diseño centrado en el usuario, comenzamos a desarroll
 En esta fase inicial se trabajó primero con bocetos rápidos para plantear la estructura general de la **home**, la **carta digital** y la **reserva**. A partir de ahí, la siguiente iteración consistirá en trasladar estas ideas a wireframes más claros en Figma, manteniendo una jerarquía visual limpia, una navegación sencilla y una mejor orientación a las acciones principales del usuario.
 
 Las pantallas prioritarias de esta fase serán la **home**, la **carta digital**, la **reserva** y la **confirmación de reserva**, ya que concentran las necesidades detectadas en la práctica 1 y en la propuesta de rediseño.
-#### Documentación Técnica
+#### 2.e Prototipado Digital (Wireframes Lo-Fi)
 
-Para una revisión detallada de la arquitectura y los flujos de interacción, se adjuntan los prototipos de baja fidelidad en formato PDF, organizados por las secciones principales de la propuesta:
+Tras validar la arquitectura de información, hemos desarrollado los wireframes finales en formato digital. Estos diseños funcionan como el esqueleto de la solución, centrados en la usabilidad y la disposición de elementos sin la distracción de la carga visual final.
 
-* **Página de Inicio:** [Descargar HomePage.pdf](P2/HomePage.pdf) - Estructura de la landing page y jerarquía de secciones.
-* **Carta Digital:** [Descargar Carta.pdf](P2/Carta.pdf) - Detalle de la interfaz de menú con sistema de filtrado.
-* **Proceso de Reserva:** [Descargar Reserva.pdf](P2/Reserva.pdf) - Formulario por pasos para la gestión de reservas exprés.
-* **Confirmación de Reserva:** [Descargar ConfirmacionReserva.pdf](P2/ConfirmacionReserva.pdf) - Pantalla final de éxito y validación de datos.
+A continuación se detallan las pantallas clave del prototipo (disponibles en la carpeta `img`):
+
+* **[Home Page](img/HomePage.png):** Se ha diseñado una interfaz de aterrizaje que reduce el ruido visual, priorizando el acceso directo a la carta y la reserva mediante un sistema de botones de alta visibilidad.
+* **[Carta Digital](img/Carta.png):** Presenta una organización por tarjetas que integra filtros de alérgenos en el primer nivel de navegación, facilitando una toma de decisiones rápida y segura para el usuario.
+* **[Sistema de Reservas](img/Reserva.png):** Implementa un flujo guiado por pasos que minimiza la fatiga del usuario al segmentar la entrada de datos en bloques lógicos (local, fecha, comensales y contacto).
+* **[Confirmación de Reserva](img/ConfirmacionReserva.png):** Una pantalla de cierre que proporciona retroalimentación inmediata al usuario, validando el éxito de la operación y reforzando la confianza en el sistema.
+
+Este conjunto de wireframes asegura que los flujos críticos de la web (consultar y reservar) son eficientes y responden a las necesidades detectadas en las fases previas de investigación.
 
 
 
