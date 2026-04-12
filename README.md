@@ -215,12 +215,12 @@ El labelling se centró en elegir nombres claros, directos y fáciles de entende
 ### 2.e Wireframes
 -----
 
-Como parte del proceso de diseño centrado en el usuario, desarrollamos wireframes en baja fidelidad para definir la estructura de las pantallas principales de la propuesta. El objetivo de estos bocetos fue organizar contenidos, establecer una jerarquía visual clara y comprobar que las tareas más importantes del sitio quedaran resueltas de forma directa.
+Como parte del proceso de diseño centrado en el usuario, desarrollamos los siguientes wireframes para definir la estructura de las pantallas principales. El objetivo de estos bocetos es organizar los contenidos, establecer una jerarquía visual y asegurar que las tareas más importantes del sitio quedaran resueltas de forma directa.
 
-A partir de la arquitectura de la información y de los flujos definidos previamente, se diseñaron cuatro pantallas clave: la **home**, la **carta digital**, el **proceso de reserva** y la **confirmación de reserva**. Estos wireframes funcionan como el esqueleto de la solución, centrados en la usabilidad y en la disposición de elementos sin la distracción del diseño visual final.
+A partir de la arquitectura de la información y de los flujos definidos previamente, se diseñaron cuatro pantallas clave: la **home**, la **carta digital**, el **proceso de reserva** y la **confirmación de reserva**.
 
 **Pantalla: Home Page**  
-Se ha diseñado una interfaz de aterrizaje que reduce el ruido visual y prioriza el acceso directo a la carta y a la reserva mediante botones claramente visibles.
+Se ha diseñado una interfaz que reduce la complejidad y prioriza el acceso directo a la carta y a la reserva mediante botones claramente visibles.
 
 ![Home Page](img/HomePage.png)
 
@@ -230,7 +230,7 @@ Presenta una organización por tarjetas y una navegación por categorías, incor
 ![Carta](img/Carta.png)
 
 **Pantalla: Proceso de Reserva**  
-Implementa un flujo guiado por pasos que organiza la información en bloques lógicos y facilita completar la reserva con menor esfuerzo.
+Implementa un conjunto guiado de pasos que organiza la información en bloques y facilita completar la reserva con menor esfuerzo.
 
 ![Reserva](img/Reserva.png)
 
@@ -239,7 +239,7 @@ Incluye una pantalla final de confirmación que proporciona retroalimentación i
 
 ![Confirmación de Reserva](img/ConfirmacionReserva.png)
 
-Este conjunto de wireframes permite comprobar que los flujos críticos de la propuesta —consultar la carta y reservar mesa— pueden resolverse de forma más clara, directa y coherente que en la web actual.
+Este conjunto de wireframes permite comprobar que los flujos críticos de la propuesta, consultar la carta y reservar mesa, pueden resolverse de forma más clara, directa y coherente que en la web actual.
 
 
 
