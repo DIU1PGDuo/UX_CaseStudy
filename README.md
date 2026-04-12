@@ -221,15 +221,19 @@ Las pantallas prioritarias de esta fase serán la **home**, la **carta digital**
 Tras validar la arquitectura de información, hemos desarrollado los wireframes finales en formato digital. Estos diseños funcionan como el esqueleto de la solución, centrados en la usabilidad y la disposición de elementos sin la distracción de la carga visual final.
 
 **Pantalla: Home Page** Se ha diseñado una interfaz de aterrizaje que reduce el ruido visual, priorizando el acceso directo a la carta y la reserva mediante un sistema de botones de alta visibilidad.
-![Home Page](img/HomePage.png)
+ 
+ ![Home Page](img/HomePage.png)
 
 **Pantalla: Carta Digital** Presenta una organización por tarjetas que integra filtros de alérgenos en el primer nivel de navegación, facilitando una toma de decisiones rápida y segura.
+
 ![Carta](img/Carta.png)
 
 **Pantalla: Proceso de Reserva** Implementa un flujo guiado por pasos que minimiza la fatiga del usuario al segmentar la entrada de datos en bloques lógicos.
+
 ![Reserva](img/Reserva.png)
 
 **Pantalla: Confirmación de Reserva** Una pantalla de cierre que proporciona retroalimentación inmediata al usuario, validando el éxito de la operación.
+
 ![Confirmación de Reserva](img/ConfirmacionReserva.png)
 
 Este conjunto de wireframes asegura que los flujos críticos de la web (consultar y reservar) son eficientes y responden a las necesidades detectadas.
