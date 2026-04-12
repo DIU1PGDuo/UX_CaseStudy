@@ -18,15 +18,15 @@
 * [Labelling](../README.md#2g-ia-sitemap--labelling)
 
 ## Prototipo Lo-FI Wireframe
-* [Home Page](../README.md#2h-wireframes)
-* [Carta Digital](../README.md#2h-wireframes)
-* [Proceso de Reserva](../README.md#2h-wireframes)
-* [Confirmación de Reserva](../README.md#2h-wireframes)
+* [Home Page](HomePage.pdf)
+* [Carta Digital](Carta.pdf)
+* [Proceso de Reserva](Reserva.pdf)
+* [Confirmación de Reserva](ConfirmacionReserva.pdf)
 
 ## Valoración final de la práctica
 
-En esta práctica hemos transformado el análisis realizado en la P1, en una propuesta concreta de rediseño para Anime Ramen, mediante herramientas como el empathy map, el point of view, el scope canvas, la matriz de tareas, los user flows, el sitemap, el labelling y los wireframes Lo-Fi. Gracias a ello, hemos podido convertir los problemas detectados en la web original, como los ya mencioandos, carga visual, experiencia fragmentada, carta poco integrada y reserva mejorable.
+En esta práctica hemos transformado el análisis realizado en la P1 en una propuesta concreta de rediseño para Anime Ramen, mediante herramientas como el empathy map, el point of view, el scope canvas, la matriz de tareas, los user flows, el sitemap, el labelling y los wireframes Lo-Fi. Gracias a ello, hemos podido convertir los problemas detectados en la web original, como la carga visual elevada, la experiencia fragmentada, la carta poco integrada y una reserva mejorable, en decisiones de diseño más claras.
 
 A lo largo de la práctica hemos trabajado principalmente con Figma, utilizando plantillas y adaptándolas a las necesidades concretas del caso. Esto nos ha permitido estructurar mejor la información, definir los recorridos principales del usuario y plantear una solución más coherente antes de pasar a una fase visual de mayor fidelidad.
 
-Como equipo, valoramos positivamente esta práctica porque nos ha ayudado a conectar las observaciones de usabilidad con propuestas reales. Consideramos que RamenFlow mantiene el atractivo visual y temático de Anime Ramen, pero introduce una experiencia más clara, una carta mejor integrada y una reserva más directa.
+Valoramos positivamente esta práctica porque nos ha ayudado a conectar las observaciones de usabilidad con propuestas reales de mejora. Consideramos que RamenFlow mantiene el atractivo visual y temático de Anime Ramen, pero introduce una experiencia más clara, una carta mejor integrada y una reserva más directa.
