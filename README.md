@@ -207,7 +207,7 @@ El labelling se centró en elegir nombres claros, directos y fáciles de entende
 | **Carta** | Acceder al menú digital | Bol de ramen / cubiertos |
 | **Reservar mesa** | Iniciar el proceso de reserva | Calendario / reloj |
 | **Vegetariano** | Filtrar platos aptos | Hoja |
-| **Sin gluten** | Filtrar platos aptos | Espiga tachada |
+| **Sin gluten** | Filtrar platos aptos | Símbolo tachado |
 | **Ubicación** | Ver dirección y mapa | Pin de mapa |
 | **Confirmar reserva** | Finalizar el proceso | Check |
 
