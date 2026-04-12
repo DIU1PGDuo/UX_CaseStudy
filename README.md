@@ -139,7 +139,7 @@ En conjunto, Anime Ramen funciona bien como propuesta de atracción y marca, per
 | *Mateo:* “¿Puedo decidir rápido si merece la pena ir?”<br><br>*Laura:* “¿Hay opciones vegetarianas? ¿Puedo reservar mesa sin perder tiempo?” | **Carta integrada en la experiencia:** Menú accesible desde la propia web, sin romper la navegación principal.<br><br>**Filtros útiles:** Posibilidad de filtrar por vegetariano, sin gluten u otras preferencias relevantes.<br><br>**Reserva exprés:** Proceso breve y claro, centrado en los datos justos para completar la acción. |
 
 **Problema detectado:**  
-A partir del análisis realizado en la Práctica 1, observamos que webs como Anime Ramen consiguen atraer por su propuesta visual y temática, pero no siempre acompañan bien al usuario en tareas clave como consultar la carta, que esta esté integrada, encontrar información útil o completar una reserva, especialmente desde el móvil.
+A partir del análisis DE la Práctica 1, observamos que webs como Anime Ramen consiguen atraer por su propuesta visual y temática, pero no siempre acompañan al usuario en tareas como consultar la carta de forma fluida, encontrar información útil o completar una reserva, especialmente desde el móvil.
 
 **Hipótesis de diseño:**  
 Si diseñamos una propuesta que mantenga el atractivo visual del restaurante, pero priorice la claridad de la información, una carta mejor integrada en la navegación y un proceso de reserva más directo, mejorará la experiencia de uso y será más fácil completar las acciones principales del sitio.
