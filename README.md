@@ -156,7 +156,19 @@ A partir de la Práctica 1, observamos que webs como Anime Ramen consiguen atrae
 Diseñamos una propuesta que mantenga el atractivo visual del restaurante, pero priorizando la claridad de la información, una carta mejor integrada en la navegación y un proceso de reserva más directo, mejorará la experiencia de uso y será más fácil completar las acciones principales del sitio.
 
 
-### 2.c ScopeCanvas
+### 2.c Point of View
+----
+
+A partir de la información recogida en la práctica 1 y en la fase de ideación, definimos dos puntos de vista principales que resumen las necesidades de nuestros usuarios.
+
+**Laura necesita** consultar la carta y reservar mesa de forma rápida y clara, **porque** valora su tiempo y se frustra cuando la información útil queda escondida entre demasiados elementos visuales o pasos poco directos.
+
+**Mateo necesita** decidir con rapidez si el restaurante le convence, **porque** busca una experiencia atractiva, pero también quiere ver precios, platos y acciones principales sin esfuerzo desde el móvil.
+
+Este punto de vista nos ayudó a orientar la propuesta hacia una experiencia que mantenga el atractivo visual del sitio, pero que facilite mejor las tareas principales del usuario.
+
+
+### 2.d ScopeCanvas
 ![Scope Canvas](img/ScopeCanvas_AnimeFLow_AnimeRamenRedesign.png)
 ----
 
@@ -169,7 +181,25 @@ El canvas también nos ayuda a concretar objetivos, acciones y métricas, sirvie
 **Documento completo:** [Scope Canvas PDF](P2/ScopeCanvas_AnimeFLow_AnimeRamenRedesign.pdf)
 
 
-### 2.d User Flow (task) analysis
+### 2.e User Task Matrix
+----
+
+Antes de definir los flujos principales, organizamos las tareas más relevantes según los perfiles de usuario identificados en la práctica 1. Esta matriz nos permitió priorizar qué acciones debían resolverse con mayor claridad dentro del rediseño.
+
+| Usuario | Tarea principal | Importancia | Observación |
+| :--- | :--- | :--- | :--- |
+| Mateo | Ver carta y precios | Alta | Necesita decidir rápido desde móvil |
+| Mateo | Revisar platos destacados | Media | Le atrae el componente visual del restaurante |
+| Mateo | Reservar mesa | Alta | Quiere una acción directa si el sitio le convence |
+| Laura | Consultar carta con claridad | Alta | Busca información útil sin rodeos |
+| Laura | Filtrar opciones relevantes | Alta | Valora opciones vegetarianas o datos alimentarios |
+| Laura | Reservar mesa | Alta | Necesita un proceso rápido y fiable |
+| Ambos | Ver ubicación y contacto | Media | Información útil para completar la decisión |
+
+A partir de esta matriz definimos los flujos principales del sistema, centrándonos en aquellas tareas que tenían más peso para ambos perfiles.
+
+
+### 2.f User Flow (task) analysis
 
 ### Flow I
 
@@ -194,7 +224,7 @@ Ambos flujos sirvieron para definir mejor la estructura de la propuesta antes de
 **Documento completo:** [User Flow 2 PDF](P2/UserFlowTaskAnalysis_AvanzarReserva.pdf)
 
 
-### 2.e IA: Sitemap + Labelling
+### 2.g IA: Sitemap + Labelling
 ![Sitemap](img/SiteMap.png)
 ----
 
@@ -223,7 +253,7 @@ El labelling se centró en elegir nombres claros, directos y fáciles de entende
 | **Confirmar reserva** | Finalizar el proceso | Check |
 
 
-### 2.f Wireframes
+### 2.h Wireframes
 -----
 
 Como parte del proceso de diseño centrado en el usuario, desarrollamos los siguientes wireframes para definir la estructura de las pantallas principales. El objetivo de estos bocetos es organizar los contenidos, establecer una jerarquía visual y asegurar que las tareas más importantes del sitio quedaran resueltas de forma directa.
@@ -253,10 +283,12 @@ Incluye una pantalla final de confirmación que proporciona retroalimentación i
 Este conjunto de wireframes permite comprobar que los flujos críticos de la propuesta, consultar la carta y reservar mesa, pueden resolverse de forma más clara, directa y coherente que en la web actual.
 
 
+### 2.i Conclusiones
+----
 
+En esta práctica hemos transformado los hallazgos obtenidos en la P1 en una propuesta concreta de rediseño. A través del empathy map, la malla receptora, el point of view, el scope canvas, el análisis de tareas, la arquitectura de la información y los wireframes, hemos definido una solución más centrada en las necesidades reales del usuario.
 
-
-
+La propuesta mantiene el atractivo visual y temático de Anime Ramen, pero introduce mejoras orientadas a la claridad, la consulta de la carta, la visibilidad de la información útil y la reserva online. Como equipo, consideramos que esta etapa nos ha servido para pasar del análisis a decisiones de diseño más justificadas, coherentes y aplicables en una futura versión visual de mayor fidelidad.
 
 
 
