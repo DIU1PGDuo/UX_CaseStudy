@@ -129,7 +129,18 @@ En conjunto, Anime Ramen funciona bien como propuesta de atracción y marca, per
 
 ## Paso 2. UX Design  
 
-### 2.a Reframing / Ideación: Feedback Capture Grid
+### 2.a Empathy Map
+![Empathy Map](img/Empathy_Customer_Map_AnimeRamen.png)
+----
+
+Hemos elaborado un **Empathy Map** sobre cómo vive el usuario la experiencia actual de Anime Ramen. Esto ayuda a ordenar de forma visual lo que el usuario piensa y siente, ve, escucha y dice o hace cuando entra en la web con la intención de consultar la carta o reservar mesa.
+
+El mapa confirma varias ideas ya detectadas en la práctica anterior, la web resulta atractiva y temática, pero también genera fricciones cuando el usuario quiere completar tareas concretas con rapidez. En especial, aparecen problemas relacionados con la carga visual, la dificultad para encontrar información útil de forma inmediata y una reserva que no siempre se percibe como directa.
+
+**Documento completo:** [Empathy Map PDF](P2/Empathy_Customer_Map_AnimeRamen.pdf)
+
+
+### 2.b Reframing / Ideación: Feedback Capture Grid
 ----
 
 | Interesante (Aspectos positivos) | Críticas constructivas |
@@ -145,7 +156,7 @@ A partir de la Práctica 1, observamos que webs como Anime Ramen consiguen atrae
 Diseñamos una propuesta que mantenga el atractivo visual del restaurante, pero priorizando la claridad de la información, una carta mejor integrada en la navegación y un proceso de reserva más directo, mejorará la experiencia de uso y será más fácil completar las acciones principales del sitio.
 
 
-### 2.b ScopeCanvas
+### 2.c ScopeCanvas
 ![Scope Canvas](img/ScopeCanvas_AnimeFLow_AnimeRamenRedesign.png)
 ----
 
@@ -158,7 +169,7 @@ El canvas también nos ayuda a concretar objetivos, acciones y métricas, sirvie
 **Documento completo:** [Scope Canvas PDF](P2/ScopeCanvas_AnimeFLow_AnimeRamenRedesign.pdf)
 
 
-### 2.c User Flow (task) analysis
+### 2.d User Flow (task) analysis
 
 ### Flow I
 
@@ -183,7 +194,7 @@ Ambos flujos sirvieron para definir mejor la estructura de la propuesta antes de
 **Documento completo:** [User Flow 2 PDF](P2/UserFlowTaskAnalysis_AvanzarReserva.pdf)
 
 
-### 2.d IA: Sitemap + Labelling
+### 2.e IA: Sitemap + Labelling
 ![Sitemap](img/SiteMap.png)
 ----
 
@@ -212,7 +223,7 @@ El labelling se centró en elegir nombres claros, directos y fáciles de entende
 | **Confirmar reserva** | Finalizar el proceso | Check |
 
 
-### 2.e Wireframes
+### 2.f Wireframes
 -----
 
 Como parte del proceso de diseño centrado en el usuario, desarrollamos los siguientes wireframes para definir la estructura de las pantallas principales. El objetivo de estos bocetos es organizar los contenidos, establecer una jerarquía visual y asegurar que las tareas más importantes del sitio quedaran resueltas de forma directa.
