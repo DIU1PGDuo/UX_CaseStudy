@@ -221,7 +221,7 @@ Las pantallas prioritarias de esta fase serán la **home**, la **carta digital**
 **Pantalla: Home Page** Se ha diseñado una página de aterrizaje inmersiva que prioriza la conversión directa mediante botones de acción (CTAs) destacados para la consulta de la carta y la reserva de mesa.
 
 
-![Home Page](img/HomePage.png)
+![Home Page](img/Wireframe_1_Home.png)
 
 **Pantalla: Carta Digital** Implementación de un sistema de filtrado avanzado por preferencias dietéticas y alérgenos. La disposición en tarjetas permite un escaneado rápido de precios e ingredientes, integrando la opción de reserva en cada ítem del menú.
 ![Carta](img/Carta.png)
