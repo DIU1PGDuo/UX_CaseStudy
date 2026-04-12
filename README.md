@@ -216,21 +216,20 @@ Como parte del proceso de diseño centrado en el usuario, comenzamos a desarroll
 
 En esta fase inicial se trabajó primero con bocetos rápidos para plantear la estructura general de la **home**, la **carta digital** y la **reserva**. A partir de ahí, la siguiente iteración consistirá en trasladar estas ideas a wireframes más claros en Figma, manteniendo una jerarquía visual limpia, una navegación sencilla y una mejor orientación a las acciones principales del usuario.
 
-Las pantallas prioritarias de esta fase serán la **home**, la **carta digital**, la **reserva** y la **confirmación final**, ya que concentran las necesidades detectadas en la práctica 1 y en la propuesta de rediseño.
+Las pantallas prioritarias de esta fase serán la **home**, la **carta digital**, la **reserva** y la **confirmación de reserva**, ya que concentran las necesidades detectadas en la práctica 1 y en la propuesta de rediseño.
+#### Documentación Técnica
 
-**Pantalla: Home Page** Se ha diseñado una página de aterrizaje inmersiva que prioriza la conversión directa mediante botones de acción (CTAs) destacados para la consulta de la carta y la reserva de mesa.
+Para una revisión detallada de la arquitectura y los flujos de interacción, se adjuntan los prototipos de baja fidelidad en formato PDF, organizados por las secciones principales de la propuesta:
+
+* **Página de Inicio:** [Descargar HomePage.pdf](P2/HomePage.pdf) - Estructura de la landing page y jerarquía de secciones.
+* **Carta Digital:** [Descargar Carta.pdf](P2/Carta.pdf) - Detalle de la interfaz de menú con sistema de filtrado.
+* **Proceso de Reserva:** [Descargar Reserva.pdf](P2/Reserva.pdf) - Formulario por pasos para la gestión de reservas exprés.
+* **Confirmación de Reserva:** [Descargar ConfirmacionReserva.pdf](P2/ConfirmacionReserva.pdf) - Pantalla final de éxito y validación de datos.
 
 
-![Home Page](img/Wireframe_1_Home.png)
 
-**Pantalla: Carta Digital** Implementación de un sistema de filtrado avanzado por preferencias dietéticas y alérgenos. La disposición en tarjetas permite un escaneado rápido de precios e ingredientes, integrando la opción de reserva en cada ítem del menú.
-![Carta](img/Carta.png)
 
-**Pantalla: Proceso de Reserva** Se ha estructurado un flujo de reserva simplificado por pasos. La organización lógica de los campos de entrada (fecha, hora y datos de contacto) garantiza una tasa de finalización más alta y una experiencia sin fricciones.
-![Reserva](img/Reserva.png)
 
-#### Conclusión del diseño
-El resultado es un esqueleto estructural sólido que garantiza la usabilidad antes de pasar a la fase de diseño visual. Se ha puesto especial énfasis en la **accesibilidad** y en que los flujos de tareas principales se completen en el menor número de clics posible.
 
 
 
