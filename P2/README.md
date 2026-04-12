@@ -1,33 +1,32 @@
-## DIU - Practica2, entregables
+# DIU - Practica2, entregables
 
-### Ideación 
-* Malla receptora de información 
-* Mapa de empatía
-* Point of View 
+## Ideación
+* [Mapa de empatía](Empathy_Customer_Map_AnimeRamen.pdf)
+* [Malla receptora de información](../README.md#2b-reframing--ideación-feedback-capture-grid)
+* [Point of View](../README.md#2c-point-of-view)
 
+## Propuesta de valor
+* [ScopeCanvas](ScopeCanvas_AnimeFLow_AnimeRamenRedesign.pdf)
 
-### PROPUESTA DE VALOR
-* ScopeCanvas
+## Task Analysis
+* [User Task Matrix](../README.md#2e-user-task-matrix)
+* [Task flow: Consultar carta y avanzar a una acción](UserFlowTaskAnalysis_ConsultarCartayAvanzaraunaAccion.pdf)
+* [Task flow: Avanzar reserva](UserFlowTaskAnalysis_AvanzarReserva.pdf)
 
+## Arquitectura de la información
+* [Sitemap](SiteMap.pdf)
+* [Labelling](../README.md#2g-ia-sitemap--labelling)
 
-### TASK ANALYSIS
+## Prototipo Lo-FI Wireframe
+* [Home Page](../README.md#2h-wireframes)
+* [Carta Digital](../README.md#2h-wireframes)
+* [Proceso de Reserva](../README.md#2h-wireframes)
+* [Confirmación de Reserva](../README.md#2h-wireframes)
 
-* User Task Matrix 
-* User/Task flow
+## Valoración final de la práctica
 
+En esta práctica hemos transformado el análisis realizado en la P1, en una propuesta concreta de rediseño para Anime Ramen, mediante herramientas como el empathy map, el point of view, el scope canvas, la matriz de tareas, los user flows, el sitemap, el labelling y los wireframes Lo-Fi. Gracias a ello, hemos podido convertir los problemas detectados en la web original, como los ya mencioandos, carga visual, experiencia fragmentada, carta poco integrada y reserva mejorable.
 
-### ARQUITECTURA DE INFORMACIÓN
+A lo largo de la práctica hemos trabajado principalmente con Figma, utilizando plantillas y adaptándolas a las necesidades concretas del caso. Esto nos ha permitido estructurar mejor la información, definir los recorridos principales del usuario y plantear una solución más coherente antes de pasar a una fase visual de mayor fidelidad.
 
-* Sitemap 
-* Labelling 
-
-
-### Prototipo Lo-FI Wireframe 
-
-
-### Conclusiones  
-(incluye valoración de esta etapa)
-
-
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
+Como equipo, valoramos positivamente esta práctica porque nos ha ayudado a conectar las observaciones de usabilidad con propuestas reales. Consideramos que RamenFlow mantiene el atractivo visual y temático de Anime Ramen, pero introduce una experiencia más clara, una carta mejor integrada y una reserva más directa.
