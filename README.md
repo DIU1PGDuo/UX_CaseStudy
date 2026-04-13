@@ -127,17 +127,18 @@ En conjunto, Anime Ramen funciona bien como propuesta de atracción y marca, per
 
 <br>
 
+
 ## Paso 2. UX Design  
 
 ### 2.a Empathy Map
 ![Empathy Map](img/Empathy_Customer_Map_AnimeRamen.png)
 ----
 
-Hemos elaborado un **Empathy Map** sobre cómo vive el usuario la experiencia actual de Anime Ramen. Esto ayuda a ordenar de forma visual lo que el usuario piensa y siente, ve, escucha y dice o hace cuando entra en la web con la intención de consultar la carta o reservar mesa.
+Hemos elaborado un **Empathy Map** sobre cómo vive el usuario la experiencia actual de Anime Ramen. Esto ayuda a ordenar de forma visual lo que el usuario piensa, ve, escucha y dice o hace cuando entra en la web con la intención de consultar la carta o reservar mesa.
 
-El mapa confirma varias ideas ya detectadas en la práctica anterior, la web resulta atractiva y temática, pero también genera fricciones cuando el usuario quiere completar tareas concretas con rapidez. En especial, aparecen problemas relacionados con la carga visual, la dificultad para encontrar información útil de forma inmediata y una reserva que no siempre se percibe como directa.
+El mapa confirma varias ideas ya mencionadas en la práctica anterior, como que la web resulta atractiva, pero también genera fricciones cuando el usuario quiere completar tareas especificas o simples con rapidez. En especial, aparecen problemas relacionados con la carga visual, dificultad para encontrar información útil y una reserva que no siempre se percibe como directa.
 
-**Documento completo:** [Empathy Map PDF](P2/Empathy_Customer_Map_AnimeRamen.pdf)
+**Empathy Map PDF:** [Empathy Map PDF](P2/Empathy_Customer_Map_AnimeRamen.pdf)
 
 
 ### 2.b Reframing / Ideación: Feedback Capture Grid
@@ -145,9 +146,9 @@ El mapa confirma varias ideas ya detectadas en la práctica anterior, la web res
 
 | Interesante (Aspectos positivos) | Críticas constructivas |
 | :--- | :--- |
-| **Identidad visual:** la temática y el estilo del sitio ayudan a captar la atención y a transmitir una experiencia diferenciada.<br><br>**Atractivo para el público joven:** la propuesta conecta con usuarios como Mateo, que valoran la estética y el componente social del restaurante. | **Carga visual elevada:** el exceso de elementos dificulta el acceso rápido a la información, sobre todo en móvil.<br><br>**Experiencia fragmentada:** la consulta de la carta no se integra del todo con la navegación principal, lo que rompe la continuidad de la experiencia.<br><br>**Información poco explotable**: aunque existen referencias a alérgenos y datos básicos, la carta no permite explorar preferencias alimentarias ni filtrar con comodidad. |
+| **Identidad visual:** la temática y el estilo del sitio ayudan a captar la atención y a transmitir una experiencia diferente.<br><br>**Atractivo para el público joven:** la propuesta conecta con usuarios como Mateo, que valoran la estética y el componente social del restaurante. | **Carga visual elevada:** el exceso de elementos dificulta el acceso rápido a la información, sobre todo en móvil.<br><br>**Experiencia fragmentada:** la consulta de la carta no se integra del todo con la navegación principal, lo que rompe la continuidad de la experiencia.<br><br>**Información poco explotable**: aunque existen referencias a alérgenos y datos básicos, la carta no permite explorar preferencias alimentarias ni filtrar con comodidad. |
 | **Preguntas de los usuarios** | **Nuevas ideas (Propuestas)** |
-| *Mateo:* “¿Puedo decidir rápido si merece la pena ir?”<br><br>*Laura:* “¿Hay opciones vegetarianas? ¿Puedo reservar mesa sin perder tiempo?” | **Carta integrada en la experiencia:** menú accesible desde la propia web, sin romper la navegación principal.<br><br>**Filtros útiles:** posibilidad de filtrar por vegetariano, sin gluten u otras preferencias relevantes.<br><br>**Reserva exprés:** proceso breve y claro, centrado en los datos justos para completar la acción. |
+| *Mateo:* “¿Puedo decidir rápido si merece la pena ir?”<br><br>*Laura:* “¿Hay opciones vegetarianas? ¿Puedo reservar mesa sin perder tiempo?” | **Carta integrada en la experiencia:** menú accesible desde la propia web, sin romper la navegación.<br><br>**Filtros útiles:** posibilidad de filtrar por vegetariano, sin gluten u otras preferencias.<br><br>**Reserva exprés:** proceso breve y claro, centrado en los datos justos para completar la acción. |
 
 **Problema detectado:**  
 A partir de la Práctica 1, observamos que webs como Anime Ramen consiguen atraer por su propuesta visual y temática, pero no siempre acompañan al usuario en tareas como consultar la carta de forma fluida, encontrar información útil o completar una reserva, especialmente desde el móvil.
@@ -159,58 +160,56 @@ Diseñamos una propuesta que mantenga el atractivo visual del restaurante, pero 
 ### 2.c Point of View
 ----
 
-A partir de la información recogida en la práctica 1 y en la fase de ideación, definimos dos puntos de vista principales que resumen las necesidades de nuestros usuarios.
+A partir de la información de la Práctica 1, definimos dos puntos de vista principales que resumen las necesidades de nuestros usuarios.
 
-**Laura necesita** consultar la carta y reservar mesa de forma rápida y clara, **porque** valora su tiempo y se frustra cuando la información útil queda escondida entre demasiados elementos visuales o pasos poco directos.
+**Laura necesita** consultar la carta y reservar mesa de forma rápida y clara, porque valora su tiempo y se frustra cuando la información útil no es accesible debido a los elementos visuales o pasos poco directos.
 
-**Mateo necesita** decidir con rapidez si el restaurante le convence, **porque** busca una experiencia atractiva, pero también quiere ver precios, platos y acciones principales sin esfuerzo desde el móvil.
+**Mateo necesita** decidir con rapidez si el restaurante le convence, porque busca una experiencia atractiva, pero también quiere ver precios, platos y acciones principales sin esfuerzo desde el móvil.
 
-Este punto de vista nos ayudó a orientar la propuesta hacia una experiencia que mantenga el atractivo visual del sitio, pero que facilite mejor las tareas principales del usuario.
+Estos diferentes puntos de vista nos ayudaron a diseñar la propuesta, y tratar de hacer una experiencia que mantenga el atractivo visual del sitio, pero que facilite mejor las tareas principales del usuario.
 
 
 ### 2.d ScopeCanvas
 ![Scope Canvas](img/ScopeCanvas_AnimeFLow_AnimeRamenRedesign.png)
 ----
 
-En el **Scope Canvas** definimos la propuesta a partir de lo observado en la práctica anterior. La propuesta se centra en mantener el atractivo visual de Anime Ramen, pero corrigiendo los principales puntos débiles detectados en la P1, es decir, una consulta poco fluida de la carta, falta de claridad en la información útil y una reserva mejorable.
+En el **Scope Canvas** definimos la propuesta a partir de lo observado en la práctica anterior. La propuesta se centra en mantener el atractivo visual de Anime Ramen, pero corrigiendo los principales puntos débiles detectados en la Práctica 1.
 
-A nivel de necesidades, se identificaron como prioridades una carta más accesible, una reserva más visible y una experiencia clara tanto en móvil como en escritorio. El propósito del proyecto es ofrecer una web temática, pero mejor orientada a la tarea y más útil para perfiles distintos como Mateo y Laura. Por ello, la propuesta se basa en tres mejoras principales: una carta digital integrada, filtros útiles según preferencias y un proceso de reserva exprés.
+Se identificaron como prioridades, una carta más accesible, una reserva más visible y una experiencia clara tanto en móvil como en escritorio. El propósito del proyecto es ofrecer una web temática, pero mejor orientada a la tarea y más útil para perfiles distintos como Mateo y Laura. 
 
-El canvas también nos ayuda a concretar objetivos, acciones y métricas, sirviendo como base para el user flow y la arquitectura de la información.
+La propuesta se basa en tres mejoras principales: una carta digital integrada, filtros útiles según preferencias y un proceso de reserva exprés.
 
-**Documento completo:** [Scope Canvas PDF](P2/ScopeCanvas_AnimeFLow_AnimeRamenRedesign.pdf)
+**ScopeCanvas PDF:** [Scope Canvas PDF](P2/ScopeCanvas_AnimeFLow_AnimeRamenRedesign.pdf)
 
 
 ### 2.e User Task Matrix
 ----
 
-Antes de definir los flujos principales, organizamos las tareas más relevantes según los perfiles de usuario identificados en la práctica 1. Esta matriz nos permitió priorizar qué acciones debían resolverse con mayor claridad dentro del rediseño.
+Antes de definir los flujos principales, organizamos las tareas más relevantes según los perfiles de usuario. Esta matriz nos permitió priorizar qué acciones debían resolverse con mayor claridad dentro del rediseño.
 
 | Usuario | Tarea principal | Importancia | Observación |
 | :--- | :--- | :--- | :--- |
 | Mateo | Ver carta y precios | Alta | Necesita decidir rápido desde móvil |
-| Mateo | Revisar platos destacados | Media | Le atrae el componente visual del restaurante |
+| Mateo | Revisar platos destacados | Media | Le atrae la temática del restaurante |
 | Mateo | Reservar mesa | Alta | Quiere una acción directa si el sitio le convence |
 | Laura | Consultar carta con claridad | Alta | Busca información útil sin rodeos |
-| Laura | Filtrar opciones relevantes | Alta | Valora opciones vegetarianas o datos alimentarios |
-| Laura | Reservar mesa | Alta | Necesita un proceso rápido y fiable |
-| Ambos | Ver ubicación y contacto | Media | Información útil para completar la decisión |
-
-A partir de esta matriz definimos los flujos principales del sistema, centrándonos en aquellas tareas que tenían más peso para ambos perfiles.
+| Laura | Filtrar opciones relevantes | Muy Alta | Valora opciones vegetarianas o datos alimentarios |
+| Laura | Reservar mesa | Muy Alta | Necesita un proceso rápido y fiable |
+| Ambos | Ver ubicación y contacto | Media | Información útil |
 
 
 ### 2.f User Flow (task) analysis
+
+Para el análisis de tareas se definieron dos flows principales dentro de la propuesta, consultar la carta y avanzar hacia una acción, y completar una reserva de mesa. Estos flujos nos ayudaron a ordenar mejor la experiencia y a identificar qué pasos debían ser más visibles, más directos y menos confusos que en la web actual.
 
 ### Flow I
 
 ![User Flow 1](img/UserFlowTaskAnalysis_ConsultarCartayAvanzaraunaAccion.png)
 ----
 
-Para el análisis de tareas se definieron dos flows principales dentro de la propuesta, consultar la carta y avanzar hacia una acción, y completar una reserva de mesa. Estos flujos nos ayudaron a ordenar mejor la experiencia y a identificar qué pasos debían ser más visibles, más directos y menos confusos que en la web actual.
+El primer flujo se centra en la carta, permitiendo al usuario revisar categorías, aplicar filtros según sus preferencias, ver información útil de cada plato y decidir si quiere seguir navegando, añadir productos o pasar a la reserva. Con ello se responde a una de las principales necesidades detectadas en la Práctica 1, consultar la carta de forma más clara, integrada y útil.
 
-El primer flujo se centra en la carta, permitiendo al usuario revisar categorías, aplicar filtros según sus preferencias, ver información útil de cada plato y decidir si quiere seguir explorando, añadir productos al carrito o pasar a la reserva. Con ello se responde a una de las principales necesidades detectadas en la P1: consultar la carta de forma más clara, integrada y útil.
-
-**Documento completo:** [User Flow 1 PDF](P2/UserFlowTaskAnalysis_ConsultarCartayAvanzaraunaAccion.pdf)
+**Flow I PDF:** [User Flow 1 PDF](P2/UserFlowTaskAnalysis_ConsultarCartayAvanzaraunaAccion.pdf)
 
 ### Flow II
 
@@ -221,22 +220,22 @@ El segundo flujo se centra en la reserva y corrige uno de los problemas observad
 
 Ambos flujos sirvieron para definir mejor la estructura de la propuesta antes de pasar a la arquitectura de la información y al diseño de wireframes.
 
-**Documento completo:** [User Flow 2 PDF](P2/UserFlowTaskAnalysis_AvanzarReserva.pdf)
+**Flow II PDF:** [User Flow 2 PDF](P2/UserFlowTaskAnalysis_AvanzarReserva.pdf)
 
 
 ### 2.g IA: Sitemap + Labelling
 ![Sitemap](img/SiteMap.png)
 ----
 
-Para organizar bien la navegación de la propuesta y facilitar la comprensión, trabajamos la arquitectura CON el **sitemap** y el **labelling**.
+Para organizar bien la navegación de la propuesta y facilitar la comprensión, hemos realizado también el **sitemap** y el **labelling**.
 
 #### Sitemap
 
-El sitemap nos permitió definir de forma visual la estructura principal de la web y la relación entre sus apartados. En nuestro caso, se planteó una arquitectura sencilla, centrada en las tareas más importantes para el usuario, consultar la carta, reservar mesa y localizar el restaurante. Esto ayudó a evitar una navegación recargada y a priorizar un acceso rápido a los contenidos clave.
+El sitemap nos permitió definir de forma visual la estructura principal de la web y la relación entre sus apartados. En nuestro caso, se planteó una arquitectura sencilla, centrada en las tareas más importantes para el usuario. Esto ayudó a evitar una navegación recargada y a priorizar un acceso rápido a los contenidos clave.
 
 La estructura principal se organiza en torno a cinco apartados: **Home**, **Carta**, **Reservas**, **Sobre nosotros** y **Ubicación y contacto**, además de un **pie de página** con enlaces útiles y redes sociales.
 
-**Documento completo:** [Sitemap PDF](P2/SiteMap.pdf)
+**Sitemap PDF:** [Sitemap PDF](P2/SiteMap.pdf)
 
 #### Labelling
 
@@ -244,9 +243,9 @@ El labelling se centró en elegir nombres claros, directos y fáciles de entende
 
 | Término / Etiqueta | Significado / Acción | Icono propuesto |
 | :--- | :--- | :--- |
-| **Inicio** | Volver a la página principal | Casa / logo del local |
-| **Carta** | Acceder al menú digital | Bol de ramen / cubiertos |
-| **Reservar mesa** | Iniciar el proceso de reserva | Calendario / reloj |
+| **Inicio** | Volver a la página principal | Logo del local |
+| **Carta** | Acceder al menú digital | Cubiertos |
+| **Reservar mesa** | Iniciar el proceso de reserva | Calendario |
 | **Vegetariano** | Filtrar platos aptos | Hoja |
 | **Sin gluten** | Filtrar platos aptos | Símbolo tachado |
 | **Ubicación** | Ver dirección y mapa | Pin de mapa |
@@ -256,12 +255,12 @@ El labelling se centró en elegir nombres claros, directos y fáciles de entende
 ### 2.h Wireframes
 -----
 
-Como parte del proceso de diseño centrado en el usuario, desarrollamos los siguientes wireframes para definir la estructura de las pantallas principales. El objetivo de estos bocetos es organizar los contenidos, establecer una jerarquía visual y asegurar que las tareas más importantes del sitio quedaran resueltas de forma directa.
+Como parte del proceso de diseño, también desarrollamos los siguientes wireframes para definir la estructura de las pantallas principales. Estos bocetos se han planteado especialmente en formato **móvil**, ya que era una parte importante de los problemas detectados en la práctica anterior. El objetivo es organizar los contenidos, establecer una jerarquía clara y asegurar que las tareas más importantes del sitio puedan resolverse de forma directa.
 
-A partir de la arquitectura de la información y de los flujos definidos previamente, se diseñaron cuatro pantallas clave: la **home**, la **carta digital**, el **proceso de reserva** y la **confirmación de reserva**.
+A partir de la arquitectura de la información y de los flows definidos previamente, se diseñaron cuatro pantallas clave: la **home**, la **carta digital**, el **proceso de reserva** y la **confirmación de reserva**.
 
 **Pantalla: Home Page**  
-Se ha diseñado una interfaz que reduce la complejidad y prioriza el acceso directo a la carta y a la reserva mediante botones claramente visibles.
+Se ha diseñado una interfaz que prioriza el acceso directo a la carta y a la reserva mediante botones claramente visibles.
 
 ![Home Page](img/HomePage.png)
 
@@ -271,7 +270,7 @@ Presenta una organización por tarjetas y una navegación por categorías, incor
 ![Carta](img/Carta.png)
 
 **Pantalla: Proceso de Reserva**  
-Implementa un conjunto guiado de pasos que organiza la información en bloques y facilita completar la reserva con menor esfuerzo.
+Pasos guiados que organizan la información en bloques y facilitan completar la reserva con menor esfuerzo.
 
 ![Reserva](img/Reserva.png)
 
@@ -280,15 +279,15 @@ Incluye una pantalla final de confirmación que proporciona retroalimentación i
 
 ![Confirmación de Reserva](img/ConfirmacionReserva.png)
 
-Este conjunto de wireframes permite comprobar que los flujos críticos de la propuesta, consultar la carta y reservar mesa, pueden resolverse de forma más clara, directa y coherente que en la web actual.
+Este conjunto de wireframes permite comprobar que los flujos críticos de la propuesta, consultar la carta y reservar mesa, pueden resolverse de forma más clara, directa y coherente que en la web actual, con especial atención a la experiencia en móvil.
 
 
 ### 2.i Conclusiones
 ----
 
-A través del empathy map, la malla receptora, el point of view, el scope canvas, el análisis de tareas, la arquitectura de la información y los wireframes, hemos definido una propuesta más centrada en las necesidades reales del usuario.
+A través del empathy map, el point of view, el scope canvas, el análisis de tareas, la arquitectura de la información y los wireframes, hemos definido una propuesta más centrada en las necesidades reales del usuario.
 
-La solución mantiene el atractivo visual y temático de Anime Ramen, pero introduce mejoras orientadas a la claridad, la consulta de la carta, la visibilidad de la información útil y la reserva online. Como equipo, consideramos que esta etapa nos ha permitido transformar los problemas detectados en la P1 en decisiones de diseño más justificadas, coherentes y aplicables a una futura versión de mayor fidelidad.
+La solución mantiene el atractivo visual y temático de Anime Ramen, pero introduce mejoras orientadas a la claridad, la consulta de la carta, la visibilidad de la información útil y la reserva online. Como equipo, consideramos que esta etapa nos ha permitido transformar los problemas detectados en la Práctica 1 en decisiones de diseño más justificadas, coherentes y aplicables a una futura versión.
 
 
 
