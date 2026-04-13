@@ -2,7 +2,7 @@
 
 ## Ideación
 * [Mapa de empatía](Empathy_Customer_Map_AnimeRamen.pdf)
-* [Malla receptora de información](../README.md#2b-reframing--ideación-feedback-capture-grid)
+* [Feedback Capture Grid](../README.md#2b-reframing--ideación-feedback-capture-grid)
 * [Point of View](../README.md#2c-point-of-view)
 
 ## Propuesta de valor
