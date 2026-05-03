@@ -291,17 +291,17 @@ Esta adaptación no sustituye a los wireframes móviles anteriores, sino que los
 **Pantalla: Home Desktop**  
 La versión desktop de la home reorganiza la pantalla en un hero de dos columnas, con el contenido principal y los botones de acción a la izquierda, y una imagen destacada a la derecha. Debajo se plantea una sección de productos destacados y un bloque informativo con ubicación, horario y contacto.
 
-![Home Desktop Low-Fi](img/HomeDesktop_LowFi.png)
+![Home Desktop Low-Fi](img/Modelos_LoFi_1440X1024_Home.png)
 
 **Pantalla: Carta Desktop**  
 La carta digital en escritorio se plantea con una estructura más amplia, incorporando navegación superior, categorías, filtros laterales y un grid de tarjetas de producto. Esta decisión permite comparar platos con mayor facilidad y mejorar la exploración de la carta.
 
-![Carta Desktop Low-Fi](img/CartaDesktop_LowFi.png)
+![Carta Desktop Low-Fi](img/Modelos_LoFi_1440X1024_Carta.png)
 
 **Pantalla: Reserva Desktop**  
 El proceso de reserva en desktop se organiza en dos zonas: un bloque principal con los pasos del formulario y un resumen lateral de la reserva. Esta estructura permite que el usuario complete los datos y revise la información antes de confirmar.
 
-![Reserva Desktop Low-Fi](img/ReservaDesktop_LowFi.png)
+![Reserva Desktop Low-Fi](img/Modelos_LoFi_1440X1024_Reserva.png)
 
 
 
