@@ -8,119 +8,222 @@ Curso: **2025/26**
 
 ## Objetivo de la práctica
 
-Esta práctica recoge los entregables y prototipos del rediseño de **Anime Ramen**. A partir de los bocetos low-fi definidos en la Práctica 2, se ha desarrollado una propuesta Hi-Fi apoyada en un moodboard, un sistema de diseño ligero y una estructura de componentes basada en Atomic Design.
+En esta práctica se desarrollan los prototipos Hi Fi del rediseño de **Anime Ramen**. A partir de los bocetos low-fi definidos en la Práctica 2, se construye una propuesta Hi Fi más cercana a la versión final, apoyada en una guía visual, un sistema de diseño ligero y una organización de componentes en Figma.
 
-El objetivo ha sido transformar los bocetos iniciales en pantallas más cercanas al producto final, manteniendo la personalidad temática del restaurante y mejorando la claridad de la carta, la reserva y la navegación.
+El objetivo principal ha sido mantener la personalidad  del restaurante, relacionada con el ramen y la estética anime/japonesa, pero resolviendo mejor los problemas detectados en las prácticas anteriores, carga visual, falta de claridad en la carta, dificultad para localizar información útil y necesidad de una reserva más directa.
 
----
-
-## 1. Moodboard y logotipo
-
-El moodboard define la dirección visual del rediseño, paleta de colores, tipografías, iconografía, estilo de imagen, tono visual y logotipo.
-
-La propuesta utiliza una estética cálida y temática, combinando referencias al ramen y a la cultura visual japonesa con una interfaz más limpia y legible.
-
-**Evidencias:**
-
-- [Moodboard Anime Ramen PDF](Moodboard_AnimeRamen.pdf)
-
-![Moodboard Anime Ramen](../img/Moodboard_AnimeRamen.png)
-
-<p align="left">
-  <img src="../img/Main_Web_Logo.png" alt="Main Web Logo" width="180"/>
-  &nbsp;&nbsp;
-  <img src="../img/Main_Small_Red_Logo.png" alt="Small Red Logo" width="70"/>
-  &nbsp;&nbsp;
-  <img src="../img/Main_Small_Black_Logo.png" alt="Small Black Logo" width="70"/>
-</p>
+Para ello, se ha trabajado con una metodología basada en **Atomic Design**, estructurando el diseño en foundations, átomos, moléculas y organismos. Esta organización permite construir pantallas de forma más coherente y reutilizable, tanto en móvil como en escritorio.
 
 ---
 
-## 2. Design System / Atomic Design
+## Diseño visual
 
-Se ha desarrollado un sistema de diseño ligero en Figma basado en **Atomic Design**. La estructura permite reutilizar componentes y mantener coherencia visual entre las pantallas móviles y desktop.
+* [Moodboard + logotipo](Moodboard_AnimeRamen.pdf)
 
-### 2.1 Foundations
+El moodboard define la dirección del rediseño. En él se explican las principales decisiones de estilo que posteriormente hemos aplicado en el sistema de diseño y en los mockups Hi-Fi.
 
-Recogen los elementos visuales base: colores, tipografías, iconografía, jerarquía textual y criterios de legibilidad.
+La propuesta utiliza una estética cálida, temática y gastronómica, manteniendo la relación Anime Ramen. El rojo se utiliza como color principal de acción, el negro como color de contraste e identidad, y los tonos crema, marrón y gris cálido ayudan a suavizar la interfaz y mejorar la legibilidad.
 
-- [Foundations Anime Ramen PDF](Foundations_AnimeRamen.pdf)
+En tipografía se trabaja con **Space Grotesk** para títulos y elementos destacados, y **Inter** para textos funcionales, botones, filtros y contenido de lectura. La combinación busca mantener personalidad visual sin perjudicar la claridad de uso.
 
-![Foundations Anime Ramen](../img/Foundations_AnimeRamen.png)
+Además, se han definido tres versiones de logotipo:
 
-### 2.2 Átomos
+- Logotipo principal para uso web.
+- Imagotipo reducido en rojo.
+- Imagotipo reducido en negro.
 
-Incluyen los componentes mínimos reutilizables: botones, iconos, textos, chips, inputs, imágenes de producto y logotipos.
-
-- [Átomos Anime Ramen PDF](Atomos_AnimeRamen.pdf)
-
-![Átomos Anime Ramen](../img/Atomos_AnimeRamen.png)
-
-### 2.3 Moléculas
-
-Combinan varios átomos para formar unidades funcionales: tarjetas de ramen, barras de búsqueda, filtros, elementos de navegación, contacto y acciones.
-
-- [Moléculas Anime Ramen PDF](Moleculas_AnimeRamen.pdf)
-
-![Moléculas Anime Ramen](../img/Moleculas_AnimeRamen.png)
-
-### 2.4 Organismos
-
-Agrupan moléculas en secciones completas de interfaz: cabeceras, hero, grids de producto, footers, pop-ups y bloques funcionales.
-
-- [Organismos Anime Ramen PDF](Organismos_AnimeRamen.pdf)
-
-![Organismos Anime Ramen](../img/Organismos_AnimeRamen.png)
+Estos recursos permiten adaptar la identidad visual a distintos espacios de la interfaz, como cabeceras, iconos, pantallas iniciales o elementos de marca dentro del sistema.
 
 ---
 
-## 3. Mockups Hi-Fi
+## Design System / Atomic Design
 
-Los mockups Hi-Fi son la evolución visual de los wireframes low-fi definidos en la Práctica 2. Se han mantenido las mismas pantallas y flujos, aplicando el sistema visual y los componentes creados en Figma.
+Para construir el prototipo Hi-Fi se ha desarrollado un sistema de diseño ligero en Figma basado en **Atomic Design**. La idea principal ha sido organizar los elementos visuales y funcionales en distintos niveles de complejidad, de forma que el diseño sea más coherente, mantenible y reutilizable.
 
-### 3.1 Móvil
+La estructura del sistema se divide en:
 
-| Pantalla | Evidencia |
-| :--- | :--- |
-| Home móvil | [PDF](HiFi_Home_Movil.pdf) |
-| Carta móvil | [PDF](HiFi_Carta_Movil.pdf) |
-| Reserva móvil | [PDF](HiFi_Reserva_Movil.pdf) |
-| Confirmación de reserva móvil | [PDF](HiFi_Confirm_Reserva_Movil.pdf) |
-
-![Hi-Fi Home Móvil](../img/HiFi_Home_Movil.png)
-
-![Hi-Fi Carta Móvil](../img/HiFi_Carta_Movil.png)
-
-![Hi-Fi Reserva Móvil](../img/HiFi_Reserva_Movil.png)
-
-![Hi-Fi Confirmación Reserva Móvil](../img/HiFi_Confirm_Reserva_Movil.png)
-
-### 3.2 Desktop
-
-| Pantalla | Evidencia |
-| :--- | :--- |
-| Home desktop | [PDF](HiFi_Home_PC.pdf) |
-| Carta desktop | [PDF](HiFi_Carta_PC.pdf) |
-| Reserva desktop | [PDF](HiFi_Reserva_PC.pdf) |
-
-![Hi-Fi Home PC](../img/HiFi_Home_PC.png)
-
-![Hi-Fi Carta PC](../img/HiFi_Carta_PC.png)
-
-![Hi-Fi Reserva PC](../img/HiFi_Reserva_PC.png)
+* [Foundations](Foundations_AnimeRamen.pdf)
+* [Átomos](Atomos_AnimeRamen.pdf)
+* [Moléculas](Moleculas_AnimeRamen.pdf)
+* [Organismos](Organismos_AnimeRamen.pdf)
 
 ---
 
-## 4. Publicación del Case Study
+### Foundations
 
-El case study completo se encuentra documentado en el README principal del repositorio, donde se integra esta práctica dentro del proceso completo:
+* [Foundations](Foundations_AnimeRamen.pdf)
+
+Las foundations recogen las bases visuales del sistema. No son componentes funcionales como tal, sino las reglas y recursos que definen el aspecto general del producto.
+
+En este proyecto, las foundations sirven para asegurar que el rediseño mantiene la identidad de Anime Ramen, pero con una estructura más ordenada. La paleta de colores se apoya en colores cálidos y contrastados, mientras que la jerarquía tipográfica permite separar mejor títulos, textos descriptivos, botones, precios y etiquetas.
+
+Estas decisiones son importantes porque uno de los problemas detectados en la web original era la dificultad para escanear información rápidamente. Por eso, las foundations no solo tienen una función estética, sino también funcional.
+
+---
+
+### Átomos
+
+* [Átomos](Atomos_AnimeRamen.pdf)
+
+Los átomos son los elementos mínimos reutilizables de la interfaz. Son piezas que sirven como base para construir componentes más complejos.
+
+En el proyecto se han creado átomos como:
+
+- Botones principales y secundarios.
+- Botón de añadir producto.
+- Botón de pago.
+- Input de búsqueda.
+- Chips informativos.
+- Iconos de navegación y acción.
+- Textos base.
+- Precios.
+- Imágenes de producto.
+- Versiones del logotipo.
+
+La creación de estos átomos nos ha permitido que elementos como botones, iconos o etiquetas mantengan el mismo estilo en todas las pantallas. Además, al estar creados como componentes en Figma, se pueden reutilizar y modificar de forma más controlada.
+
+---
+
+### Moléculas
+
+* [Moléculas](Moleculas_AnimeRamen.pdf)
+
+Las moléculas combinan varios átomos para formar unidades funcionales más completas. Ya no son elementos aislados, sino pequeños bloques de interfaz con una finalidad concreta.
+
+En este proyecto se han desarrollado moléculas relacionadas con la carta, la navegación, la búsqueda, los filtros, el contacto, las redes sociales y las acciones de confirmación o cancelación.
+
+Ejemplos de moléculas:
+
+- Tarjeta de ramen.
+- Barra de búsqueda.
+- Elemento de navegación.
+- Filtro.
+- Dropdown de opciones.
+- Elemento de contacto.
+- Elemento de redes sociales.
+- Botón de aceptar.
+- Botón de cancelar.
+- Alerta de eliminación de producto.
+- Bloque descriptivo de ramen.
+
+La molécula principal del proyecto es la **tarjeta de ramen**, ya que agrupa varios elementos fundamentales de la carta: imagen del plato, nombre, información de ingredientes/precio y botón de acción. Esta tarjeta responde directamente a uno de los objetivos del rediseño: hacer que la carta sea más clara, visual y fácil de consultar.
+
+El uso de moléculas ayuda a evitar diseños repetidos manualmente y permite construir pantallas más consistentes.
+
+---
+
+### Organismos
+
+* [Organismos](Organismos_AnimeRamen.pdf)
+
+Los organismos son secciones completas de interfaz formadas a partir de moléculas y átomos. En esta fase, los componentes ya tienen suficiente complejidad como para formar bloques reconocibles dentro de una pantalla.
+
+En el proyecto se han creado organismos como:
+
+- Header principal.
+- Hero banner.
+- Grid de productos.
+- Bloques de menú.
+- Footer.
+- Footer alternativo.
+- Bloque de filtros y navegación.
+- Pop-up de alerta.
+- Bloques informativos de producto.
+
+Estos organismos se utilizan como base para montar los mockups Hi-Fi. Por ejemplo, la pantalla de carta se construye a partir de organismos como el header, el grid de productos y los filtros. La home combina hero, productos destacados y footer. La reserva aprovecha componentes de formulario, navegación y confirmación.
+
+El uso de organismos permite pasar del sistema de componentes al diseño de pantallas completas de forma más ordenada.
+
+---
+
+## Mockup: Layout Hi-Fi
+
+Los mockups Hi-Fi son la evolución visual de los wireframes low-fi definidos en la Práctica 2. No se han añadido nuevos flujos, sino que se han desarrollado las mismas pantallas con mayor nivel de detalle visual, aplicando el moodboard y el sistema de componentes.
+
+El objetivo ha sido convertir los bocetos iniciales en interfaces más cercanas al producto final, incorporando:
+
+- Colores definitivos.
+- Tipografías.
+- Imágenes.
+- Logotipos.
+- Iconografía.
+- Componentes reutilizables.
+- Jerarquía visual.
+- Distribución responsive.
+- Coherencia entre móvil y desktop.
+
+---
+
+### Mockups Hi-Fi móvil
+
+En móvil se han desarrollado las cuatro pantallas principales que ya estaban definidas en los low-fi:
+
+* [Home móvil](HiFi_Home_Movil.pdf)
+* [Carta móvil](HiFi_Carta_Movil.pdf)
+* [Reserva móvil](HiFi_Reserva_Movil.pdf)
+* [Confirmación de reserva móvil](HiFi_Confirm_Reserva_Movil.pdf)
+
+#### Home móvil
+
+La Home móvil funciona como pantalla inicial del rediseño. Presenta la identidad visual de Anime Ramen y prioriza los accesos principales a la carta y a la reserva.
+
+Esta pantalla busca que el usuario entienda rápidamente dónde está, qué ofrece el restaurante y qué acciones puede realizar. Por eso se da importancia a los CTA principales y a la presentación visual de la marca.
+
+#### Carta móvil
+
+La Carta móvil está pensada para resolver uno de los problemas principales detectados en la investigación: la dificultad para consultar platos, precios e información útil de forma rápida.
+
+El diseño utiliza tarjetas de producto, filtros y elementos visuales más ordenados para facilitar la exploración de la carta desde el móvil.
+
+#### Reserva móvil
+
+La pantalla de Reserva móvil organiza el proceso en pasos claros. El objetivo es reducir la incertidumbre del usuario y facilitar que pueda seleccionar local, fecha, hora, número de personas y datos de contacto sin perderse.
+
+#### Confirmación de reserva móvil
+
+La Confirmación de reserva proporciona feedback inmediato al usuario. Esta pantalla cierra el flujo y confirma que la acción se ha realizado correctamente, reforzando la sensación de control y confianza.
+
+---
+
+### Mockups Hi-Fi desktop
+
+En desktop se han desarrollado las tres adaptaciones responsive definidas en los low-fi:
+
+* [Home desktop](HiFi_Home_PC.pdf)
+* [Carta desktop](HiFi_Carta_PC.pdf)
+* [Reserva desktop](HiFi_Reserva_PC.pdf)
+
+#### Home desktop
+
+La Home desktop adapta la pantalla inicial a un formato más amplio. Aprovecha el espacio horizontal para distribuir mejor el hero, la imagen principal, los productos destacados y la información útil del restaurante.
+
+#### Carta desktop
+
+La Carta desktop utiliza una estructura más amplia que la versión móvil. Incorpora navegación superior, filtros laterales y grid de productos, lo que permite comparar platos con mayor facilidad y mejora la exploración de la carta.
+
+#### Reserva desktop
+
+La Reserva desktop organiza el proceso en dos zonas principales: formulario y resumen lateral. Esta solución permite que el usuario complete los datos y revise la información antes de confirmar, aprovechando mejor el espacio disponible en escritorio.
+
+---
+
+## Publicación del Case Study
+
+* [README principal del Case Study](../README.md)
+
+El case study completo se encuentra documentado en el README principal del repositorio. En él se integra esta práctica dentro del proceso completo de diseño:
 
 - Investigación y análisis UX.
-- Definición de usuarios, flujos y arquitectura.
+- Personas y journey maps.
+- Revisión de usabilidad.
+- Ideación y definición de propuesta.
+- User flows y sitemap.
 - Wireframes low-fi móvil y desktop.
 - Moodboard y logotipo.
 - Design System.
 - Mockups Hi-Fi móvil y desktop.
+
+Este README específico de la Práctica 3 funciona como índice técnico de evidencias y como explicación del trabajo visual realizado.
 
 ---
 
@@ -128,6 +231,10 @@ El case study completo se encuentra documentado en el README principal del repos
 
 La Práctica 3 ha permitido cerrar la evolución visual del proyecto, pasando de los bocetos low-fi a una propuesta Hi-Fi más coherente y cercana al producto final.
 
-El uso de Atomic Design ha facilitado la organización del sistema visual en foundations, átomos, moléculas y organismos. Esto ha permitido construir las pantallas finales de forma más ordenada y mantener coherencia entre la versión móvil y la versión desktop.
+El moodboard ayudó a definir una dirección visual clara para el rediseño, manteniendo la personalidad temática de Anime Ramen sin repetir la carga visual excesiva detectada en la web original. La elección de colores, tipografías, iconos y logotipo permitió construir una identidad más consistente.
 
-Como valoración final, el rediseño conserva la personalidad temática de Anime Ramen, pero mejora la claridad de la carta, la visibilidad de las acciones principales y la adaptación responsive de la experiencia.
+El uso de **Atomic Design** ha sido especialmente útil para ordenar el trabajo en Figma. Separar el sistema en foundations, átomos, moléculas y organismos nos permitió construir las pantallas finales de forma más modular y reutilizable. Además, trabajar con componentes e instancias facilitó mantener coherencia entre pantallas.
+
+La realización de mockups Hi-Fi tanto en móvil como en desktop permitió comprobar la adaptación responsive de la propuesta. En móvil se prioriza la claridad y la navegación directa, mientras que en desktop se aprovecha el espacio horizontal para mejorar la distribución de la carta, la home y el proceso de reserva.
+
+Como valoración final, consideramos que **RamenFlow** conserva el atractivo visual y temático de Anime Ramen, pero plantea una experiencia más clara, funcional y orientada a las tareas principales: consultar la carta, revisar platos y avanzar hacia una reserva online.
