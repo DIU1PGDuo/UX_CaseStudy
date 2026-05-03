@@ -456,24 +456,20 @@ A partir de los wireframes low-fi definidos en la Práctica 2 y del sistema visu
 
 Los mockups Hi-Fi mantienen la misma estructura y los mismos flujos que los wireframes low-fi. No se plantean pantallas nuevas, sino una evolución visual de las pantallas ya definidas previamente.
 
-En formato móvil, se han trabajado las mismas cuatro pantallas principales:
+En formato móvil, se han trabajado las mismas cuatro pantallas principales.
 
 1. **Home Page:** pantalla de bienvenida con acceso directo a la carta y a la reserva.
 2. **Carta digital:** pantalla para consultar platos, categorías, filtros e información útil.
 3. **Proceso de reserva:** pantalla guiada para seleccionar local, fecha, hora, número de personas y datos de contacto.
 4. **Confirmación de reserva:** pantalla final de feedback que confirma la acción realizada.
 
-En formato desktop, se han trabajado las tres adaptaciones responsive definidas en los low-fi:
+En formato desktop, se han trabajado las tres adaptaciones responsive definidas en los low-fi.
 
 1. **Home Desktop:** versión de escritorio de la home, con una organización más amplia del hero, productos destacados e información útil.
 2. **Carta Desktop:** versión de escritorio de la carta, con navegación superior, filtros laterales y grid de productos.
 3. **Reserva Desktop:** versión de escritorio del proceso de reserva, con formulario principal y resumen lateral de la reserva.
 
 El diseño Hi-Fi se ha construido reutilizando los componentes definidos en el sistema de diseño, foundations, átomos, moléculas y organismos. Esto permite mantener una mayor coherencia visual entre pantallas y facilita que los cambios de estilo o componentes se propaguen de forma controlada.
-
-El prototipo se realiza en Figma mediante componentes, instancias y Auto Layout, simulando las interacciones básicas necesarias para representar los flujos principales: acceder a la carta, revisar platos, iniciar una reserva y llegar a una confirmación.
-
-Este apartado se completará con las capturas del layout Hi-Fi, el PDF exportado y el enlace al prototipo de Figma.
 
 
 <br>
