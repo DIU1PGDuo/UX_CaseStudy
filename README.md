@@ -24,7 +24,15 @@ Nombre del Proyecto: RamenFlow - Anime Ramen Redesign
 
 Descripción: Propuesta de rediseño web para un restaurante temático de ramen, de forma que mantenga la personalidad de la marca, pero mejorando la consulta de la carta, la visibilidad de la información útil y la reserva online.
 
-Logotipo: Pendiente de definición en la Práctica 3
+Logotipo:Definido en la Práctica 3 como parte del moodboard y del sistema visual del rediseño.
+
+<p align="left">
+  <img src="img/Main_Web_Logo.png" alt="Main Web Logo" width="180"/>
+  &nbsp;&nbsp;
+  <img src="img/Main_Small_Red_Logo.png" alt="Small Red Logo" width="70"/>
+  &nbsp;&nbsp;
+  <img src="img/Main_Small_Black_Logo.png" alt="Small Black Logo" width="70"/>
+</p>
 
 
 Miembros y nombre del equipo:
