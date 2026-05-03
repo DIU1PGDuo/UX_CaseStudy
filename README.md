@@ -347,20 +347,8 @@ La resolución y composición del moodboard están pensadas principalmente para 
 ### 3.b Landing Page
 -----
 
-La landing page se desarrollará como pantalla inicial del rediseño Hi-Fi. Su función será presentar la identidad de **Anime Ramen** y dirigir al usuario hacia las dos acciones principales del sitio: consultar la carta y reservar mesa.
-
-En lugar de plantearla como una página promocional independiente, se integrará dentro del flujo principal como **Home Page**, aplicando los estilos definidos en el moodboard y conectando directamente con los wireframes trabajados en la Práctica 2. Esta decisión permite que la pantalla inicial no sea solo visual, sino también funcional y orientada a las tareas detectadas durante la investigación.
-
-La landing/home incluirá:
-
-- Mensaje principal de marca.
-- Subtítulo descriptivo de la experiencia.
-- CTA principal para acceder a la carta.
-- CTA secundario para reservar mesa.
-- Imagen o recurso visual de refuerzo.
-- Acceso a platos destacados y datos útiles del restaurante.
-
-Este apartado se completará con la exportación final del layout Hi-Fi correspondiente.
+>>> Plantear el Landing Page del producto.
+>>> No se lleva a cabo en esta Prática 3
 
 
 ### 3.c Guidelines
