@@ -282,6 +282,30 @@ Incluye una pantalla final de confirmación que proporciona retroalimentación i
 Este conjunto de wireframes permite comprobar que los flujos críticos de la propuesta, consultar la carta y reservar mesa, pueden resolverse de forma más clara, directa y coherente que en la web actual, con especial atención a la experiencia en móvil.
 
 
+#### Adaptación responsive desktop
+
+Además de los wireframes móviles, se desarrollaron tres bocetos low-fi en formato desktop con tamaño **1440 × 1024**. El objetivo fue comprobar cómo se reorganizan los flujos principales de la propuesta en una pantalla más amplia antes de pasar al diseño visual Hi-Fi de la Práctica 3.
+
+Esta adaptación no sustituye a los wireframes móviles anteriores, sino que los complementa. Se mantienen las mismas tareas principales, como consultar la carta, revisar información útil y completar una reserva, pero aprovechando el espacio horizontal propio de escritorio para mejorar la jerarquía visual, la distribución del contenido y la claridad de navegación.
+
+**Pantalla: Home Desktop**  
+La versión desktop de la home reorganiza la pantalla en un hero de dos columnas, con el contenido principal y los botones de acción a la izquierda, y una imagen destacada a la derecha. Debajo se plantea una sección de productos destacados y un bloque informativo con ubicación, horario y contacto.
+
+![Home Desktop Low-Fi](img/HomeDesktop_LowFi.png)
+
+**Pantalla: Carta Desktop**  
+La carta digital en escritorio se plantea con una estructura más amplia, incorporando navegación superior, categorías, filtros laterales y un grid de tarjetas de producto. Esta decisión permite comparar platos con mayor facilidad y mejorar la exploración de la carta.
+
+![Carta Desktop Low-Fi](img/CartaDesktop_LowFi.png)
+
+**Pantalla: Reserva Desktop**  
+El proceso de reserva en desktop se organiza en dos zonas: un bloque principal con los pasos del formulario y un resumen lateral de la reserva. Esta estructura permite que el usuario complete los datos y revise la información antes de confirmar.
+
+![Reserva Desktop Low-Fi](img/ReservaDesktop_LowFi.png)
+
+
+
+
 ### 2.i Conclusiones
 ----
 
