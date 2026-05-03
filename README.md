@@ -318,11 +318,10 @@ La solución mantiene el atractivo visual y temático de Anime Ramen, pero intro
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
-En la tercera práctica se pasa de los wireframes low-fi definidos en la Práctica 2 a una propuesta de interfaz Hi-Fi más cercana al producto final. 
+En la tercera práctica se ha pasado de los modelos low-fi definidos en la Práctica 2 a una propuesta más cercana al producto final. Para ello, se ha desarrollado una guía visual mediante moodboard, un sistema de diseño ligero basado en Atomic Design y una estructura de componentes en Figma preparada para construir los layouts Hi-Fi.
 
-Para ello, se desarrolla una guía visual mediante moodboard, un sistema de diseño ligero basado en Atomic Design y una serie de layouts Hi-Fi en Figma.
+El objetivo de esta fase ha sido mantener la personalidad temática de **Anime Ramen**, pero construyendo una interfaz más clara, consistente y reutilizable. La propuesta visual equilibra la estética anime/gastronómica del restaurante con una experiencia más legible, funcional y orientada a tareas como consultar la carta, revisar platos y reservar mesa.
 
-El objetivo de esta fase es mantener la personalidad temática de **Anime Ramen**, pero construyendo una interfaz más clara, consistente y reutilizable. La propuesta visual busca equilibrar la estética anime/gastronómica del restaurante con una experiencia más legible, funcional y orientada a tareas como consultar la carta, revisar platos y reservar mesa.
 
 
 ### 3.a Moodboard
@@ -331,15 +330,15 @@ El objetivo de esta fase es mantener la personalidad temática de **Anime Ramen*
 
 Para definir la dirección del rediseño de **Anime Ramen**, se elaboró un moodboard centrado en mantener la personalidad temática del restaurante, pero con una interfaz más clara y ordenada. El moodboard funciona como guía visual inicial para tomar decisiones sobre color, tipografía, iconografía, estilo de imagen y tono de comunicación.
 
-La propuesta combina una estética inspirada en el ramen y en la cultura visual japonesa con una estructura más limpia y funcional. Se seleccionó una paleta de colores cálida y contrastada, donde el rojo funciona como color principal de acción, el negro aporta identidad y contraste, y los tonos crema, marrón y gris cálido suavizan la interfaz y mejoran la legibilidad.
+La propuesta combina una estética inspirada en el ramen y en la cultura visual japonesa con una estructura más limpia y funcional. Se seleccionó una paleta de colores cálida y contrastada, donde el rojo funciona como color principal de acción, el negro aporta contraste, y los tonos crema, marrón y gris cálido suavizan la interfaz y mejoran la legibilidad.
 
-En cuanto a tipografía, se propone **Space Grotesk** para títulos y, por su carácter moderno y reconocible, e **Inter** para textos funcionales, botones, filtros y contenido de lectura, por su buena legibilidad en pantalla. Esta combinación permite mantener una personalidad visual marcada sin comprometer la claridad.
+En cuanto a tipografía, se eligió **Space Grotesk** para títulos y elementos destacados, por su carácter moderno y reconocible, e **Inter** para textos funcionales, botones, filtros y contenido de lectura, por su buena legibilidad en pantalla. Esta combinación permite mantener una personalidad visual marcada sin comprometer la claridad.
 
-El moodboard también incluye referencias visuales de platos, logotipo, iconos y estilo de composición, que posteriormente se trasladan al sistema de diseño y al layout Hi-Fi. El logotipo y los recursos visuales se plantean como parte de una identidad más consistente para el rediseño, manteniendo la relación con el universo ramen y la estética temática del restaurante.
+El moodboard también incluye referencias visuales de platos, logotipo, iconos y estilo de composición, que posteriormente se trasladaron al sistema de diseño y al layout Hi-Fi. El logotipo y los recursos visuales se plantearon como parte de una identidad más consistente para el rediseño, manteniendo la relación con el universo ramen y la estética temática del restaurante.
 
-La resolución y composición del moodboard están pensadas principalmente para documentar el proceso de diseño dentro del case study. Para usos como cabecera de Instagram u otros formatos promocionales, sería necesario adaptar la composición a proporciones específicas, ya que una misma imagen no siempre funciona igual en formato horizontal, cuadrado o vertical.
+La resolución y composición del moodboard están pensadas principalmente para documentar el proceso de diseño dentro del case study.
 
-**Herramientas utilizadas:** Figma para la organización del moodboard, pruebas de paleta, tipografía e integración de referencias visuales, y uso de IA generativa de imágenes para componer el logotipo.
+**Herramientas utilizadas:** Figma para la organización del moodboard, pruebas de paleta, tipografía e integración de referencias visuales, y uso de IA generativa de imágenes como apoyo para componer el logotipo.
 
 **Moodboard PDF:** [Moodboard Anime Ramen](P3/Moodboard_AnimeRamen.pdf)
 
@@ -347,18 +346,22 @@ La resolución y composición del moodboard están pensadas principalmente para 
 ### 3.b Landing Page
 -----
 
->>> Plantear el Landing Page del producto.
->>> No se lleva a cabo en esta Prática 3
+>>> Realizado como Activida de teoría | NO se lleva a cabo en esta práctica 3-
 
 
 ### 3.c Guidelines
 -----
 
-La estructura del sistema en Figma se organiza en cuatro niveles principales:
+Para la fase de prototipado se ha construido un **Design System ligero** basado en Atomic Design. El objetivo ha sido organizar los elementos visuales y funcionales del rediseño en componentes reutilizables, manteniendo consistencia entre pantallas y facilitando la creación de layouts Hi-Fi.
+
+La estructura del sistema en Figma se ha organizado en cuatro niveles principales: foundations, átomos, moléculas y organismos.
+
 
 #### Foundations
 
-En la página de foundations se documentan los elementos base del lenguaje visual:
+![Foundations Anime Ramen](img/Foundations_AnimeRamen.png)
+
+En la página de foundations se documentaron los elementos base del lenguaje visual:
 
 - Paleta de colores.
 - Tipografías principales.
@@ -369,11 +372,16 @@ En la página de foundations se documentan los elementos base del lenguaje visua
 
 Los colores principales definidos son el negro carbón, el rojo ramen, tonos crema, marrones y grises cálidos. Esta paleta mantiene el carácter visual del restaurante, pero permite construir una interfaz más clara y equilibrada.
 
+La tipografía se organiza con **Space Grotesk** para titulares y mensajes destacados, e **Inter** para navegación, carta, filtros, formularios, precios y confirmaciones. También se definieron niveles de jerarquía como H1, H2, Body, Label y Button.
+
+
 #### Átomos
 
-Los átomos representan las unidades mínimas reutilizables de la interfaz. En el proyecto se han creado componentes para botones, iconos, textos, imágenes de producto, chips informativos, inputs y acciones básicas.
+![Átomos Anime Ramen](img/Atomos_AnimeRamen.png)
 
-Ejemplos de átomos previstos o creados:
+Los átomos representan las unidades mínimas reutilizables de la interfaz. En el proyecto se crearon componentes para botones, iconos, textos, imágenes de producto, chips informativos, inputs y acciones básicas.
+
+Ejemplos de átomos creados:
 
 - Button / Primary.
 - Button / Secondary.
@@ -384,70 +392,88 @@ Ejemplos de átomos previstos o creados:
 - Chip / Price.
 - Icon / Cart.
 - Icon / Search.
+- Icon / Location.
+- Icon / Settings.
 - Text / Header.
 - Text / Price.
+- Imágenes de producto.
+- Versiones de logotipo.
 
-Entre otros.
+Estos átomos permiten mantener una base visual coherente y reutilizable para construir elementos más complejos.
+
 
 #### Moléculas
 
-Las moléculas combinan varios átomos para formar unidades funcionales más completas. La principal molécula creada hasta el momento es la tarjeta de producto de ramen, formada por imagen, nombre, chips informativos y botón de añadir.
+![Moléculas Anime Ramen](img/Moleculas_AnimeRamen.png)
 
-También se plantean moléculas para búsqueda, navegación, filtros, elementos de carrito, contacto y enlaces sociales.
+Las moléculas combinan varios átomos para formar unidades funcionales más completas. Una de las principales moléculas creadas fue la tarjeta de producto de ramen, formada por imagen, nombre, chips informativos y botón de añadir.
 
-Ejemplos de moléculas:
+También se desarrollaron moléculas orientadas a navegación, búsqueda, filtros, contacto, redes sociales y acciones de confirmación o cancelación.
+
+Ejemplos de moléculas creadas:
 
 - Molecule / Ramen Card.
+- Molecule / Header básico.
+- Molecule / Description Ramen.
 - Molecule / Search Bar.
 - Molecule / Nav Item.
-- Molecule / Filter Option.
-- Molecule / Cart Item.
-- Molecule / Checkout Row.
-- Molecule / Social Link.
+- Molecule / Filters.
+- Molecule / Options Dropdown.
 - Molecule / Contact Item.
+- Molecule / Social Dropdown.
+- Molecule / Accept.
+- Molecule / Cancel.
+- Molecule / Settings.
+- Molecule / Alert Delete Product.
+
+Estas moléculas permiten construir bloques funcionales sin tener que rediseñar cada elemento desde cero.
+
 
 #### Organismos
 
-Los organismos combinan moléculas para formar secciones completas de la interfaz. Estos componentes se utilizarán directamente para construir las pantallas Hi-Fi.
+![Organismos Anime Ramen](img/Organismos_AnimeRamen.png)
 
-Ejemplos de organismos previstos:
+Los organismos combinan moléculas para formar secciones completas de la interfaz. Estos componentes se utilizaron como base para construir las pantallas Hi-Fi.
 
-- Header principal.
-- Hero section.
-- Grid de productos.
-- Barra de filtros.
-- Panel de carrito.
-- Formulario de reserva.
+Ejemplos de organismos creados:
+
+- Grid de productos / menú.
+- Cabecera con buscador.
+- Header / Hero Banner.
 - Footer.
+- Footer alternativo.
+- Organismo de filtros y navegación.
+- Pop-up de alerta.
+- Bloques informativos de producto.
 
-El uso de componentes, instancias y Auto Layout en Figma permite mantener la consistencia visual y facilita la adaptación responsive entre móvil y escritorio.
-
-Este apartado se completará posteriormente con las capturas/exportaciones de foundations, átomos, moléculas y organismos.
+El uso de componentes, instancias y Auto Layout en Figma permitió mantener la consistencia visual y facilitar la adaptación responsive entre móvil y escritorio.
 
 
 ### 3.d Mockup
 -----
 
-A partir de los wireframes definidos en la Práctica 2 y del sistema visual desarrollado en esta práctica, se construye un mockup Hi-Fi en Figma. El objetivo es transformar los bocetos low-fi en una interfaz visualmente acabada, aplicando colores, tipografías, imágenes, componentes y jerarquía visual.
+A partir de los wireframes low-fi definidos en la Práctica 2 y del sistema visual desarrollado en esta práctica, se han construido los mockups Hi-Fi en Figma. El objetivo ha sido transformar los bocetos iniciales en pantallas visualmente acabadas, aplicando la paleta de colores, tipografías, imágenes, componentes, jerarquía visual y estilo definido en el moodboard.
 
-El mockup se centrará en los flujos principales del proyecto:
+Los mockups Hi-Fi mantienen la misma estructura y los mismos flujos que los wireframes low-fi. No se plantean pantallas nuevas, sino una evolución visual de las pantallas ya definidas previamente.
 
-- Acceder a la home y entender la propuesta del restaurante.
-- Consultar la carta digital.
-- Explorar platos mediante tarjetas y filtros.
-- Avanzar hacia una reserva.
-- Confirmar la acción o revisar información útil.
+En formato móvil, se han trabajado las mismas cuatro pantallas principales:
 
-Las pantallas Hi-Fi previstas son:
+1. **Home Page:** pantalla de bienvenida con acceso directo a la carta y a la reserva.
+2. **Carta digital:** pantalla para consultar platos, categorías, filtros e información útil.
+3. **Proceso de reserva:** pantalla guiada para seleccionar local, fecha, hora, número de personas y datos de contacto.
+4. **Confirmación de reserva:** pantalla final de feedback que confirma la acción realizada.
 
-1. **Home / Landing Page:** pantalla de bienvenida con identidad visual, CTA de carta y reserva, y platos destacados.
-2. **Carta digital:** grid/listado de productos con filtros, búsqueda y tarjetas de ramen.
-3. **Reserva:** proceso guiado con selección de local, fecha, hora, número de personas y datos de contacto.
-4. **Confirmación / estado final:** pantalla de feedback que confirma la reserva o acción realizada.
+En formato desktop, se han trabajado las tres adaptaciones responsive definidas en los low-fi:
 
-El prototipo se realizará en Figma utilizando componentes reutilizables, instancias y Auto Layout. También se simularán interacciones básicas entre pantallas para representar el flujo principal de navegación.
+1. **Home Desktop:** versión de escritorio de la home, con una organización más amplia del hero, productos destacados e información útil.
+2. **Carta Desktop:** versión de escritorio de la carta, con navegación superior, filtros laterales y grid de productos.
+3. **Reserva Desktop:** versión de escritorio del proceso de reserva, con formulario principal y resumen lateral de la reserva.
 
-Este apartado se completará posteriormente con las capturas del layout Hi-Fi, el PDF exportado y el enlace al prototipo de Figma.
+El diseño Hi-Fi se ha construido reutilizando los componentes definidos en el sistema de diseño, foundations, átomos, moléculas y organismos. Esto permite mantener una mayor coherencia visual entre pantallas y facilita que los cambios de estilo o componentes se propaguen de forma controlada.
+
+El prototipo se realiza en Figma mediante componentes, instancias y Auto Layout, simulando las interacciones básicas necesarias para representar los flujos principales: acceder a la carta, revisar platos, iniciar una reserva y llegar a una confirmación.
+
+Este apartado se completará con las capturas del layout Hi-Fi, el PDF exportado y el enlace al prototipo de Figma.
 
 
 <br>
