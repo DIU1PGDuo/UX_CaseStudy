@@ -449,27 +449,88 @@ Ejemplos de organismos creados:
 El uso de componentes, instancias y Auto Layout en Figma permitió mantener la consistencia visual y facilitar la adaptación responsive entre móvil y escritorio.
 
 
+
 ### 3.d Mockup
 -----
 
-A partir de los wireframes low-fi definidos en la Práctica 2 y del sistema visual desarrollado en esta práctica, se han construido los mockups Hi-Fi en Figma. El objetivo ha sido transformar los bocetos iniciales en pantallas visualmente acabadas, aplicando la paleta de colores, tipografías, imágenes, componentes, jerarquía visual y estilo definido en el moodboard.
+A partir de los diseños low-fi definidos en la Práctica 2, se han construido los diseños o mockups Hi-Fi en Figma. El objetivo ha sido transformar los bocetos iniciales en pantallas visualmente acabadas, aplicando la paleta de colores, tipografías, imágenes, componentes, jerarquía visual y estilo definido en el moodboard.
 
 Los mockups Hi-Fi mantienen la misma estructura y los mismos flujos que los wireframes low-fi. No se plantean pantallas nuevas, sino una evolución visual de las pantallas ya definidas previamente.
 
-En formato móvil, se han trabajado las mismas cuatro pantallas principales.
+El diseño Hi-Fi se ha construido utilizando los componentes foundations, átomos, moléculas y organismos. Esto permite mantener una mayor coherencia visual entre pantallas y facilita que los cambios de estilo o componentes se propaguen de forma controlada.
 
-1. **Home Page:** pantalla de bienvenida con acceso directo a la carta y a la reserva.
-2. **Carta digital:** pantalla para consultar platos, categorías, filtros e información útil.
-3. **Proceso de reserva:** pantalla guiada para seleccionar local, fecha, hora, número de personas y datos de contacto.
-4. **Confirmación de reserva:** pantalla final de feedback que confirma la acción realizada.
 
-En formato desktop, se han trabajado las tres adaptaciones responsive definidas en los low-fi.
+#### Mockups Hi-Fi móvil
 
-1. **Home Desktop:** versión de escritorio de la home, con una organización más amplia del hero, productos destacados e información útil.
-2. **Carta Desktop:** versión de escritorio de la carta, con navegación superior, filtros laterales y grid de productos.
-3. **Reserva Desktop:** versión de escritorio del proceso de reserva, con formulario principal y resumen lateral de la reserva.
+En formato móvil, se han trabajado las mismas cuatro pantallas principales definidas en los wireframes low-fi: Home, Carta, Proceso de reserva y Confirmación de reserva.
 
-El diseño Hi-Fi se ha construido reutilizando los componentes definidos en el sistema de diseño, foundations, átomos, moléculas y organismos. Esto permite mantener una mayor coherencia visual entre pantallas y facilita que los cambios de estilo o componentes se propaguen de forma controlada.
+**Pantalla: Home móvil**  
+La pantalla de inicio presenta la identidad visual del restaurante y prioriza los accesos principales a la carta y a la reserva.
+
+![Hi-Fi Home Móvil](img/HiFi_Home_Movil.png)
+
+**PDF:** [HiFi Home Móvil](P3/HiFi_Home_Movil.pdf)
+
+**Pantalla: Carta móvil**  
+La carta digital permite consultar los platos mediante una estructura visual basada en tarjetas, filtros e información clara sobre cada producto.
+
+![Hi-Fi Carta Móvil](img/HiFi_Carta_Movil.png)
+
+**PDF:** [HiFi Carta Móvil](P3/HiFi_Carta_Movil.pdf)
+
+**Pantalla: Reserva móvil**  
+El proceso de reserva organiza la información en pasos claros para facilitar la selección de local, fecha, hora, número de personas y datos de contacto.
+
+![Hi-Fi Reserva Móvil](img/HiFi_Reserva_Movil.png)
+
+**PDF:** [HiFi Reserva Móvil](P3/HiFi_Reserva_Movil.pdf)
+
+**Pantalla: Confirmación de reserva móvil**  
+La pantalla final proporciona feedback inmediato al usuario y confirma que la acción se ha completado correctamente.
+
+![Hi-Fi Confirmación Reserva Móvil](img/HiFi_Confirm_Reserva_Movil.png)
+
+**PDF:** [HiFi Confirmación Reserva Móvil](P3/HiFi_Confirm_Reserva_Movil.pdf)
+
+
+#### Mockups Hi-Fi desktop
+
+En formato desktop, se han trabajado las tres adaptaciones responsive definidas en los low-fi: Home, Carta y Reserva. Estas versiones aprovechan el espacio horizontal para mejorar la jerarquía visual, organizar mejor los contenidos y facilitar la consulta de información.
+
+**Pantalla: Home desktop**  
+La versión de escritorio de la home amplía la composición mediante un hero más visual, una sección de productos destacados y bloques de información útil.
+
+![Hi-Fi Home PC](img/HiFi_Home_PC.png)
+
+**PDF:** [HiFi Home PC](P3/HiFi_Home_PC.pdf)
+
+**Pantalla: Carta desktop**  
+La carta en escritorio utiliza una estructura más amplia, con navegación superior, filtros laterales y grid de productos, facilitando la comparación entre platos.
+
+![Hi-Fi Carta PC](img/HiFi_Carta_PC.png)
+
+**PDF:** [HiFi Carta PC](P3/HiFi_Carta_PC.pdf)
+
+**Pantalla: Reserva desktop**  
+La reserva en escritorio se organiza con un formulario principal y un resumen lateral, permitiendo al usuario completar los datos y revisar la información antes de confirmar.
+
+![Hi-Fi Reserva PC](img/HiFi_Reserva_PC.png)
+
+**PDF:** [HiFi Reserva PC](P3/HiFi_Reserva_PC.pdf)
+
+
+En conjunto, los mockups Hi-Fi permiten comprobar cómo la propuesta visual se aplica sobre los flujos definidos anteriormente, manteniendo la coherencia entre móvil y escritorio y reforzando la claridad de las acciones principales del sitio.
+
+
+### 3.e Briefing y conclusiones
+-----
+
+La Práctica 3 ha permitido transformar la propuesta definida en las fases anteriores en una interfaz visualmente más acabada y coherente. A partir del moodboard se estableció una dirección visual basada en una estética cálida, temática y gastronómica, manteniendo la identidad de Anime Ramen pero mejorando la legibilidad y la organización de la información.
+
+El sistema de diseño basado en Atomic Design facilitó la creación de componentes reutilizables y consistentes.
+
+Como conclusión, la propuesta final mantiene el atractivo visual del restaurante, pero lo organiza en una experiencia más clara y orientada a las tareas principales: consultar la carta, revisar platos y avanzar hacia la reserva.
+
 
 
 <br>
