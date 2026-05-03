@@ -326,7 +326,7 @@ El objetivo de esta fase es mantener la personalidad temática de **Anime Ramen*
 
 
 ### 3.a Moodboard
-![Moodboard Anime Ramen](img/moodboard_Anime_Ramen.png)
+![Moodboard Anime Ramen](img/Moodboard_AnimeRamen.png)
 -----
 
 Para definir la dirección del rediseño de **Anime Ramen**, se elaboró un moodboard centrado en mantener la personalidad temática del restaurante, pero con una interfaz más clara y ordenada. El moodboard funciona como guía visual inicial para tomar decisiones sobre color, tipografía, iconografía, estilo de imagen y tono de comunicación.
@@ -341,7 +341,7 @@ La resolución y composición del moodboard están pensadas principalmente para 
 
 **Herramientas utilizadas:** Figma para la organización del moodboard, pruebas de paleta, tipografía e integración de referencias visuales, y uso de IA generativa de imágenes para componer el logotipo.
 
-**Moodboard PDF:** [Moodboard Anime Ramen](P3/moodboard_Anime_Ramen.pdf)
+**Moodboard PDF:** [Moodboard Anime Ramen](P3/Moodboard_AnimeRamen.pdf)
 
 
 ### 3.b Landing Page
