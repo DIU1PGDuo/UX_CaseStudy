@@ -547,70 +547,55 @@ Como conclusión, la propuesta final mantiene el atractivo visual del restaurant
 
 
 
-## Paso 4. Pruebas de Evaluación 
+## Paso 4. De Figma a prototipo web interactivo
 
-### 4.a Reclutamiento de usuarios 
-![Método UX](img/usability-testing.png)
------
+En esta práctica se ha pasado del diseño Hi-Fi realizado en Figma a una primera versión web interactiva del proyecto **RamenFlow - Anime Ramen Redesign**. Para ello se ha utilizado **Figma Make**, una de las opciones planteadas para convertir el mockup visual en una aplicación navegable mediante generación asistida por IA.
 
->>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
->>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
+El punto de partida han sido los mockups Hi-Fi desarrollados en la Práctica 3, tanto en formato escritorio como en formato móvil. A partir de estos diseños se han generado dos versiones publicadas del prototipo: una versión desktop y una versión móvil. Ambas mantienen la identidad visual definida previamente, basada en fondo oscuro, rojo como color principal de acción, logotipo de Anime Ramen, navegación clara, carta digital y flujo de reserva.
 
+### 4.a Conversión del diseño con Figma Make
 
+Para la conversión se trabajó directamente desde los diseños Hi-Fi de Figma, adjuntando las pantallas y utilizando prompts para generar una aplicación web funcional. El proceso no consistió únicamente en una exportación automática, sino en una adaptación iterativa del diseño.
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+Primero se generó una versión inicial de escritorio basada en las pantallas desktop de Home, Carta y Reserva. Posteriormente se realizaron ajustes para acercar el resultado al lenguaje visual del proyecto: navegación en español, uso del logotipo de Anime Ramen, botones rojos, carta con productos, buscador, filtros y flujo de reserva.
 
+Después se generó una versión móvil tomando como referencia las pantallas Hi-Fi móviles. Esta versión se adaptó a una estructura más propia de móvil, con una navegación más simple, tarjetas de producto en formato vertical, formulario de reserva y pantalla de confirmación.
 
-### 4.b Diseño de las pruebas 
-![Método UX](img/usability-testing.png) 
------
+Durante el proceso también se añadió una interacción básica de carrito/pedido. Esta funcionalidad no estaba desarrollada como pantalla independiente en los mockups originales, pero se incorporó para dar sentido a los botones de añadir producto y mejorar la coherencia del prototipo como aplicación web.
 
->>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
+### 4.b Versiones publicadas
 
+Las dos versiones del prototipo se han publicado directamente desde Figma Make para facilitar su evaluación.
 
+- [Versión desktop del prototipo](https://hide-eject-71993137.figma.site)
+- [Versión móvil del prototipo](https://whoop-earth-04195838.figma.site)
 
-### 4.c Cuestionario SUS
-![Método UX](img/Survey.png) 
-----
+La versión desktop adapta el diseño a una pantalla amplia, con una composición más visual, navegación superior, carta organizada mediante tarjetas y un flujo de reserva accesible desde la navegación principal.
 
->>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). Previamente conozca en qué consiste la escala SUS y cómo se interpretan sus resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
->>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
+La versión móvil toma como base las pantallas móviles diseñadas en Figma y las convierte en una experiencia navegable, permitiendo recorrer la Home, la Carta, el proceso de Reserva y la pantalla de Confirmación.
 
+### 4.c Componentes e interacción
 
-### 4.d A/B Testing
-![Método UX](img/ABtesting.png) 
------
+El prototipo generado mantiene la lógica del sistema visual creado en la Práctica 3 mediante Atomic Design. Aunque Figma Make no genera una documentación equivalente a Storybook, sí ha permitido trasladar a una aplicación interactiva muchos de los elementos definidos previamente:
 
->>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
+- Botones principales y secundarios.
+- Navegación entre secciones.
+- Tarjetas de producto.
+- Buscador.
+- Filtros de carta.
+- Formulario de reserva.
+- Pantalla de confirmación.
+- Elementos básicos de carrito/pedido.
 
-### 4.e Aplicación del método Eye Tracking 
-![Método UX](img/eye-tracking.png)
-----
+Las interacciones principales permiten navegar entre Inicio, Carta y Reserva. Además, los botones de la carta permiten simular la acción de añadir productos, y el flujo de reserva permite avanzar hasta una pantalla final de confirmación.
 
->>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
+### 4.d Briefing y valoración
 
+La Práctica 4 ha permitido comprobar cómo un diseño Hi-Fi puede convertirse en una primera versión web interactiva. Figma Make ha sido útil para generar una base funcional del proyecto y para validar la continuidad entre el diseño visual, los componentes y la navegación.
 
-![experimento](img/experimentoET.png)  
->>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
+El proceso también ha mostrado algunas limitaciones. La conversión automática no respeta siempre el diseño original de forma exacta, por lo que fue necesario ajustar el resultado mediante prompts y revisar varias versiones hasta conseguir una propuesta coherente con la identidad de Anime Ramen.
 
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
-
-
-### 4.f Usability Report de B
-![Método UX](img/usability-report.png) 
------
-
->>> Añadir report de usabilidad para práctica B (la de los compañeros) aportando resultados y valoración de cada debilidad de usabilidad. 
->>> Enlazar aqui con el archivo subido a P4/ que indica qué equipo evalua a qué otro equipo.
-
->>> Complementad el Case Study en su Paso 4 con una Valoración personal del equipo sobre esta tarea
+Como valoración final, el resultado cumple el objetivo de la práctica: transformar los mockups de **RamenFlow - Anime Ramen Redesign** en un prototipo web navegable. La solución conserva los flujos principales de consulta de carta, interacción con productos, reserva y confirmación, y permite evaluar la propuesta de forma más realista que con un mockup estático.
 
 
 
