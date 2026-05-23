@@ -56,11 +56,11 @@ Se aplicó la metodología biométrica de seguimiento ocular (*Eye Tracking*) me
 
 * **Análisis de la página de Inicio:** El mapa de calor muestra una intensa fijación visual (manchas rojas y cálidas) concentrada casi en su totalidad en el carrusel de fotografías de platos de ramen situado en el lateral derecho de la pantalla. En contraste, el bloque de texto descriptivo de la izquierda y el botón de llamada a la acción principal (*CTA*) "Contempla Nuestro Menú" sufren del fenómeno de "ceguera visual", recibiendo un impacto atencional sumamente bajo y disperso debido al excesivo peso de las imágenes decorativas.
 
-![Mapa de calor - Inicio](P4/VisionCalorInicio.png)
+![Mapa de calor - Inicio](img/VisionCalorInicio.png)
 
 * **Análisis de la Carta:** En la pantalla del menú, la atención se monopoliza por completo en la cuadrícula central con las imágenes de la comida. El panel lateral izquierdo destinado a los filtros por categorías y atributos dietéticos (alérgenos, opción vegana, etc.) es ignorado visualmente de forma absoluta por los usuarios (*tunnel vision*), lo que justifica las fricciones y dificultades experimentadas por la muestra para completar con éxito la Tarea 1.
 
-![Mapa de calor - Carta](P4/VisionCalorCarta.png)
+![Mapa de calor - Carta](img/VisionCalorCarta.png)
 
 ---
 
