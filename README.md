@@ -648,11 +648,11 @@ Se aplicó la metodología biométrica de seguimiento ocular (*Eye Tracking*) me
 
 * **Análisis de la Carta:** La atención se monopoliza por completo en la cuadrícula central con las fotos de la comida. El panel lateral izquierdo de los filtros de alérgenos y categorías es ignorado visualmente (*tunnel vision*), lo que justifica las dificultades para completar la Tarea 1.
 
-![Mapa de calor - Carta](./img/VisionCarta.png)
+![Mapa de calor - Carta](./img/VisionCalorCarta.png)
 
 * **Análisis del proceso de Reserva:** Durante el flujo de conversión final, la atención visual se dispersa entre los elementos decorativos y los diferentes campos del formulario. Esta falta de foco visual claro en el botón de confirmación explica la frustración de los usuarios y la baja puntuación (58.5) obtenida en el cuestionario SUS.
 
-![Mapa de calor - Reserva](./img/VisionReserva.png)
+![Mapa de calor - Reserva](./img/VisionCalorReserva.png)
 
 ---
 
