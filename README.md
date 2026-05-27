@@ -354,8 +354,7 @@ La resolución y composición del moodboard están pensadas principalmente para 
 ### 3.b Landing Page
 -----
 
->>> Realizado como Actividad de teoría | NO se lleva a cabo en esta práctica 3
-
+La landing page se trabajó como actividad de teoría, por lo que no se incluye como entregable específico dentro de esta Práctica 3. En esta fase se priorizó la documentación del moodboard, el sistema de diseño, los componentes y los mockups Hi-Fi.
 
 ### 3.c Guidelines
 -----
@@ -599,6 +598,8 @@ Como valoración final, el resultado cumple el objetivo de la práctica: transfo
 
 <br>
 
+## Paso 5. Exportación y Documentación
+
 ### 5.a Reclutamiento de usuarios
 El proceso de evaluación se ha basado en un estudio entre-sujetos (*Between-Subjects Study*) con una muestra total de 10 participantes independientes, distribuidos de manera equitativa: 5 usuarios asignados para evaluar nuestra propuesta (Caso A) y 5 usuarios para evaluar la propuesta de los compañeros (Caso B - Rakuin Ramen).
 
@@ -660,7 +661,9 @@ Se ha elaborado un informe de usabilidad completo y detallado para el Caso B, el
 * El documento de la auditoría se encuentra publicado en el repositorio de forma pública bajo la nomenclatura oficial: [Ver Usability Report del Caso B (Rakuin Ramen)](./P4/P4_UsabReport_RakuinRamen_doneby_DIU2_EA.md)
 
 
+
 <br>
+
 
 ## Conclusiones finales & Valoración de las prácticas
 
