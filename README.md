@@ -354,7 +354,7 @@ La resolución y composición del moodboard están pensadas principalmente para 
 ### 3.b Landing Page
 -----
 
->>> Realizado como Activida de teoría | NO se lleva a cabo en esta práctica 3-
+>>> Realizado como Actividad de teoría | NO se lleva a cabo en esta práctica 3
 
 
 ### 3.c Guidelines
@@ -475,30 +475,30 @@ En formato móvil, se han trabajado las mismas cuatro pantallas principales defi
 **Pantalla: Home móvil**  
 La pantalla de inicio presenta la identidad visual del restaurante y prioriza los accesos principales a la carta y a la reserva.
 
-![Hi-Fi Home Móvil](img/HiFi_Home_Movil.png)
+![Hi-Fi Home Móvil](img/HiFi_Mobile_Home.png)
 
-**PDF:** [HiFi Home Móvil](P3/HiFi_Home_Movil.pdf)
+**PDF:** [HiFi Home Móvil](P3/HiFi_Mobile_Home.pdf)
 
 **Pantalla: Carta móvil**  
 La carta digital permite consultar los platos mediante una estructura visual basada en tarjetas, filtros e información clara sobre cada producto.
 
-![Hi-Fi Carta Móvil](img/HiFi_Carta_Movil.png)
+![Hi-Fi Carta Móvil](img/HiFi_Mobile_Carta.png)
 
-**PDF:** [HiFi Carta Móvil](P3/HiFi_Carta_Movil.pdf)
+**PDF:** [HiFi Carta Móvil](P3/HiFi_Mobile_Carta.pdf)
 
 **Pantalla: Reserva móvil**  
 El proceso de reserva organiza la información en pasos claros para facilitar la selección de local, fecha, hora, número de personas y datos de contacto.
 
-![Hi-Fi Reserva Móvil](img/HiFi_Reserva_Movil.png)
+![Hi-Fi Reserva Móvil](img/HiFi_Mobile_Reserva.png)
 
-**PDF:** [HiFi Reserva Móvil](P3/HiFi_Reserva_Movil.pdf)
+**PDF:** [HiFi Reserva Móvil](P3/HiFi_Mobile_Reserva.pdf)
 
 **Pantalla: Confirmación de reserva móvil**  
 La pantalla final proporciona feedback inmediato al usuario y confirma que la acción se ha completado correctamente.
 
-![Hi-Fi Confirmación Reserva Móvil](img/HiFi_Confirm_Reserva_Movil.png)
+![Hi-Fi Confirmación Reserva Móvil](img/HiFi_Mobile_Confirmacion.png)
 
-**PDF:** [HiFi Confirmación Reserva Móvil](P3/HiFi_Confirm_Reserva_Movil.pdf)
+**PDF:** [HiFi Confirmación Reserva Móvil](P3/HiFi_Mobile_Confirmacion.pdf)
 
 
 #### Mockups Hi-Fi desktop
@@ -508,23 +508,23 @@ En formato desktop, se han trabajado las tres adaptaciones responsive definidas 
 **Pantalla: Home desktop**  
 La versión de escritorio de la home amplía la composición mediante un hero más visual, una sección de productos destacados y bloques de información útil.
 
-![Hi-Fi Home PC](img/HiFi_Home_PC.png)
+![Hi-Fi Home PC](img/HiFi_PC_Home.png)
 
-**PDF:** [HiFi Home PC](P3/HiFi_Home_PC.pdf)
+**PDF:** [HiFi Home PC](P3/HiFi_PC_Home.pdf)
 
 **Pantalla: Carta desktop**  
 La carta en escritorio utiliza una estructura más amplia, con navegación superior, filtros laterales y grid de productos, facilitando la comparación entre platos.
 
-![Hi-Fi Carta PC](img/HiFi_Carta_PC.png)
+![Hi-Fi Carta PC](img/HiFi_PC_Carta.png)
 
-**PDF:** [HiFi Carta PC](P3/HiFi_Carta_PC.pdf)
+**PDF:** [HiFi Carta PC](P3/HiFi_PC_Carta.pdf)
 
 **Pantalla: Reserva desktop**  
 La reserva en escritorio se organiza con un formulario principal y un resumen lateral, permitiendo al usuario completar los datos y revisar la información antes de confirmar.
 
-![Hi-Fi Reserva PC](img/HiFi_Reserva_PC.png)
+![Hi-Fi Reserva PC](img/HiFi_PC_Reserva.png)
 
-**PDF:** [HiFi Reserva PC](P3/HiFi_Reserva_PC.pdf)
+**PDF:** [HiFi Reserva PC](P3/HiFi_PC_Reserva.pdf)
 
 
 En conjunto, los mockups Hi-Fi permiten comprobar cómo la propuesta visual se aplica sobre los flujos definidos anteriormente, manteniendo la coherencia entre móvil y escritorio y reforzando la claridad de las acciones principales del sitio.
@@ -538,8 +538,6 @@ La Práctica 3 ha permitido transformar la propuesta definida en las fases anter
 El sistema de diseño basado en Atomic Design facilitó la creación de componentes reutilizables y consistentes.
 
 Como conclusión, la propuesta final mantiene el atractivo visual del restaurante, pero lo organiza en una experiencia más clara y orientada a las tareas principales: consultar la carta, revisar platos y avanzar hacia la reserva.
-
-
 
 <br>
 
