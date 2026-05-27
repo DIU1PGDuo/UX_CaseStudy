@@ -336,11 +336,11 @@ El objetivo de esta fase ha sido mantener la personalidad temática de **Anime R
 ![Moodboard Anime Ramen](img/Moodboard_AnimeRamen.png)
 -----
 
-Para definir la dirección del rediseño de **Anime Ramen**, se elaboró un moodboard centrado en mantener la personalidad temática del restaurante, pero con una interfaz más clara y ordenada. El moodboard funciona como guía visual inicial para tomar decisiones sobre color, tipografía, iconografía, estilo de imagen y tono de comunicación.
+Para definir la dirección del rediseño de **Anime Ramen**, se elaboró un moodboard centrado en mantener la personalidad del restaurante, pero con una interfaz más clara y ordenada. El moodboard funciona como guía visual inicial para tomar decisiones sobre color, tipografía, iconografía, estilo de imagen y tono.
 
 La propuesta combina una estética inspirada en el ramen y en la cultura visual japonesa con una estructura más limpia y funcional. Se seleccionó una paleta de colores cálida y contrastada, donde el rojo funciona como color principal de acción, el negro aporta contraste, y los tonos crema, marrón y gris cálido suavizan la interfaz y mejoran la legibilidad.
 
-En cuanto a tipografía, se eligió **Space Grotesk** para títulos y elementos destacados, por su carácter moderno y reconocible, e **Inter** para textos funcionales, botones, filtros y contenido de lectura, por su buena legibilidad en pantalla. Esta combinación permite mantener una personalidad visual marcada sin comprometer la claridad.
+En cuanto a tipografía, se eligió **Space Grotesk** para títulos y elementos destacados, por su carácter moderno y reconocible, e **Inter** para textos funcionales, botones, filtros y contenido de lectura, por su legibilidad. Esta combinación permite mantener una personalidad visual marcada sin dejar de lado la claridad.
 
 El moodboard también incluye referencias visuales de platos, logotipo, iconos y estilo de composición, que posteriormente se trasladaron al sistema de diseño y al layout Hi-Fi. El logotipo y los recursos visuales se plantearon como parte de una identidad más consistente para el rediseño, manteniendo la relación con el universo ramen y la estética temática del restaurante.
 
@@ -354,17 +354,18 @@ La resolución y composición del moodboard están pensadas principalmente para 
 ### 3.b Landing Page
 -----
 
-La landing page se trabajó como actividad de teoría, por lo que no se incluye como entregable específico dentro de esta Práctica 3. En esta fase se priorizó la documentación del moodboard, el sistema de diseño, los componentes y los mockups Hi-Fi.
+La landing page se trabajó como actividad de teoría, por lo que no se incluye dentro de la Práctica 3. En esta fase se priorizó la documentación del moodboard, el sistema de diseño, los componentes y los mockups Hi-Fi.
 
 ### 3.c Guidelines
 -----
 
-Para la fase de prototipado se ha construido un **Design System ligero** basado en Atomic Design. El objetivo ha sido organizar los elementos visuales y funcionales del rediseño en componentes reutilizables, manteniendo consistencia entre pantallas y facilitando la creación de layouts Hi-Fi.
+Para esta fase se ha construido un **Design System ligero** basado en Atomic Design.
+El objetivo ha sido organizar los elementos visuales y funcionales del rediseño en componentes reutilizables, manteniendo consistencia entre pantallas y facilitando la creación de layouts Hi-Fi.
 
 La estructura del sistema en Figma se ha organizado en cuatro niveles principales: foundations, átomos, moléculas y organismos.
 
 
-#### Foundations
+#### 00 Foundations
 
 ![Foundations Anime Ramen](img/Foundations_AnimeRamen.png)
 
@@ -382,13 +383,13 @@ Los colores principales definidos son el negro carbón, el rojo ramen, tonos cre
 La tipografía se organiza con **Space Grotesk** para titulares y mensajes destacados, e **Inter** para navegación, carta, filtros, formularios, precios y confirmaciones. También se definieron niveles de jerarquía como H1, H2, Body, Label y Button.
 
 
-#### Átomos
+#### 01 Átomos
 
 ![Átomos Anime Ramen](img/Atomos_AnimeRamen.png)
 
 Los átomos representan las unidades mínimas reutilizables de la interfaz. En el proyecto se crearon componentes para botones, iconos, textos, imágenes de producto, chips informativos, inputs y acciones básicas.
 
-Ejemplos de átomos creados:
+Algunos ejemplos de átomos creados,
 
 - Button / Primary.
 - Button / Secondary.
@@ -409,7 +410,7 @@ Ejemplos de átomos creados:
 Estos átomos permiten mantener una base visual coherente y reutilizable para construir elementos más complejos.
 
 
-#### Moléculas
+#### 02 Moléculas
 
 ![Moléculas Anime Ramen](img/Moleculas_AnimeRamen.png)
 
@@ -417,7 +418,7 @@ Las moléculas combinan varios átomos para formar unidades funcionales más com
 
 También se desarrollaron moléculas orientadas a navegación, búsqueda, filtros, contacto, redes sociales y acciones de confirmación o cancelación.
 
-Ejemplos de moléculas creadas:
+Entre algunas de las moléculas creadas encontramos,
 
 - Molecule / Ramen Card.
 - Molecule / Header básico.
@@ -436,7 +437,7 @@ Ejemplos de moléculas creadas:
 Estas moléculas permiten construir bloques funcionales sin tener que rediseñar cada elemento desde cero.
 
 
-#### Organismos
+#### 03 Organismos
 
 ![Organismos Anime Ramen](img/Organismos_AnimeRamen.png)
 
@@ -456,13 +457,12 @@ Ejemplos de organismos creados:
 El uso de componentes, instancias y Auto Layout en Figma permitió mantener la consistencia visual y facilitar la adaptación responsive entre móvil y escritorio.
 
 
-
 ### 3.d Mockup
 -----
 
-A partir de los diseños low-fi definidos en la Práctica 2, se han construido los diseños o mockups Hi-Fi en Figma. El objetivo ha sido transformar los bocetos iniciales en pantallas visualmente acabadas, aplicando la paleta de colores, tipografías, imágenes, componentes, jerarquía visual y estilo definido en el moodboard.
+A partir de los diseños low-fi definidos en la Práctica 2, se han construido los diseños o mockups Hi-Fi en Figma. El objetivo ha sido transformar aquellos bocetos iniciales, en pantallas visualmente acabadas, aplicando la paleta de colores, tipografías, imágenes, componentes, jerarquía visual y estilo definido en el moodboard.
 
-Los mockups Hi-Fi mantienen la misma estructura y los mismos flujos que los wireframes low-fi. No se plantean pantallas nuevas, sino una evolución visual de las pantallas ya definidas previamente.
+Los mockups Hi-Fi mantienen la misma estructura y los mismos flujos que los wireframes low-fi. No se plantean pantallas nuevas, sino una evolución visual de las pantallas ya definidas.
 
 El diseño Hi-Fi se ha construido utilizando los componentes foundations, átomos, moléculas y organismos. Esto permite mantener una mayor coherencia visual entre pantallas y facilita que los cambios de estilo o componentes se propaguen de forma controlada.
 
@@ -542,13 +542,13 @@ Como conclusión, la propuesta final mantiene el atractivo visual del restaurant
 
 
 
-
-
 ## Paso 4. De Figma a prototipo web interactivo
 
-En esta práctica se ha pasado del diseño Hi-Fi realizado en Figma a una primera versión web interactiva del proyecto **RamenFlow - Anime Ramen Redesign**. Para ello se ha utilizado **Figma Make**, una de las opciones planteadas para convertir el mockup visual en una aplicación navegable mediante generación asistida por IA.
+En esta práctica se ha pasado del diseño Hi-Fi realizado en Figma a una primera versión web interactiva del proyecto **RamenFlow - Anime Ramen Redesign**. Para ello se ha utilizado **Figma Make**, una de las opciones propuestas para convertir el mockup en una aplicación mediante generación asistida por IA.
 
-El punto de partida han sido los mockups Hi-Fi desarrollados en la Práctica 3, tanto en formato escritorio como en formato móvil. A partir de estos diseños se han generado dos versiones publicadas del prototipo: una versión desktop y una versión móvil. Ambas mantienen la identidad visual definida previamente, basada en fondo oscuro, rojo como color principal de acción, logotipo de Anime Ramen, navegación clara, carta digital y flujo de reserva.
+El punto de partida han sido los mockups Hi-Fi desarrollados en la Práctica 3, tanto en formato escritorio como en formato móvil. Antes de iniciar la conversión, se realizaron pequeños ajustes sobre estos diseños para mejorar la consistencia visual y preparar mejor las pantallas de cara a su transformación en prototipo navegable. A partir de ellos, se generaron dos versiones publicadas del prototipo: una versión desktop y una versión móvil.
+
+Ambas mantienen la identidad definida previamente, basada en fondo oscuro, rojo como color principal de acción, logotipo de Anime Ramen, navegación clara, carta digital y flujo de reserva.
 
 ### 4.a Conversión del diseño con Figma Make
 
@@ -573,7 +573,7 @@ La versión móvil toma como base las pantallas móviles diseñadas en Figma y l
 
 ### 4.c Componentes e interacción
 
-El prototipo generado mantiene la lógica del sistema visual creado en la Práctica 3 mediante Atomic Design. Aunque Figma Make no genera una documentación equivalente a Storybook, sí ha permitido trasladar a una aplicación interactiva muchos de los elementos definidos previamente:
+El prototipo generado mantiene la lógica del sistema visual creado en la Práctica 3 mediante Atomic Design. Al haberse utilizado Figma Make como herramienta principal de conversión, la documentación de componentes no se presenta como una librería técnica independiente tipo Storybook, sino como una aplicación interactiva que traslada a código muchos de los elementos definidos previamente:
 
 - Botones principales y secundarios.
 - Navegación entre secciones.
@@ -588,15 +588,15 @@ Las interacciones principales permiten navegar entre Inicio, Carta y Reserva. Ad
 
 ### 4.d Briefing y valoración
 
-La Práctica 4 ha permitido comprobar cómo un diseño Hi-Fi puede convertirse en una primera versión web interactiva. Figma Make ha sido útil para generar una base funcional del proyecto y para validar la continuidad entre el diseño visual, los componentes y la navegación.
+La Práctica 4 nos ha permitido comprobar cómo un diseño Hi-Fi puede convertirse en una primera versión web interactiva. Figma Make ha sido útil para generar una base funcional del proyecto y para validar la continuidad entre el diseño visual, los componentes y la navegación.
 
 El proceso también ha mostrado algunas limitaciones. La conversión automática no respeta siempre el diseño original de forma exacta, por lo que fue necesario ajustar el resultado mediante prompts y revisar varias versiones hasta conseguir una propuesta coherente con la identidad de Anime Ramen.
 
 Como valoración final, el resultado cumple el objetivo de la práctica: transformar los mockups de **RamenFlow - Anime Ramen Redesign** en un prototipo web navegable. La solución conserva los flujos principales de consulta de carta, interacción con productos, reserva y confirmación, y permite evaluar la propuesta de forma más realista que con un mockup estático.
 
-
-
 <br>
+
+
 
 ## Paso 5. Exportación y Documentación
 
