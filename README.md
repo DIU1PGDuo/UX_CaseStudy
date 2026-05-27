@@ -365,7 +365,7 @@ El objetivo ha sido organizar los elementos visuales y funcionales del rediseño
 La estructura del sistema en Figma se ha organizado en cuatro niveles principales: foundations, átomos, moléculas y organismos.
 
 
-#### 00 Foundations
+#### 01 Foundations
 
 ![Foundations Anime Ramen](img/Foundations_AnimeRamen.png)
 
@@ -383,7 +383,7 @@ Los colores principales definidos son el negro carbón, el rojo ramen, tonos cre
 La tipografía se organiza con **Space Grotesk** para titulares y mensajes destacados, e **Inter** para navegación, carta, filtros, formularios, precios y confirmaciones. También se definieron niveles de jerarquía como H1, H2, Body, Label y Button.
 
 
-#### 01 Átomos
+#### 02 Átomos
 
 ![Átomos Anime Ramen](img/Atomos_AnimeRamen.png)
 
@@ -410,7 +410,7 @@ Algunos ejemplos de átomos creados,
 Estos átomos permiten mantener una base visual coherente y reutilizable para construir elementos más complejos.
 
 
-#### 02 Moléculas
+#### 03 Moléculas
 
 ![Moléculas Anime Ramen](img/Moleculas_AnimeRamen.png)
 
@@ -437,7 +437,7 @@ Entre algunas de las moléculas creadas encontramos,
 Estas moléculas permiten construir bloques funcionales sin tener que rediseñar cada elemento desde cero.
 
 
-#### 03 Organismos
+#### 04 Organismos
 
 ![Organismos Anime Ramen](img/Organismos_AnimeRamen.png)
 
