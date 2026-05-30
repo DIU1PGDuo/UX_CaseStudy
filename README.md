@@ -326,7 +326,7 @@ La solución mantiene el atractivo visual y temático de Anime Ramen, pero intro
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
-En la tercera práctica se ha pasado de los modelos low-fi definidos en la Práctica 2 a una propuesta más cercana al producto final. Para ello, se ha desarrollado una guía visual mediante moodboard, un sistema de diseño ligero basado en Atomic Design y una estructura de componentes en Figma preparada para construir los layouts Hi-Fi.
+En esta tercera práctica, hemos pasado de los modelos low-fi definidos en la Práctica 2 a una propuesta más cercana al producto final. Para ello, se ha desarrollado una guía visual mediante moodboard, un sistema de diseño ligero basado en Atomic Design y una estructura de componentes en Figma preparada para construir los layouts Hi-Fi.
 
 El objetivo de esta fase ha sido mantener la personalidad temática de **Anime Ramen**, pero construyendo una interfaz más clara, consistente y reutilizable. La propuesta visual equilibra la estética anime/gastronómica del restaurante con una experiencia más legible, funcional y orientada a tareas como consultar la carta, revisar platos y reservar mesa.
 
@@ -336,7 +336,7 @@ El objetivo de esta fase ha sido mantener la personalidad temática de **Anime R
 ![Moodboard Anime Ramen](img/Moodboard_AnimeRamen.png)
 -----
 
-Para definir la dirección del rediseño de **Anime Ramen**, se elaboró un moodboard centrado en mantener la personalidad del restaurante, pero con una interfaz más clara y ordenada. El moodboard funciona como guía visual inicial para tomar decisiones sobre color, tipografía, iconografía, estilo de imagen y tono.
+Para definir el rediseño de **Anime Ramen**, hemos elaborado un moodboard centrado en mantener la personalidad del restaurante, pero con una interfaz más clara y ordenada. El moodboard funciona como guía visual inicial para tomar decisiones sobre color, tipografía, iconografía, estilo de imagen y tono.
 
 La propuesta combina una estética inspirada en el ramen y en la cultura visual japonesa con una estructura más limpia y funcional. Se seleccionó una paleta de colores cálida y contrastada, donde el rojo funciona como color principal de acción, el negro aporta contraste, y los tonos crema, marrón y gris cálido suavizan la interfaz y mejoran la legibilidad.
 
@@ -354,7 +354,7 @@ La resolución y composición del moodboard están pensadas principalmente para 
 ### 3.b Landing Page
 -----
 
-La landing page se trabajó como actividad de teoría, por lo que no se incluye dentro de la Práctica 3. En esta fase se priorizó la documentación del moodboard, el sistema de diseño, los componentes y los mockups Hi-Fi.
+El landing page se trabajó como actividad de teoría, por lo que no se incluye dentro de la Práctica 3. En esta fase se priorizó la documentación del moodboard, el sistema de diseño, los componentes y los mockups Hi-Fi.
 
 ### 3.c Guidelines
 -----
@@ -460,7 +460,7 @@ El uso de componentes, instancias y Auto Layout en Figma permitió mantener la c
 ### 3.d Mockup
 -----
 
-A partir de los diseños low-fi definidos en la Práctica 2, se han construido los diseños o mockups Hi-Fi en Figma. El objetivo ha sido transformar aquellos bocetos iniciales, en pantallas visualmente acabadas, aplicando la paleta de colores, tipografías, imágenes, componentes, jerarquía visual y estilo definido en el moodboard.
+Como comentábamos al inicio de esta práctica, a partir de los diseños low-fi definidos en la Práctica 2, hemos construido los diseños o mockups Hi-Fi en Figma. El objetivo ha sido transformar aquellos bocetos iniciales, en pantallas visualmente acabadas, aplicando la paleta de colores, tipografías, imágenes, componentes, jerarquía visual y estilo definido en el moodboard.
 
 Los mockups Hi-Fi mantienen la misma estructura y los mismos flujos que los wireframes low-fi. No se plantean pantallas nuevas, sino una evolución visual de las pantallas ya definidas.
 
@@ -472,6 +472,7 @@ El diseño Hi-Fi se ha construido utilizando los componentes foundations, átomo
 En formato móvil, se han trabajado las mismas cuatro pantallas principales definidas en los wireframes low-fi: Home, Carta, Proceso de reserva y Confirmación de reserva.
 
 **Pantalla: Home móvil**  
+
 La pantalla de inicio presenta la identidad visual del restaurante y prioriza los accesos principales a la carta y a la reserva.
 
 ![Hi-Fi Home Móvil](img/HiFi_Mobile_Home.png)
@@ -479,6 +480,7 @@ La pantalla de inicio presenta la identidad visual del restaurante y prioriza lo
 **PDF:** [HiFi Home Móvil](P3/HiFi_Mobile_Home.pdf)
 
 **Pantalla: Carta móvil**  
+
 La carta digital permite consultar los platos mediante una estructura visual basada en tarjetas, filtros e información clara sobre cada producto.
 
 ![Hi-Fi Carta Móvil](img/HiFi_Mobile_Carta.png)
@@ -486,6 +488,7 @@ La carta digital permite consultar los platos mediante una estructura visual bas
 **PDF:** [HiFi Carta Móvil](P3/HiFi_Mobile_Carta.pdf)
 
 **Pantalla: Reserva móvil**  
+
 El proceso de reserva organiza la información en pasos claros para facilitar la selección de local, fecha, hora, número de personas y datos de contacto.
 
 ![Hi-Fi Reserva Móvil](img/HiFi_Mobile_Reserva.png)
@@ -493,6 +496,7 @@ El proceso de reserva organiza la información en pasos claros para facilitar la
 **PDF:** [HiFi Reserva Móvil](P3/HiFi_Mobile_Reserva.pdf)
 
 **Pantalla: Confirmación de reserva móvil**  
+
 La pantalla final proporciona feedback inmediato al usuario y confirma que la acción se ha completado correctamente.
 
 ![Hi-Fi Confirmación Reserva Móvil](img/HiFi_Mobile_Confirmacion.png)
@@ -505,6 +509,7 @@ La pantalla final proporciona feedback inmediato al usuario y confirma que la ac
 En formato desktop, se han trabajado las tres adaptaciones responsive definidas en los low-fi: Home, Carta y Reserva. Estas versiones aprovechan el espacio horizontal para mejorar la jerarquía visual, organizar mejor los contenidos y facilitar la consulta de información.
 
 **Pantalla: Home desktop**  
+
 La versión de escritorio de la home amplía la composición mediante un hero más visual, una sección de productos destacados y bloques de información útil.
 
 ![Hi-Fi Home PC](img/HiFi_PC_Home.png)
@@ -512,6 +517,7 @@ La versión de escritorio de la home amplía la composición mediante un hero m�
 **PDF:** [HiFi Home PC](P3/HiFi_PC_Home.pdf)
 
 **Pantalla: Carta desktop**  
+
 La carta en escritorio utiliza una estructura más amplia, con navegación superior, filtros laterales y grid de productos, facilitando la comparación entre platos.
 
 ![Hi-Fi Carta PC](img/HiFi_PC_Carta.png)
@@ -519,6 +525,7 @@ La carta en escritorio utiliza una estructura más amplia, con navegación super
 **PDF:** [HiFi Carta PC](P3/HiFi_PC_Carta.pdf)
 
 **Pantalla: Reserva desktop**  
+
 La reserva en escritorio se organiza con un formulario principal y un resumen lateral, permitiendo al usuario completar los datos y revisar la información antes de confirmar.
 
 ![Hi-Fi Reserva PC](img/HiFi_PC_Reserva.png)
@@ -532,11 +539,13 @@ En conjunto, los mockups Hi-Fi permiten comprobar cómo la propuesta visual se a
 ### 3.e Briefing y conclusiones
 -----
 
-La Práctica 3 ha permitido transformar la propuesta definida en las fases anteriores en una interfaz visualmente más acabada y coherente. A partir del moodboard se estableció una dirección visual basada en una estética cálida, temática y gastronómica, manteniendo la identidad de Anime Ramen pero mejorando la legibilidad y la organización de la información.
+Gracias a la Práctica 3, hemos podido transformar la propuesta definida en las fases anteriores, en una interfaz visualmente más acabada, coherente y cercana a un producto final que deseamos. A partir del moodboard se estableció una dirección basada en una estética cálida, temática y gastronómica, manteniendo la identidad de Anime Ramen pero mejorando la legibilidad, la organización de la información y la claridad de las acciones principales.
 
-El sistema de diseño basado en Atomic Design facilitó la creación de componentes reutilizables y consistentes.
+El sistema de diseño basado en Atomic Design, facilitó la creación de componentes reutilizables y consistentes. La separación entre foundations, átomos, moléculas y organismos permitió ordenar mejor las decisiones visuales y construir las pantallas Hi-Fi de forma más controlada, evitando rediseñar cada elemento desde cero. Esto fue especialmente útil para mantener coherencia entre la versión móvil y la versión desktop.
 
-Como conclusión, la propuesta final mantiene el atractivo visual del restaurante, pero lo organiza en una experiencia más clara y orientada a las tareas principales: consultar la carta, revisar platos y avanzar hacia la reserva.
+Durante esta fase también, también comprobamos la importancia de adaptar el diseño a distintos formatos. En móvil se priorizó una experiencia directa, centrada en consultar la carta y avanzar hacia la reserva con pocos pasos, mientras que en desktop, se aprovechó el espacio disponible para reforzar la jerarquía visual, mostrar mejor los productos y distribuir de forma más clara los elementos de navegación, filtros y reserva.
+
+Como conclusión, la propuesta final ha mantenido el atractivo visual del restaurante, pero lo organiza en una experiencia más clara y orientada a las tareas principales, consultar la carta, revisar platos, aplicar filtros y avanzar hacia la reserva. Entre los aspectos mejorables, sería necesario seguir refinando algunos detalles de proporción, espaciado y consistencia visual antes de llevar el diseño a una implementación técnica completa.
 
 <br>
 
@@ -544,21 +553,23 @@ Como conclusión, la propuesta final mantiene el atractivo visual del restaurant
 
 ## Paso 4. De Figma a prototipo web interactivo
 
-En esta práctica se ha pasado del diseño Hi-Fi realizado en Figma a una primera versión web interactiva del proyecto **RamenFlow - Anime Ramen Redesign**. Para ello se ha utilizado **Figma Make**, una de las opciones propuestas para convertir el mockup en una aplicación mediante generación asistida por IA.
+En esta práctica se ha pasado del diseño Hi-Fi realizado en Figma a una primera versión web interactiva del proyecto **RamenFlow - Anime Ramen Redesign**. Para ello, hemos utilizado **Figma Make**, una de las opciones propuestas para convertir el mockup en una aplicación mediante generación asistida por IA.
 
 El punto de partida han sido los mockups Hi-Fi desarrollados en la Práctica 3, tanto en formato escritorio como en formato móvil. Antes de iniciar la conversión, se realizaron pequeños ajustes sobre estos diseños para mejorar la consistencia visual y preparar mejor las pantallas de cara a su transformación en prototipo navegable. A partir de ellos, se generaron dos versiones publicadas del prototipo: una versión desktop y una versión móvil.
 
-Ambas mantienen la identidad definida previamente, basada en fondo oscuro, rojo como color principal de acción, logotipo de Anime Ramen, navegación clara, carta digital y flujo de reserva.
+Ambas mantienen la identidad definida previamente, basada en fondo oscuro, rojo como color principal de acción, logotipo de Anime Ramen, navegación clara, carta digital y flujo de reserva, auqnue ambas, con notables mejoras gracias a la facilidad de edición que proporciona Figma Make.
+
 
 ### 4.a Conversión del diseño con Figma Make
 
-Para la conversión se trabajó directamente desde los diseños Hi-Fi de Figma, adjuntando las pantallas y utilizando prompts para generar una aplicación web funcional. El proceso no consistió únicamente en una exportación automática, sino en una adaptación iterativa del diseño.
+Para la conversión se trabajó directamente desde los diseños Hi-Fi de Figma, adjuntando las pantallas y utilizando prompts para generar una aplicación web funcional. El proceso no consistió únicamente en una exportación automática, sino en una adaptación conforme avanzaba la conversación sobre el diseño.
 
-Primero se generó una versión inicial de escritorio basada en las pantallas desktop de Home, Carta y Reserva. Posteriormente se realizaron ajustes para acercar el resultado al lenguaje visual del proyecto: navegación en español, uso del logotipo de Anime Ramen, botones rojos, carta con productos, buscador, filtros y flujo de reserva.
+Primero se generó una versión inicial de escritorio basada en las pantallas desktop de Home, Carta y Reserva, y posteriormente se realizaron ajustes para acercar el resultado al lenguaje visual del proyecto: navegación en español, uso del logotipo de Anime Ramen, botones rojos, carta con productos, buscador, filtros y flujo de reserva.
 
 Después se generó una versión móvil tomando como referencia las pantallas Hi-Fi móviles. Esta versión se adaptó a una estructura más propia de móvil, con una navegación más simple, tarjetas de producto en formato vertical, formulario de reserva y pantalla de confirmación.
 
 Durante el proceso también se añadió una interacción básica de carrito/pedido. Esta funcionalidad no estaba desarrollada como pantalla independiente en los mockups originales, pero se incorporó para dar sentido a los botones de añadir producto y mejorar la coherencia del prototipo como aplicación web.
+
 
 ### 4.b Versiones publicadas
 
@@ -570,6 +581,7 @@ Las dos versiones del prototipo se han publicado directamente desde Figma Make p
 La versión desktop adapta el diseño a una pantalla amplia, con una composición más visual, navegación superior, carta organizada mediante tarjetas y un flujo de reserva accesible desde la navegación principal.
 
 La versión móvil toma como base las pantallas móviles diseñadas en Figma y las convierte en una experiencia navegable, permitiendo recorrer la Home, la Carta, el proceso de Reserva y la pantalla de Confirmación.
+
 
 ### 4.c Componentes e interacción
 
@@ -586,11 +598,12 @@ El prototipo generado mantiene la lógica del sistema visual creado en la Práct
 
 Las interacciones principales permiten navegar entre Inicio, Carta y Reserva. Además, los botones de la carta permiten simular la acción de añadir productos, y el flujo de reserva permite avanzar hasta una pantalla final de confirmación.
 
+
 ### 4.d Briefing y valoración
 
-La Práctica 4 nos ha permitido comprobar cómo un diseño Hi-Fi puede convertirse en una primera versión web interactiva. Figma Make ha sido útil para generar una base funcional del proyecto y para validar la continuidad entre el diseño visual, los componentes y la navegación.
+La Práctica 4 nos ha permitido comprobar cómo un diseño Hi-Fi puede convertirse en una primera versión web interactiva, con mayor facilidad de la que en un inicio esperábamos. Figma Make ha sido útil para generar una base funcional del proyecto y para validar la continuidad entre el diseño visual, los componentes y la navegación.
 
-El proceso también ha mostrado algunas limitaciones. La conversión automática no respeta siempre el diseño original de forma exacta, por lo que fue necesario ajustar el resultado mediante prompts y revisar varias versiones hasta conseguir una propuesta coherente con la identidad de Anime Ramen.
+Sin embargo, el proceso también ha mostrado algunas limitaciones, ya que la conversión automática no respeta siempre el diseño original de forma exacta, por lo que fue necesario ajustar el resultado mediante prompts y revisar varias versiones hasta conseguir una propuesta coherente con la identidad de Anime Ramen.
 
 Como valoración final, el resultado cumple el objetivo de la práctica: transformar los mockups de **RamenFlow - Anime Ramen Redesign** en un prototipo web navegable. La solución conserva los flujos principales de consulta de carta, interacción con productos, reserva y confirmación, y permite evaluar la propuesta de forma más realista que con un mockup estático.
 
@@ -601,9 +614,10 @@ Como valoración final, el resultado cumple el objetivo de la práctica: transfo
 ## Paso 5. Evaluación de usabilidad y accesibilidad
 
 ### 5.a Reclutamiento de usuarios
-El proceso de evaluación se ha basado en un estudio entre-sujetos (*Between-Subjects Study*) con una muestra total de 10 participantes independientes, distribuidos de manera equitativa: 5 usuarios asignados para evaluar nuestra propuesta (Caso A) y 5 usuarios para evaluar la propuesta de los compañeros (Caso B - DIU.EA / Rakuin Ramen).
 
-A continuación, se detalla la tabla anonimizada con los perfiles reales que evaluaron el **Caso B**:
+El proceso de evaluación se ha basado en un estudio entre sujetos, con una muestra total de 10 participantes independientes, distribuidos de manera equitativa, de tal forma que fueron 5 usuarios asignados para evaluar nuestra propuesta (Caso A) y 5 usuarios para evaluar la propuesta de los compañeros (Caso B - DIU.EA / Rakuin Ramen).
+
+A continuación, se presenta la tabla con los perfiles reales que evaluaron el **Caso B**:
 
 | ID | Sexo / Edad | Ocupación | Nivel Competencia Digital | Experiencia Previa | Plataforma |
 | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -616,22 +630,31 @@ A continuación, se detalla la tabla anonimizada con los perfiles reales que eva
 ---
 
 ### 5.b Diseño de las pruebas
-Las pruebas de usabilidad se planificaron mediante sesiones moderadas (con una duración aproximada de 5 a 10 minutos por participante). Se definieron dos tareas o misiones críticas equivalentes para ambos prototipos con el fin de evaluar los flujos de interacción clave y comprobar la efectividad del diseño:
-* **Tarea 1 (Navegación e Inclusión):** "Accede a la sección de la carta y localiza de forma rápida un plato principal que sea apto para personas veganas o celíacas utilizando el sistema de filtrado disponible".
+
+Las pruebas de usabilidad se planificaron mediante sesiones, de una duración aproximada de 5 a 10 minutos por participante. Se definieron dos tareas o misiones críticas equivalentes para ambos prototipos con el fin de evaluar los flujos de interacción clave y comprobar la efectividad del diseño:
+
+* **Tarea 1 (Navegación):** "Accede a la sección de la carta y localiza de forma rápida un plato principal que sea apto para personas veganas o celíacas utilizando el sistema de filtrado disponible".
+* 
 * **Tarea 2 (Conversión final):** "Inicia el flujo de reserva online y formaliza una mesa para dos personas en el establecimiento para este próximo sábado a las 21:00h".
 
 ---
 
 ### 5.c Cuestionario SUS
-Inmediatamente después de completar las tareas de interacción, cada participante rellenó de forma individual el cuestionario estandarizado de la Escala de Usabilidad del Sistema (SUS) integrado en la herramienta Tally.so. Los datos brutos se procesaron a través de herramientas de análisis multivariable para obtener la puntuación final sobre 100.
 
-* **Valoración e interpretación de resultados:** El **Caso B (Rakuin Ramen)** obtuvo una puntuación media SUS de **58.5 / 100**. De acuerdo con la escala lingüística convencional, este resultado se sitúa en la categoría de usabilidad **"Marginal-Baja" / "Pobre"** (por debajo del estándar de aceptación óptimo fijado en 68). Las respuestas reflejan que, aunque el sistema es funcional, los formularios de entrada de datos y la navegación de reservas presentan barreras cognitivas que confunden o ralentizan al usuario.
+Inmediatamente después de completar las tareas de interacción, cada participante rellenó de forma individual el cuestionario estandarizado de la Escala de Usabilidad del Sistema (SUS) integrado en la herramienta Tally.so. Los datos se procesaron a través de herramientas de análisis para obtener la puntuación final sobre 100.
+
+* **Valoración e interpretación de resultados:** El **Caso B (Rakuin Ramen)** obtuvo una puntuación media SUS de **58.5 / 100**.
+
+Este resultado, sitúa en la categoría de usabilidad Marginal-Baja, es decir, por debajo del estándar de aceptación óptimo fijado en 68. Las respuestas reflejan que, aunque el sistema es funcional, los formularios de entrada de datos y la navegación de reservas presentan barreras cognitivas que confunden o ralentizan al usuario.
 
 ---
 
 ### 5.d A/B Testing
+
 Tras recopilar y contrastar las métricas de percepción subjetiva obtenidas en el experimento de testeo A/B, se presenta la siguiente comparativa directa:
+
 * **Diseño A (AnimeRamen):** Obtuvo una puntuación media SUS de **47.5 / 100** (Usabilidad deficiente / Inaceptable).
+* 
 * **Diseño B (Rakuin Ramen):** Obtuvo una puntuación media SUS de **58.5 / 100** (Usabilidad marginal-baja).
 
 **Conclusión del análisis comparativo:** El **Caso B** demuestra ser cuantitativamente más usable que el Caso A, superándolo por un margen de 11 puntos. No obstante, ambas soluciones se sitúan por debajo del umbral de aceptación recomendado de 68, lo que evidencia una necesidad crítica de rediseñar y simplificar los flujos de interacción de reserva y potenciar las llamadas a la acción (CTA) en ambos proyectos.
@@ -639,9 +662,10 @@ Tras recopilar y contrastar las métricas de percepción subjetiva obtenidas en 
 ---
 
 ### 5.e Aplicación del método Eye Tracking
-Se aplicó la metodología biométrica de seguimiento ocular (*Eye Tracking*) mediante la herramienta *Gaze Recorder* para analizar el recorrido visual y la jerarquía de contenidos exclusivamente en el **Caso B**.
 
-* **Análisis de la página de Inicio:** El mapa de calor muestra una intensa fijación visual concentrada en el carrusel de fotografías de platos situado en el lateral derecho. El texto descriptivo y el botón principal (*CTA*) sufren de "ceguera visual", recibiendo un impacto atencional muy bajo debido al peso de las imágenes decorativas.
+Se aplicó la metodología de seguimiento ocular vista en los seminarios de teoría *Eye Tracking*, mediante la herramienta *Gaze Recorder*, con el fin de analizar el recorrido visual y la jerarquía de contenidos exclusivamente en el **Caso B**.
+
+* **Análisis de la página de Inicio:** El mapa de calor muestra una intensa fijación visual concentrada en las fotografías de platos situado en el lateral derecho. El texto descriptivo y el botón principal (*CTA*), sin embargo, sufren mucha menos atención, recibiendo un impacto atencional muy bajo debido al peso de las imágenes.
 
 ![Mapa de calor - Inicio](./img/VisionCalor.png)
 
@@ -649,16 +673,17 @@ Se aplicó la metodología biométrica de seguimiento ocular (*Eye Tracking*) me
 
 ![Mapa de calor - Carta](./img/VisionCalorCarta.png)
 
-* **Análisis del proceso de Reserva:** Durante el flujo de conversión final, la atención visual se dispersa entre los elementos decorativos y los diferentes campos del formulario. Esta falta de foco visual claro en el botón de confirmación explica la frustración de los usuarios y la baja puntuación (58.5) obtenida en el cuestionario SUS.
+* **Análisis del proceso de Reserva:** Durante el flujo final, la atención visual se dispersa entre los elementos decorativos y los diferentes campos del formulario. Esta falta de foco visual claro en el botón de confirmación explica la frustración de los usuarios y la baja puntuación (58.5) obtenida en el cuestionario SUS.
 
 ![Mapa de calor - Reserva](./img/VisionCalorReserva.png)
 
 ---
 
 ### 5.f Usability Report de B
+
 Se ha elaborado un informe de usabilidad completo y detallado para el Caso B, el cual consolida los hallazgos de la auditoría técnica automatizada de rendimiento y accesibilidad con Lighthouse (donde obtuvieron una puntuación de 100/100), el análisis biométrico de los mapas de calor y las conclusiones cuantitativas de la escala SUS.
 
-* El documento de la auditoría se encuentra publicado en el repositorio de forma pública bajo la nomenclatura oficial: [Ver Usability Report del Caso B (DIU.EA / Rakuin Ramen)](./P5/REPORT_DIU.EA_doneBy_DIU1.PGduo.md)
+* El documento se encuentra publicado en el repositorio de forma pública: [Ver Usability Report del Caso B (DIU.EA / Rakuin Ramen)](./P5/REPORT_DIU.EA_doneBy_DIU1.PGduo.md)
 
 
 
@@ -667,12 +692,14 @@ Se ha elaborado un informe de usabilidad completo y detallado para el Caso B, el
 
 ## Conclusiones finales & Valoración de las prácticas
 
+A lo largo de las prácticas, hemos seguido un proceso completo centrado en el usuario, desde el análisis inicial de la web de Anime Ramen hasta la definición de una propuesta de rediseño, la creación de wireframes, el desarrollo de un sistema visual, la construcción de mockups Hi-Fi, la generación de un prototipo web interactivo y la evaluación final mediante técnicas de usabilidad.
 
-A lo largo de las prácticas, hemos seguido un proceso de diseño centrado en el usuario, desde el análisis inicial de la web de Anime Ramen hasta la definición de una propuesta de rediseño, la creación de los wireframes, el desarrollo de un sistema visual, la construcción de mockups Hi-Fi y la generación de un prototipo web interactivo.
+Gracias a este proceso, hemos podido transformar los principales problemas detectados en la web original, como la carga visual, la dificultad para consultar la carta, la falta de claridad en algunas acciones, la visibilidad limitada de la reserva y la poca orientación a tareas concretas, en decisiones de diseño más justificadas. La propuesta final mantiene la identidad temática del restaurante, pero organiza mejor la información, refuerza las llamadas a la acción y facilita los recorridos principales del usuario.
 
-Gracias a este proceso, hemos podido transformar los principales problemas detectados en la web original, como la carga visual, la dificultad para consultar la carta, la falta de claridad en algunas acciones y la mejora del flujo de reserva, en decisiones de diseño más concretas y justificadas. La propuesta final mantiene la identidad temática del restaurante, pero organiza mejor la información y refuerza las acciones principales del usuario.
+Una de las partes más útiles, y a la vez que han requerido más atención, es que cada fase o práctica que hacíamos, condiciona la siguiente. El análisis inicial permitió detectar problemas reales, la ideación ayudó a traducir esos problemas en una propuesta de valor, el sistema de diseño permitió construir pantallas más coherentes, y finalmente, el prototipo interactivo hizo posible evaluar la experiencia de forma más cercana a un producto real. Todo esto nos ha ayudado a entender mejor la relación entre investigación UX, arquitectura de información, diseño visual, prototipado e iteración.
 
-Como valoración final, consideramos que el proyecto ha sido realmente útil para conocer y aprender sobre UX, arquitectura de información, diseño, prototipado y evaluación, así como el uso de herramientas tan útiles como lo ha sido Figma. Entre los aspectos mejorables de nuestra práctica, consideraríamos necesario seguir refinando la implementación responsive, validar el prototipo con una muestra mayor de usuarios y desarrollar una versión técnica más completa si el proyecto avanzara hacia producción.
+La evaluación final también ha sido importante para comprobar que una interfaz visualmente atractiva no siempre garantiza una experiencia completamente usable. Los resultados de SUS, A/B Testing y Eye Tracking muestran que la jerarquía visual, la claridad de los filtros, la visibilidad de los botones principales y la simplicidad del flujo de reserva son aspectos críticos para que el usuario pueda completar las tareas sin fricción.
 
+Como valoración final, consideramos que las prácticas han sido útiles para aprender y aplicar esta metodología desde el principio. Entre los aspectos mejorables, sería necesario seguir refinando la implementación responsive, validar el prototipo con una muestra mayor de usuarios, mejorar algunos detalles de accesibilidad y desarrollar una versión técnica más completa si el proyecto avanzara hacia producción. Aun así, el resultado final representa una evolución clara respecto a la web inicial y recoge de forma coherente las decisiones tomadas durante todo el proceso.
 
 
