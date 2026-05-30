@@ -1,4 +1,6 @@
-## Practica 5: Exportación + Documentación - entregables 
+# DIU - Práctica 5, entregables
+
+## Evaluación de usabilidad y accesibilidad
 
 ### 5.a Reclutamiento de usuarios
 El proceso de evaluación se ha basado en un estudio entre-sujetos (*Between-Subjects Study*) con una muestra total de 10 participantes independientes, distribuidos de manera equitativa: 5 usuarios asignados para evaluar nuestra propuesta (Caso A) y 5 usuarios para evaluar la propuesta de los compañeros (Caso B - Rakuin Ramen).
@@ -27,7 +29,7 @@ Tras completar las tareas guiadas, se permitió también un breve periodo de nav
 ### 5.c Cuestionario SUS
 Inmediatamente después de completar las tareas de interacción, cada participante rellenó de forma individual el cuestionario estandarizado de la Escala de Usabilidad del Sistema (SUS) integrado en la herramienta Tally.so. Los datos brutos se procesaron a través de herramientas de análisis multivariable para obtener la puntuación final sobre 100.
 
-* **Valoración e interpretación de resultados:** El **Caso B (Rakuin Ramen)** obtuvo una puntuación media SUS de **58.5 / 100**. De acuerdo con la escala lingüística convencional, este resultado se sitúa en la categoría de usabilidad **"Marginal-Baja" / "Pobre"** (por debajo del estándar de aceptación óptimo fijado en 68). Las respuestas reflejan que, aunque el sistema es funcional, los formularios de entrada de datos y la navegación de reservas presentan barreras cognitivas que confunden o ralentizan al usuario.
+* **Valoración e interpretación de resultados:** El **Caso B - DIU.EA / Rakuin Ramen** obtuvo una puntuación media SUS de **58.5 / 100**. De acuerdo con la escala lingüística convencional, este resultado se sitúa en la categoría de usabilidad **"Marginal-Baja" / "Pobre"** (por debajo del estándar de aceptación óptimo fijado en 68). Las respuestas reflejan que, aunque el sistema es funcional, los formularios de entrada de datos y la navegación de reservas presentan barreras cognitivas que confunden o ralentizan al usuario.
 
 ---
 
