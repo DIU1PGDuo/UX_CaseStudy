@@ -68,4 +68,4 @@ Se aplicó la metodología biométrica de seguimiento ocular (*Eye Tracking*) me
 ### 5.f Usability Report de B
 Se ha elaborado un informe de usabilidad completo y detallado para el Caso B, el cual consolida los hallazgos de la auditoría técnica automatizada de rendimiento y accesibilidad con Lighthouse (donde obtuvieron una puntuación de 100/100), el análisis biométrico de los mapas de calor y las conclusiones cuantitativas de la escala SUS.
 
-* El documento de la auditoría se encuentra publicado en el repositorio de forma pública bajo la nomenclatura oficial: [Ver Usability Report del Caso B (Rakuin Ramen)](./P4/P4_UsabReport_RakuinRamen_doneby_DIU2_EA.md)
+* El documento de la auditoría se encuentra publicado en el repositorio de forma pública bajo la nomenclatura oficial:[Usability Report del Caso B - DIU.EA / Rakuin Ramen](REPORT_DIU.EA_doneBy_DIU1.PGduo.md)
