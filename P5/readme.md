@@ -32,6 +32,8 @@ Las pruebas de usabilidad se planificaron mediante sesiones moderadas (con una d
 * **Tarea 1 (Navegación e Inclusión):** "Accede a la sección de la carta y localiza de forma rápida un plato principal que sea apto para personas veganas o celíacas utilizando el sistema de filtrado disponible".
 * **Tarea 2 (Conversión final):** "Inicia el flujo de reserva online y formaliza una mesa para dos personas en el establecimiento para este próximo sábado a las 21:00h".
 
+Tras completar las tareas guiadas, se permitió también un breve periodo de navegación libre para observar recorridos espontáneos, dudas y elementos que llamaran la atención de los usuarios sin instrucciones directas.
+
 ---
 
 ### 5.c Cuestionario SUS
