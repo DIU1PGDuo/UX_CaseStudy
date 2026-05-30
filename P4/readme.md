@@ -30,6 +30,6 @@ El prototipo mantiene la lógica del sistema visual desarrollado en la Práctica
 
 ## Briefing y valoración
 
-Figma Make ha permitido generar una base funcional del prototipo de forma rápida, aunque el resultado requirió ajustes mediante prompts para acercarse al diseño original. La práctica ha servido para comprobar cómo un mockup Hi-Fi puede transformarse en una experiencia web interactiva y evaluable.
+Gracias a Figma Make hemos podido generar una base funcional del prototipo de forma rápida, aunque el resultado requirió ajustes mediante prompts para acercarse al diseño original. La práctica ha servido para comprobar cómo un mockup Hi-Fi puede transformarse en una experiencia web interactiva y evaluable.
 
 Como mejora futura, sería necesario desarrollar una versión técnica más completa si el proyecto avanzara hacia producción, pero para esta fase el prototipo publicado permite validar navegación, estructura visual e interacción básica.
