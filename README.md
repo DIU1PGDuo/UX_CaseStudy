@@ -637,13 +637,15 @@ Las pruebas de usabilidad se planificaron mediante sesiones, de una duración ap
 * 
 * **Tarea 2 (Conversión final):** "Inicia el flujo de reserva online y formaliza una mesa para dos personas en el establecimiento para este próximo sábado a las 21:00h".
 
+Tras completar las tareas guiadas, se permitió también un breve periodo de navegación libre para observar recorridos espontáneos, dudas y elementos que llamaran la atención de los usuarios sin instrucciones directas.
+
 ---
 
 ### 5.c Cuestionario SUS
 
 Inmediatamente después de completar las tareas de interacción, cada participante rellenó de forma individual el cuestionario estandarizado de la Escala de Usabilidad del Sistema (SUS) integrado en la herramienta Tally.so. Los datos se procesaron a través de herramientas de análisis para obtener la puntuación final sobre 100.
 
-* **Valoración e interpretación de resultados:** El **Caso B (Rakuin Ramen)** obtuvo una puntuación media SUS de **58.5 / 100**.
+* **Valoración e interpretación de resultados:** El **Caso B (DIU.EA / Rakuin Ramen)** obtuvo una puntuación media SUS de **58.5 / 100**.
 
 Este resultado, sitúa en la categoría de usabilidad Marginal-Baja, es decir, por debajo del estándar de aceptación óptimo fijado en 68. Las respuestas reflejan que, aunque el sistema es funcional, los formularios de entrada de datos y la navegación de reservas presentan barreras cognitivas que confunden o ralentizan al usuario.
 
