@@ -1,69 +1,35 @@
-# DIU - Practica 4, entregables
+# DIU - Práctica 4, entregables
 
-[Asignacion_ABtesting](https://github.com/mgea/DIU/blob/master/P4/Asignacion_ABtesting.pdf)
+## De Figma a prototipo web interactivo
 
-- Users. Elección y características de los usuarios reclutados
-- Diseño de las pruebas
-- Realización del Cuestionario SUS para usuarios y casos A y B.
-- Tabla A/B Testing con resultados para A y B
-- Eye Tracking para B
-- Usability Report del Caso B, con toda la información recabada del caso B
+En esta práctica se ha convertido el diseño Hi-Fi desarrollado en Figma en una primera versión web interactiva del proyecto **RamenFlow - Anime Ramen Redesign**.
 
-Se dispone del Template de usability.gob (https://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html) 
-- Conclusiones
+Para ello se ha utilizado **Figma Make**, una de las alternativas planteadas para el paso de diseño a prototipo web. Esta opción permitió transformar los mockups Hi-Fi en una aplicación navegable sin desarrollar manualmente una versión completa en React.
 
-### 4.a Reclutamiento de usuarios
-El proceso de evaluación se ha basado en un estudio entre-sujetos (*Between-Subjects Study*) con una muestra total de 10 participantes independientes, distribuidos de manera equitativa: 5 usuarios asignados para evaluar nuestra propuesta (Caso A) y 5 usuarios para evaluar la propuesta de los compañeros (Caso B - Rakuin Ramen).
+## Contenido producido en la parte de desarrollo
 
-A continuación, se detalla la tabla anonimizada con los perfiles reales que evaluaron el **Caso B**:
+Como resultado de la conversión de Figma a una aplicación web, se han generado dos prototipos interactivos:
 
-| ID | Sexo / Edad | Ocupación | Nivel Competencia Digital | Experiencia Previa | Plataforma |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| P06 | F / 24 | Estudiante | Básico | Ninguna | Web / Móvil |
-| P07 | F / 26 | Empleada | Normal | Mínima | Web / Móvil |
-| P08 | M / 24 | Estudiante | Fuerte | Básica | Web |
-| P09 | M / 51 | Empleado | Ninguno | Básico | Web |
-| P10 | F / 31 | Desempleada | Básico | Ninguna | Web |
+- [Versión desktop del prototipo](https://hide-eject-71993137.figma.site)
+- [Versión móvil del prototipo](https://whoop-earth-04195838.figma.site)
 
----
+Estos prototipos transforman los mockups Hi-Fi diseñados en Figma en una aplicación web navegable. Incluyen navegación entre pantallas, carta de productos, flujo de reserva, pantalla de confirmación e interacción básica de carrito/pedido.
 
-### 4.b Diseño de las pruebas
-Las pruebas de usabilidad se planificaron mediante sesiones moderadas (con una duración aproximada de 5 a 10 minutos por participante). Se definieron dos tareas o misiones críticas equivalentes para ambos prototipos con el fin de evaluar los flujos de interacción clave y comprobar la efectividad del diseño:
-* **Tarea 1 (Navegación e Inclusión):** "Accede a la sección de la carta y localiza de forma rápida un plato principal que sea apto para personas veganas o celíacas utilizando el sistema de filtrado disponible".
-* **Tarea 2 (Conversión final):** "Inicia el flujo de reserva online y formaliza una mesa para dos personas en el establecimiento para este próximo sábado a las 21:00h".
+## Componentes e interacción
 
----
+El prototipo mantiene la lógica del sistema visual desarrollado en la Práctica 3 mediante Atomic Design. Se trasladan al prototipo elementos como:
 
-### 4.c Cuestionario SUS
-Inmediatamente después de completar las tareas de interacción, cada participante rellenó de forma individual el cuestionario estandarizado de la Escala de Usabilidad del Sistema (SUS) integrado en la herramienta Tally.so. Los datos brutos se procesaron a través de herramientas de análisis multivariable para obtener la puntuación final sobre 100.
+- Botones principales y secundarios.
+- Navegación entre secciones.
+- Tarjetas de producto.
+- Buscador.
+- Filtros de carta.
+- Formulario de reserva.
+- Pantalla de confirmación.
+- Elementos básicos de carrito/pedido.
 
-* **Valoración e interpretación de resultados:** El **Caso B (Rakuin Ramen)** obtuvo una puntuación media SUS de **58.5 / 100**. De acuerdo con la escala lingüística convencional, este resultado se sitúa en la categoría de usabilidad **"Marginal-Baja" / "Pobre"** (por debajo del estándar de aceptación óptimo fijado en 68). Las respuestas reflejan que, aunque el sistema es funcional, los formularios de entrada de datos y la navegación de reservas presentan barreras cognitivas que confunden o ralentizan al usuario.
+## Briefing y valoración
 
----
+Figma Make ha permitido generar una base funcional del prototipo de forma rápida, aunque el resultado requirió ajustes mediante prompts para acercarse al diseño original. La práctica ha servido para comprobar cómo un mockup Hi-Fi puede transformarse en una experiencia web interactiva y evaluable.
 
-### 4.d A/B Testing
-Tras recopilar y contrastar las métricas de percepción subjetiva obtenidas en el experimento de testeo A/B, se presenta la siguiente comparativa directa:
-* **Diseño A (AnimeRamen):** Obtuvo una puntuación media SUS de **47.5 / 100** (Usabilidad deficiente / Inaceptable).
-* **Diseño B (Rakuin Ramen):** Obtuvo una puntuación media SUS de **58.5 / 100** (Usabilidad marginal-baja).
-
-**Conclusión del análisis comparativo:** El **Caso B** demuestra ser cuantitativamente más usable que el Caso A, superándolo por un margen de 11 puntos. No obstante, ambas soluciones se sitúan por debajo del umbral de aceptación recomendado de 68, lo que evidencia una necesidad crítica de rediseñar y simplificar los flujos de interacción de reserva y potenciar las llamadas a la acción (CTA) en ambos proyectos.
-
----
-
-### 4.e Aplicación del método Eye Tracking
-Se aplicó la metodología biométrica de seguimiento ocular (*Eye Tracking*) mediante la herramienta *Gaze Recorder* para analizar el recorrido visual y la jerarquía de contenidos exclusivamente en el **Caso B**.
-
-* **Análisis de la página de Inicio:** El mapa de calor muestra una intensa fijación visual (manchas rojas y cálidas) concentrada casi en su totalidad en el carrusel de fotografías de platos de ramen situado en el lateral derecho de la pantalla. En contraste, el bloque de texto descriptivo de la izquierda y el botón de llamada a la acción principal (*CTA*) "Contempla Nuestro Menú" sufren del fenómeno de "ceguera visual", recibiendo un impacto atencional sumamente bajo y disperso debido al excesivo peso de las imágenes decorativas.
-
-![Mapa de calor - Inicio](img/VisionCalorInicio.png)
-
-* **Análisis de la Carta:** En la pantalla del menú, la atención se monopoliza por completo en la cuadrícula central con las imágenes de la comida. El panel lateral izquierdo destinado a los filtros por categorías y atributos dietéticos (alérgenos, opción vegana, etc.) es ignorado visualmente de forma absoluta por los usuarios (*tunnel vision*), lo que justifica las fricciones y dificultades experimentadas por la muestra para completar con éxito la Tarea 1.
-
-![Mapa de calor - Carta](img/VisionCalorCarta.png)
-
----
-
-### 4.f Usability Report de B
-Se ha elaborado un informe de usabilidad completo y detallado para el Caso B, el cual consolida los hallazgos de la auditoría técnica automatizada de rendimiento y accesibilidad con Lighthouse (donde obtuvieron una puntuación de 100/100), el análisis biométrico de los mapas de calor y las conclusiones cuantitativas de la escala SUS.
-
-* El documento de la auditoría se encuentra publicado en el repositorio de forma pública bajo la nomenclatura oficial: [Ver Usability Report del Caso B (Rakuin Ramen)](./P4/P4_UsabReport_RakuinRamen_doneby_DIU2_EA.md)
+Como mejora futura, sería necesario desarrollar una versión técnica más completa si el proyecto avanzara hacia producción, pero para esta fase el prototipo publicado permite validar navegación, estructura visual e interacción básica.
