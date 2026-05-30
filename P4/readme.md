@@ -4,7 +4,7 @@
 
 En esta práctica se ha convertido el diseño Hi-Fi desarrollado en Figma en una primera versión web interactiva del proyecto **RamenFlow - Anime Ramen Redesign**.
 
-Para ello se ha utilizado **Figma Make**, una de las alternativas planteadas para el paso de diseño a prototipo web. Esta opción permitió transformar los mockups Hi-Fi en una aplicación navegable sin desarrollar manualmente una versión completa en React.
+Para ello se ha utilizado **Figma Make**, una de las alternativas planteadas para el paso de diseño a prototipo web. Esta opción permitió transformar los mockups Hi-Fi en una aplicación navegable sin necesidad de desarrollar manualmente una versión completa en React para esta fase.
 
 ## Contenido producido en la parte de desarrollo
 
