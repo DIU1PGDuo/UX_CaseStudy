@@ -668,8 +668,11 @@ Se ha elaborado un informe de usabilidad completo y detallado para el Caso B, el
 ## Conclusiones finales & Valoración de las prácticas
 
 
->>> Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos. ¿Qué se puede mejorar? Recuerda que este tipo de texto se debe eliminar del template que se os proporciona 
+A lo largo de las prácticas, hemos seguido un proceso de diseño centrado en el usuario, desde el análisis inicial de la web de Anime Ramen hasta la definición de una propuesta de rediseño, la creación de los wireframes, el desarrollo de un sistema visual, la construcción de mockups Hi-Fi y la generación de un prototipo web interactivo.
 
+Gracias a este proceso, hemos podido transformar los principales problemas detectados en la web original, como la carga visual, la dificultad para consultar la carta, la falta de claridad en algunas acciones y la mejora del flujo de reserva, en decisiones de diseño más concretas y justificadas. La propuesta final mantiene la identidad temática del restaurante, pero organiza mejor la información y refuerza las acciones principales del usuario.
+
+Como valoración final, consideramos que el proyecto ha sido realmente útil para conocer y aprender sobre UX, arquitectura de información, diseño, prototipado y evaluación, así como el uso de herramientas tan útiles como lo ha sido Figma. Entre los aspectos mejorables de nuestra práctica, consideraríamos necesario seguir refinando la implementación responsive, validar el prototipo con una muestra mayor de usuarios y desarrollar una versión técnica más completa si el proyecto avanzara hacia producción.
 
 
 
