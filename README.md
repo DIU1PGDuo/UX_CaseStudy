@@ -598,7 +598,7 @@ Como valoración final, el resultado cumple el objetivo de la práctica: transfo
 
 
 
-## Paso 5. Exportación y Documentación
+## Paso 5. Evaluación de usabilidad y accesibilidad
 
 ### 5.a Reclutamiento de usuarios
 El proceso de evaluación se ha basado en un estudio entre-sujetos (*Between-Subjects Study*) con una muestra total de 10 participantes independientes, distribuidos de manera equitativa: 5 usuarios asignados para evaluar nuestra propuesta (Caso A) y 5 usuarios para evaluar la propuesta de los compañeros (Caso B - Rakuin Ramen).
