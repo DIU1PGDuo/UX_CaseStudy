@@ -2,7 +2,7 @@
 
 ## 1. Resumen Ejecutivo (Executive Summary)
 
-Este informe documenta la evaluación de usabilidad del prototipo "Rakuin Ramen" (Caso B), un concepto de restaurante japonés basado en la estética de anime Seinen y centrado en la accesibilidad de la interfaz. El objetivo principal de la investigación fue validar su hipótesis de diseño: comprobar si un sistema con filtros de alérgenos claros y una estructura inclusiva mejora la experiencia del usuario general, incluyendo a aquellos con necesidades específicas. A pesar de lograr una puntuación perfecta en accesibilidad técnica automatizada, los resultados empíricos de usabilidad revelan que los flujos de interacción (como la localización de filtros y el procesamiento de la reserva) generan confusión cognitiva, dejando un amplio margen de mejora funcional en la jerarquía visual.
+En este informe, se ha llevado a cabo la evaluación de usabilidad del prototipo "Rakuin Ramen" (Caso B), un restaurante japonés basado en la estética de anime Seinen y centrado en la accesibilidad de la interfaz. El objetivo principal de la investigación ha sido validar su hipótesis de diseño, es decir, comprobar si un sistema con filtros de alérgenos claros y una estructura inclusiva mejora la experiencia del usuario general, incluyendo a aquellos con necesidades específicas. A pesar de lograr una puntuación perfecta en accesibilidad técnica automatizada, los resultados empíricos de usabilidad revelan que los flujos de interacción (como la localización de filtros y el procesamiento de la reserva) generan confusión cognitiva, dejando un amplio margen de mejora funcional en la jerarquía visual.
 
 
 ## 2. Metodología y Reclutamiento
@@ -10,7 +10,9 @@ Este informe documenta la evaluación de usabilidad del prototipo "Rakuin Ramen"
 El estudio se llevó a cabo mediante un diseño A/B testing inter-sujetos con una muestra total de 10 participantes, de los cuales 5 evaluaron exclusivamente el prototipo interactivo de DIU.EA / Rakuin Ramen (Caso B)
 
 * **Muestra Caso B:** 5 usuarios (60% femenino, 40% masculino).
+  
 * **Perfil Demográfico:** Media de edad de 31.2 años, abarcando desde perfiles jóvenes con alta soltura tecnológica hasta adultos de más de 50 años con conocimientos digitales nulos o básicos, coincidiendo con el espectro de usuarios potenciales del restaurante.
+  
 * **Entorno de prueba:** Pruebas de navegación moderadas utilizando ordenadores portátiles y dispositivos móviles. Se solicitó a los usuarios interactuar con la interfaz para buscar opciones aptas para alérgenos y formalizar una reserva online.
 
 
@@ -19,6 +21,7 @@ El estudio se llevó a cabo mediante un diseño A/B testing inter-sujetos con un
 Tras procesar las respuestas de la Escala Likert de los 5 participantes del Caso B mediante el algoritmo estándar SUS, los resultados son los siguientes:
 
 * **Puntuación media SUS (Caso B):** **58.5 / 100**
+  
 * **Análisis:** En la escala lingüística de usabilidad, un 58.5 se categoriza como **"Marginal" a "Pobre"** (por debajo del promedio aceptable global de 68). Esto indica que, aunque el sistema es estructuralmente correcto y accesible, la experiencia de uso real presenta fricciones considerables. El sistema requiere optimización y simplificación en sus flujos de conversión antes de considerarse verdaderamente intuitivo para el público general.
 
 
